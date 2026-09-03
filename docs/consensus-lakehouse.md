@@ -94,3 +94,14 @@ Pass 5 may write Type 01 remainder + lakehouse leaves in `docs/tasks/`,
 `signed_off` false until Execute Gold. Do not edit frozen `legacy/`,
 `contracts/`, `gen/`, or `infra/`. Do not author Types `02`–`05`. Do
 not author Dagster.
+
+## Status after the sign (not part of the signed text)
+
+- 2026-08-26/27: Type 01 dlt → Bronze → Silver → Gold → golden-match
+  authored and run; `modern/dbt/` and `modern/lakehouse/dlt/` exist.
+- 2026-08-27 (Night 4): Dagster lineage authored as
+  `modern/orchestration/definitions.py` (ADR 0012), seam 3 unparked.
+  `02`–`05` lakehouse leaves written in `docs/tasks/`, no code, unsigned.
+- 2026-08-28 (Night 5): Type 06 rode the same legs and stalled at
+  golden-match — `CONFIRMED_LEGACY_DEFECT` ([`consensus-type-06.md`](consensus-type-06.md)).
+  This sign was not recut.

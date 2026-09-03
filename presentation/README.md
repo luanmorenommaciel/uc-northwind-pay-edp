@@ -12,17 +12,17 @@ Two shapes live here:
 
 | Shape | How it plays | Files |
 |---|---|---|
-| **Follow-along deck** | Snap slides, HUD, Hands-On boards. One Night. | `d1-archaeologist.html`, `d2-translator.html`, `d3-constructor.html`, `d4-orchestrator.html` |
-| **Method / reference** | Manual or workshop. Teach the kit, not the clock. | `seamwise.html`, `task-spec.html`, `cvg-…`, `asd-…`, `boot-…`, `wrkp-…`, `yt-…` |
+| **Follow-along deck** | Snap slides, HUD, Hands-On boards. One Night. | `d1-archaeologist.html`, `d2-translator.html`, `d3-constructor.html`, `d4-orchestrator.html`, `d5-dark-factory.html` |
+| **Method / reference** | Manual or workshop. Teach the kit, not the clock. | `asd-…`, `boot-…`, `wrkp-…`, `yt-…` — the three method kits (Converge, SeamWise, Task-Spec) moved to [`ebooks/`](../ebooks/README.md) |
 
 If a night’s HTML and [`run/dN/`](../run/) disagree, **agenda wins on
 scope**; **run wins on the clock**. Identify Night 2–4 slides by
-**`data-act-name`**, not a HUD integer. Type `06` is not in `spec/` until
-Friday.
+**`data-act-name`**, not a HUD integer. Type `06` was not in `spec/` until
+Friday (it docked 2026-08-28).
 
-**Live this week:** Night 1 (44), Night 2 (34), Night 3 (Constructor +
-[`run/d3/`](../run/d3/README.md)). Night 4 live ([`d4-orchestrator.html`](d4-orchestrator.html) · [`run/d4/`](../run/d4/README.md)
-— 28 slides, 9 beats, trail then factory). Identify by `data-act-name`. Night 5 HTML is **built** — brief [`agenda/d5.md`](../agenda/d5.md) · staff [`run/d5/`](../run/d5/README.md) (28 slides, pre-flight `00` + 6 demo beats). Do not clone `wrkp-dark-factory.html` as the HUD.
+**All five Nights ran:** Night 1 (44 slides), Night 2 (34), Night 3 (37 ·
+[`run/d3/`](../run/d3/README.md)), Night 4 ([`d4-orchestrator.html`](d4-orchestrator.html) · [`run/d4/`](../run/d4/README.md)
+— 28 slides, 9 beats, trail then factory), Night 5 ([`d5-dark-factory.html`](d5-dark-factory.html) · brief [`agenda/d5.md`](../agenda/d5.md) · staff [`run/d5/`](../run/d5/README.md) — 28 slides, pre-flight `00` + 6 demo beats). Identify by `data-act-name`. Do not clone `wrkp-dark-factory.html` as the HUD.
 
 ---
 
@@ -32,12 +32,12 @@ Friday.
 |---|---|---|---|
 | [`d1-archaeologist.html`](d1-archaeologist.html) | Night 1 deck | Onboard + Archaeologist. **44 slides**, six blocks, HUD `01`–`44`. Pass **0–1** only. **Live.** | Night 1. Staff: [`run/d1/`](../run/d1/README.md) |
 | [`d2-translator.html`](d2-translator.html) | Night 2 deck | Translator · java2py. **34 slides**, six blocks, five Hands-On boards (slices a–e). Identify by `data-act-name`. **Live.** | Night 2. Staff: [`run/d2/`](../run/d2/README.md) |
-| [`d3-constructor.html`](d3-constructor.html) | Night 3 deck | Constructor · DE + analytics. Six blocks, four Hands-On boards (A–D). Identify by `data-act-name`. **Live.** Lockstep with `run/d3/`. | Night 3. Staff: [`run/d3/`](../run/d3/README.md) |
+| [`d3-constructor.html`](d3-constructor.html) | Night 3 deck | Constructor · DE + analytics. **37 slides**, six blocks, four Hands-On boards (A–D). Identify by `data-act-name`. **Live.** Lockstep with `run/d3/`. | Night 3. Staff: [`run/d3/`](../run/d3/README.md) |
 | [`d4-orchestrator.html`](d4-orchestrator.html) | Night 4 deck | Orchestrator. **28 slides**, six blocks. Identify by `data-act-name`. Lockstep with `run/d4/`. | Night 4. Staff: [`run/d4/`](../run/d4/README.md) |
-| [`d5-dark-factory.html`](d5-dark-factory.html) | Night 5 deck | Dark Factory. **28 slides**, six blocks, boards A–E + Flywheel. Identify by `data-act-name`. Lockstep with `run/d5/`. Brief [`agenda/d5.md`](../agenda/d5.md) | Night 5. Staff: [`run/d5/`](../run/d5/README.md). Do not clone `wrkp-dark-factory.html` |
-| [`seamwise.html`](seamwise.html) | Method kit | SeamWise internals. **Leave · SeamWise** parks here (Nights 2–4), then **returns** to the numbered beat | Pass 3 kit. Not the Night clock |
-| [`task-spec.html`](task-spec.html) | Method kit | Task-Spec internals. Dig **Show**, then return (Night 2: Execute 11 · Night 3: 09 · Night 4: 03–04) | Pass 5 kit. Mesh is **not** inside it |
-| [`cvg-aut-systems-spine-steps.html`](cvg-aut-systems-spine-steps.html) | Method manual | Converge spine — nine passes, two phases, one human barrier. **36 slides**, print-page layout. v7 · Converge 0.2.0 | When the room needs the kit, not the Night. Papers: [`docs/`](../docs/README.md) |
+| [`d5-dark-factory.html`](d5-dark-factory.html) | Night 5 deck | Dark Factory. **28 slides**, six blocks, boards A–E + Flywheel. Identify by `data-act-name`. Lockstep with `run/d5/`. Brief [`agenda/d5.md`](../agenda/d5.md). **Live.** | Night 5. Staff: [`run/d5/`](../run/d5/README.md). Do not clone `wrkp-dark-factory.html` |
+| [`../ebooks/ebook-seamwise.pdf`](../ebooks/ebook-seamwise.pdf) | Method kit | SeamWise internals. **Leave · SeamWise** parks here (Nights 2–4), then **returns** to the numbered beat. Was `seamwise.html` here until `f06e5c5` | Pass 3 kit. Not the Night clock |
+| [`../ebooks/brf-task-spec.md`](../ebooks/brf-task-spec.md) | Method kit | Task-Spec internals. Dig **Show**, then return (Night 2: Execute 11 · Night 3: 09 · Night 4: 03–04). Was `task-spec.html` here; the rendered PDF is gitignored | Pass 5 kit. Mesh is **not** inside it |
+| [`../ebooks/ebook-converge.pdf`](../ebooks/ebook-converge.pdf) | Method manual | Converge spine — nine passes, two phases, one human barrier. Was `cvg-aut-systems-spine-steps.html` here | When the room needs the kit, not the Night. Papers: [`docs/`](../docs/README.md) |
 | [`asd-agentic-loop.html`](asd-agentic-loop.html) | Method manual | ASD — the Agentic Loop. Scroll document, **12 sections** (not a HUD deck) | Doctrine |
 | [`boot-uc-northwind-pay-edp-oss.html`](boot-uc-northwind-pay-edp-oss.html) | Method manual | Bootcamp reference — case framing, Shapiro ladder, the week arc. **19 slides** | Framing. Not the follow-along |
 | [`wrkp-dark-factory.html`](wrkp-dark-factory.html) | Workshop | Dark Factory Operation. **83 slides**. Broader workshop, not Night 5’s sealed Type `06` | Context / seed |
@@ -48,7 +48,7 @@ One Night — no morning / afternoon split.
 **Week story on these HUDs:** Night 1 understands (0–1). Nights 2–3 are
 **Type 01 steel threads** (SWE ingest → landing, then DE landing → Gold).
 Night 4 clock teaches **Context · Eval · Loop**, **walks the Type 01 trail**,
-then generates remaining SWE+DE and cranks (Mesh + Pass 6–8, Linear), then Type `05` unattended. Stage live.
+then generates remaining SWE+DE and cranks (Mesh + Pass 6–8, Linear), then Type `05` unattended. 28 slides, live.
 
 ---
 
@@ -69,7 +69,7 @@ HUD pill is the block name. HUD `01`–`44`.
 Six Hands-On boards only (slices A–F). Brain: unzip
 [`brain/notebooklm/northwind-pay-brain.zip`](../brain/notebooklm/northwind-pay-brain.zip)
 and upload the **nine** `.md` files. Days 2–4 **query** that notebook. Type `06`
-is not in it.
+is deliberately not in it.
 
 Staff: [`run/d1/README.md`](../run/d1/README.md).
 
@@ -84,7 +84,7 @@ Identify by `data-act-name`.
 | Stage | Recap Shows, Execute 01–02, then lecture (SWE, java2py, ingest) |
 | Craft | Harness Shows, Execute 03–04 |
 | Floor | Query Shows, Execute 05–06 |
-| Dig | Converge Show, Leave · SeamWise (`seamwise.html`), Execute 07–10, Task-Spec Show (`task-spec.html`), Execute 11, Task-Mesh Show |
+| Dig | Converge Show, Leave · SeamWise (`ebooks/ebook-seamwise.pdf`), Execute 07–10, Task-Spec Show (`ebooks/brf-task-spec.md`), Execute 11, Task-Mesh Show |
 | Debrief | In hand, Research 12, Next, silent Tomorrow |
 
 Five Hands-On boards (slices a–e). Research is Close, not a sixth board.
@@ -93,7 +93,7 @@ Staff: [`run/d2/README.md`](../run/d2/README.md).
 
 ## Night 3 · Constructor
 
-[`d3-constructor.html`](d3-constructor.html) — six blocks, four Hands-On
+[`d3-constructor.html`](d3-constructor.html) — **37 slides, six blocks**, four Hands-On
 boards (A–D). Identify by `data-act-name`. Extra Stage talk slides (Lakehouse,
 Agentic field) are talk only — they have **no** `run/d3/` file. **SA plan · mermaids**
 is Stage Show; the room **types** it as `run/d3/04` on Execute 02–04 after J5 abstains.
@@ -141,9 +141,9 @@ paste Pass 3 or Pass 5 execute from inside the kit.
 
 | Need | Open |
 |---|---|
-| What is Converge / ASD / the boot arc | this folder (`cvg-…`, `asd-…`, `boot-…`) |
-| SeamWise internals | [`seamwise.html`](seamwise.html) |
-| Task-Spec internals | [`task-spec.html`](task-spec.html) |
+| What is Converge / ASD / the boot arc | [`ebooks/ebook-converge.pdf`](../ebooks/ebook-converge.pdf); this folder (`asd-…`, `boot-…`) |
+| SeamWise internals | [`ebooks/ebook-seamwise.pdf`](../ebooks/ebook-seamwise.pdf) |
+| Task-Spec internals | [`ebooks/brf-task-spec.md`](../ebooks/brf-task-spec.md) |
 | BRD, tech-spec, ADRs, seams, the sign, Task-Specs | [`docs/`](../docs/README.md) |
 | Independence, type map, golden-match | [`plans/modern.md`](../plans/modern.md) |
 
@@ -164,8 +164,9 @@ Dots on the right edge are clickable. The bar across the top is scroll
 progress. Slides snap, so a trackpad flick moves exactly one.
 
 `asd-agentic-loop.html` is a **scroll page** (anchor nav, Print / save as
-PDF). `boot-…` and `cvg-…` are **print-page** slides (fixed 1000×1414),
-not the HUD snap deck.
+PDF). `boot-…` is a **print-page** deck (fixed 1000×1414), not the HUD
+snap deck; the Converge print deck that used to sit beside it is now
+[`ebooks/ebook-converge.pdf`](../ebooks/ebook-converge.pdf).
 
 ---
 

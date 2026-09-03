@@ -4,7 +4,7 @@ This folder is a **slim crawl**, not a port of the OntoLayer product.
 
 | | |
 |---|---|
-| Upstream | `/Users/luanmorenomaciel/GitHub/ontolayer` (sibling repo) |
+| Upstream | `/Users/luanmoreno/GitHub/ontolayer` (sibling repo) |
 | Commit | `189b245efe3301c09727529eca47d8094b313d72` (`189b245 feat: graph view, postgres env stack, and product backlog`) |
 | Connector kept | `src/connectors/postgres.py` — tables, columns, FKs, views, COMMENT ON |
 | Added here | `ProcedureEntity` + `_extract_routines()` against `pg_proc` / `pg_get_functiondef` / `pg_depend` |

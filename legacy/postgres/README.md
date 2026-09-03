@@ -95,6 +95,10 @@ ALTER TABLE control.batches ADD CONSTRAINT batches_file_type_check
     CHECK (file_type IN ('01','02','03','04','05'));
 ```
 
+`011_type06_merchant_chargeback.sql` (Night 5) widens that same CHECK to
+include `'06'` and adds the Type `06` tables — the one migration that is
+not part of the 2026-07-24 five-type proof.
+
 Everything before `003` is generically named because it was universal by
 accident. Everything after is `NNN_typeNN_*`. The naming asymmetry is the
 fossil record, not sloppiness.
@@ -112,7 +116,7 @@ belong to every type:
 control.register_batch           ┐
 control.register_file            │
 control.register_load            │  the control plane —
-control.register_reject          │  called by all five loaders
+control.register_reject          │  called by all six loaders
 control.mark_batch_committed     │  via loader_common.py
 control.mark_batch_succeeded     ┘
 legacy.apply_card_settlement_batch               ┐ genuinely
@@ -141,7 +145,8 @@ overlap:
 
 ```text
 init/         000_create_app_role.sh   003_grants.sh
-migrations/   001_…  002_…  003_multitype_control_plane.sql  …  010_…
+migrations/   001_…  003_multitype_control_plane.sql  …  010_…  011_type06_merchant_chargeback.sql
+procedures/   002_type01_procedures.sql
 ```
 
 `compose.yaml` mounts **four** files into `docker-entrypoint-initdb.d`:

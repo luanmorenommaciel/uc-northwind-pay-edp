@@ -1,0 +1,8663 @@
+WEBVTT
+
+1
+00:00:05.941 --> 00:00:10.941
+Desde ontem, o que não ficou claro até o momento.
+
+
+2
+00:00:10.941 --> 00:00:12.941
+Para vocês.
+
+
+3
+00:00:12.941 --> 00:00:16.941
+Me falem falar que é tudo. Não tá? Por favor.
+
+
+4
+00:00:16.941 --> 00:00:22.941
+Mas me falem. O que não está claro.
+
+
+5
+00:00:22.941 --> 00:00:26.941
+Isso é importante, porque eu quero começar uma nova perspectiva hoje.
+
+
+6
+00:00:26.941 --> 00:00:27.941
+Então queries.
+
+
+7
+00:00:27.941 --> 00:00:33.941
+Posso, ser a cobaia, né.
+
+
+8
+00:00:33.941 --> 00:00:34.941
+Pode. Claro. Fique à vontade.
+
+
+9
+00:00:34.941 --> 00:00:40.941
+O processo para mim todo, ficou claro tá luan o processo para mim ficou, claro assim.
+
+
+10
+00:00:40.941 --> 00:00:44.941
+Quando, eu pego e.
+
+
+11
+00:00:44.941 --> 00:00:51.941
+Que o jogo, converge, contra uma especificação se ele tem um contexto do meu repositório.
+
+
+12
+00:00:51.941 --> 00:01:00.941
+Ele vai fazer, ali vai entender o que eu tenho contra o que ele vai implementar e se eu consigo fazer aquilo.
+
+
+13
+00:01:00.941 --> 00:01:10.941
+Por trás ali ele vai dividir em contratos ali swim lanes vai usar o tech pack ali o sim. Wise e isso ficou claro agora o que eu não entendi é assim tipo assim.
+
+
+14
+00:01:10.941 --> 00:01:18.941
+É um problema que eu tenho na minha, realidade o cliente não sabe. Especificar bem então ele manda uma, especificação alto nível.
+
+
+15
+00:01:18.941 --> 00:01:29.941
+E aí, eu pego. Ali e jogo contra o meu repositório cara eu tenho como cercar, ele mais disso eu tenho que, dar mais insumo para ele, para ele, conseguir, ter mais direção.
+
+
+16
+00:01:29.941 --> 00:01:30.941
+Sabe.
+
+
+17
+00:01:30.941 --> 00:01:35.941
+Me dá um exemplo.
+
+
+18
+00:01:35.941 --> 00:01:36.941
+Por exemplo eu recebo uma, especificação técnica, você vai ter que fazer uma, integração com arquivos externos para qualificar a nossa base única.
+
+
+19
+00:01:36.941 --> 00:01:43.941
+Tá.
+
+
+20
+00:01:43.941 --> 00:01:48.941
+Essa vai ser a sua fonte você vai ter que pegar da tela tal beleza.
+
+
+21
+00:01:48.941 --> 00:01:49.941
+Eh imagine, que eu não tenho nem nada de, projeto internamente no meu repositório, que faça isso mas eu tenho sparques eu tenho.
+
+
+22
+00:01:49.941 --> 00:01:57.941
+Beleza.
+
+
+23
+00:01:57.941 --> 00:01:59.941
+Pythons eu tenho vários, contextos ali internos.
+
+
+24
+00:01:59.941 --> 00:02:08.941
+Ou, converge a proposta dele nesse caso, é entender o que eu tenho e me propor o que eu posso, adequar, ali dentro para fazer ou, eu estou viajando cara não não é isso flávio você, tem que.
+
+
+25
+00:02:08.941 --> 00:02:12.941
+Não? Boa pergunta. é isso mesmo. é exatamente mais ou menos por aí.
+
+
+26
+00:02:12.941 --> 00:02:13.941
+Tá.
+
+
+27
+00:02:13.941 --> 00:02:16.941
+Eu não creio nada que olha mais para o prisma do cliente, por exemplo.
+
+
+28
+00:02:16.941 --> 00:02:19.941
+Ficar fazendo. Pergunta para ele até.
+
+
+29
+00:02:19.941 --> 00:02:24.941
+Você está satisfeito com o que você vai entregar?
+
+
+30
+00:02:24.941 --> 00:02:26.941
+Ainda não.
+
+
+31
+00:02:26.941 --> 00:02:29.941
+Mas sim, você está certo. Esse é o caminho.
+
+
+32
+00:02:29.941 --> 00:02:30.941
+Beleza obrigado.
+
+
+33
+00:02:30.941 --> 00:02:37.941
+E quando não tem um requisito muito bom. Aí a gente começa. O que eu entendi, tá? Ao longo desse Tempo Trabalhando Com Ia.
+
+
+34
+00:02:37.941 --> 00:02:42.941
+Cara que nada. Que é isso? Que quando o.
+
+
+35
+00:02:42.941 --> 00:02:45.941
+Vocês estão me escutando? Bem.
+
+
+36
+00:02:45.941 --> 00:02:47.941
+So. Só um minutinho. Acho que eu tô com algum problema.
+
+
+37
+00:02:47.941 --> 00:02:50.941
+Ditou mais, a sua câmera você está congelando lá.
+
+
+38
+00:02:50.941 --> 00:03:00.941
+Tá? Só um minuto. Minha internet. Acho que tá ruim.
+
+
+39
+00:03:00.941 --> 00:03:30.941
+Deixa eu ver se auto internet está funcionando. Só um minuto.
+
+
+40
+00:04:08.941 --> 00:04:10.941
+Como está agora? Tá melhor.
+
+
+41
+00:04:10.941 --> 00:04:16.941
+A mesma coisa.
+
+
+42
+00:04:16.941 --> 00:04:22.941
+Vocês me escutam?
+
+
+43
+00:04:22.941 --> 00:04:29.941
+Ouvir você bem sua imagem.
+
+
+44
+00:04:29.941 --> 00:04:36.941
+Se eu desligar o áudio, melhora.
+
+
+45
+00:04:36.941 --> 00:04:37.941
+Me durou.
+
+
+46
+00:04:37.941 --> 00:04:39.941
+Desligou o vídeo na verdade né. Agora seu áudio está perfeita.
+
+
+47
+00:04:39.941 --> 00:04:45.941
+Dada. Perfeito, né? Tá, eu vou desligar o vídeo aqui porque eu tenho três Internet, duas caíram e não estou voltando.
+
+
+48
+00:04:45.941 --> 00:04:47.941
+Então eu vou desligar o vídeo aqui.
+
+
+49
+00:04:47.941 --> 00:04:50.941
+Sem problemas sem problem.
+
+
+50
+00:04:50.941 --> 00:05:10.941
+Para a gente não ter esse problema.
+
+
+51
+00:05:10.941 --> 00:05:14.941
+Vamos lá. Deixa eu compartilhar a tela com vocês aqui.
+
+
+52
+00:05:14.941 --> 00:05:16.941
+A gente começa.
+
+
+53
+00:05:16.941 --> 00:05:21.941
+Pode perguntar. Lucas.
+
+
+54
+00:05:21.941 --> 00:05:22.941
+Boa noite.
+
+
+55
+00:05:22.941 --> 00:05:25.941
+Boa noite luan eu tenho uma dúvida em relação às vezes.
+
+
+56
+00:05:25.941 --> 00:05:34.941
+Por exemplo você tem um projeto para fazer só que você tem muitas alternativas para resolver o problema.
+
+
+57
+00:05:34.941 --> 00:05:47.941
+Eu fiquei na, dúvida se você, sempre desse na, menor granularidade e tenta fazer, mvps diferentes ou, onde no processo você, para, para fazer, esse, mvp.
+
+
+58
+00:05:47.941 --> 00:05:48.941
+Boa pergunta. Sim.
+
+
+59
+00:05:48.941 --> 00:05:50.941
+Para entender qual seria.
+
+
+60
+00:05:50.941 --> 00:05:54.941
+Boa pergunta.
+
+
+61
+00:05:54.941 --> 00:06:02.941
+more killer bunch.
+
+
+62
+00:06:02.941 --> 00:06:06.941
+De voce.
+
+
+63
+00:06:06.941 --> 00:06:11.941
+fascio.
+
+
+64
+00:06:11.941 --> 00:06:19.941
+No regimentara eu gelia.
+
+
+65
+00:06:19.941 --> 00:06:25.941
+EC.
+
+
+66
+00:06:25.941 --> 00:06:37.941
+fefaito.
+
+
+67
+00:06:37.941 --> 00:06:39.941
+Double saw.
+
+
+68
+00:06:39.941 --> 00:06:44.941
+A week potential agua.
+
+
+69
+00:06:44.941 --> 00:06:51.941
+urgesava as mias opsois.
+
+
+70
+00:06:51.941 --> 00:06:58.941
+Kafka, eu se entao…
+
+
+71
+00:06:58.941 --> 00:07:01.941
+E.
+
+
+72
+00:07:01.941 --> 00:07:12.941
+desena.
+
+
+73
+00:07:12.941 --> 00:07:16.941
+Oy, como que eu faco estraban, ella post.
+
+
+74
+00:07:16.941 --> 00:07:21.941
+La vida de um pies nos technologias, la veidade o vono clinti.
+
+
+75
+00:07:21.941 --> 00:07:26.941
+Yo pego todas as espostas que preciso para.
+
+
+76
+00:07:26.941 --> 00:07:35.941
+Nese proceso.
+
+
+77
+00:07:35.941 --> 00:07:36.941
+Sio estresao clinche.
+
+
+78
+00:07:36.941 --> 00:07:38.941
+Compreguntas pechenentes.
+
+
+79
+00:07:38.941 --> 00:07:41.941
+Esoque estraumente fast.
+
+
+80
+00:07:41.941 --> 00:07:48.941
+que.
+
+
+81
+00:07:48.941 --> 00:07:55.941
+Esto eso es decis una veridades domain,
+
+
+82
+00:07:55.941 --> 00:07:58.941
+O cliente nao tem.
+
+
+83
+00:07:58.941 --> 00:08:14.941
+Umaisata?
+
+
+84
+00:08:14.941 --> 00:08:24.941
+Ci.
+
+
+85
+00:08:24.941 --> 00:08:27.941
+Quito.
+
+
+86
+00:08:27.941 --> 00:08:46.941
+You might as well sois. Cave.
+
+
+87
+00:08:46.941 --> 00:08:52.941
+para voce.
+
+
+88
+00:08:52.941 --> 00:08:57.941
+Active Directory.
+
+
+89
+00:08:57.941 --> 00:09:03.941
+Agent se.
+
+
+90
+00:09:03.941 --> 00:09:08.941
+Ice.
+
+
+91
+00:09:08.941 --> 00:09:11.941
+Obviamente.
+
+
+92
+00:09:11.941 --> 00:09:13.941
+T. R.
+
+
+93
+00:09:13.941 --> 00:09:14.941
+I'm cleaner song.
+
+
+94
+00:09:14.941 --> 00:09:39.941
+It's Desi.
+
+
+95
+00:09:39.941 --> 00:09:40.941
+Okay, you see.
+
+
+96
+00:09:40.941 --> 00:09:42.941
+Eu vote. Eu vote.
+
+
+97
+00:09:42.941 --> 00:09:43.941
+Erica, Ukraine
+
+
+98
+00:09:43.941 --> 00:09:56.941
+So, Javotta.
+
+
+99
+00:09:56.941 --> 00:09:58.941
+Wayoj, mais bilis.
+
+
+100
+00:09:58.941 --> 00:10:06.941
+Entao que haunte seio, voce vai drive, entao eso mejo bastant. Estao conceive un problema de definisao de technologia.
+
+
+101
+00:10:06.941 --> 00:10:19.941
+vezes.
+
+
+102
+00:10:19.941 --> 00:10:23.941
+Filament this process of ease.
+
+
+103
+00:10:23.941 --> 00:10:24.941
+Najo to a se, muito munto meso.
+
+
+104
+00:10:24.941 --> 00:10:27.941
+See?
+
+
+105
+00:10:27.941 --> 00:10:46.941
+Mas.
+
+
+106
+00:10:46.941 --> 00:10:51.941
+pasta.
+
+
+107
+00:10:51.941 --> 00:10:52.941
+Entao veg de las tu de busto.
+
+
+108
+00:10:52.941 --> 00:10:58.941
+principalmente.
+
+
+109
+00:10:58.941 --> 00:11:01.941
+Surge forage mode.
+
+
+110
+00:11:01.941 --> 00:11:04.941
+planejana mi opinion.
+
+
+111
+00:11:04.941 --> 00:11:34.941
+Signe ponces.
+
+
+112
+00:12:03.941 --> 00:12:11.941
+Approach my passion.
+
+
+113
+00:12:11.941 --> 00:12:17.941
+You know se un tem se voce estavo oy so se estabo uno canao mais umas tremendo.
+
+
+114
+00:12:17.941 --> 00:12:24.941
+a engineer.
+
+
+115
+00:12:24.941 --> 00:12:29.941
+And we can now kill Namoru Baston.
+
+
+116
+00:12:29.941 --> 00:12:31.941
+Muito.
+
+
+117
+00:12:31.941 --> 00:12:37.941
+Euros um muito es.
+
+
+118
+00:12:37.941 --> 00:12:49.941
+Yeah, he per example, se voceolia.
+
+
+119
+00:12:49.941 --> 00:12:55.941
+Right, you know
+
+
+120
+00:12:55.941 --> 00:12:58.941
+Okay, tell me.
+
+
+121
+00:12:58.941 --> 00:13:08.941
+Sometime.
+
+
+122
+00:13:08.941 --> 00:13:11.941
+It is high resolution
+
+
+123
+00:13:11.941 --> 00:13:41.941
+Winfish acheascosis.
+
+
+124
+00:13:45.941 --> 00:13:49.941
+Huh.
+
+
+125
+00:13:49.941 --> 00:13:57.941
+This is my legend of the no.
+
+
+126
+00:13:57.941 --> 00:13:59.941
+Eu toba vendo oy uma presentaccao.
+
+
+127
+00:13:59.941 --> 00:14:05.941
+que fe lasada pocus dias.
+
+
+128
+00:14:05.941 --> 00:14:09.941
+No SQL free specific account.
+
+
+129
+00:14:09.941 --> 00:14:12.941
+Peter weary.
+
+
+130
+00:14:12.941 --> 00:14:17.941
+than blocked. How to generate mergeable code with a context engine.
+
+
+131
+00:14:17.941 --> 00:14:27.941
+Esi.
+
+
+132
+00:14:27.941 --> 00:14:57.941
+follow the duck factory.
+
+
+133
+00:15:52.941 --> 00:15:56.941
+Why do Agent Wolf?
+
+
+134
+00:15:56.941 --> 00:15:59.941
+Ben. Ta.
+
+
+135
+00:15:59.941 --> 00:16:02.941
+International Super contest.
+
+
+136
+00:16:02.941 --> 00:16:05.941
+It follows the tech factory.
+
+
+137
+00:16:05.941 --> 00:16:10.941
+Ta.
+
+
+138
+00:16:10.941 --> 00:16:13.941
+And they show…
+
+
+139
+00:16:13.941 --> 00:16:35.941
+Yveso con sigo.
+
+
+140
+00:16:35.941 --> 00:16:37.941
+Mei tenas estamiloa.
+
+
+141
+00:16:37.941 --> 00:16:41.941
+de legita.
+
+
+142
+00:16:41.941 --> 00:16:46.941
+Rega.
+
+
+143
+00:16:46.941 --> 00:16:53.941
+Portugal village.
+
+
+144
+00:16:53.941 --> 00:16:59.941
+That's all the footage is just plural como umacht soluzonis infomo AI engineer.
+
+
+145
+00:16:59.941 --> 00:17:02.941
+Tradocao.
+
+
+146
+00:17:02.941 --> 00:17:05.941
+G, Java propaito, na cuatafira.
+
+
+147
+00:17:05.941 --> 00:17:16.941
+Dadas.
+
+
+148
+00:17:16.941 --> 00:17:26.941
+Your origin reve da hora.
+
+
+149
+00:17:26.941 --> 00:17:36.941
+As for factory done.
+
+
+150
+00:17:36.941 --> 00:17:39.941
+effus.
+
+
+151
+00:17:39.941 --> 00:17:43.941
+Eto, porizo qui aide adoquierao convejo fue essone.
+
+
+152
+00:17:43.941 --> 00:17:57.941
+No se horologne de voces.
+
+
+153
+00:17:57.941 --> 00:18:13.941
+Borges, ne.
+
+
+154
+00:18:13.941 --> 00:18:17.941
+Esa constante masse de entradne, uma que o.
+
+
+155
+00:18:17.941 --> 00:18:22.941
+Eto aide voce pegais, e tempo de tare efos equi, da veta de desto.
+
+
+156
+00:18:22.941 --> 00:18:29.941
+Y de comparela em que entarrefas.
+
+
+157
+00:18:29.941 --> 00:18:33.941
+Que elas entram dentro de uma fábrica.
+
+
+158
+00:18:33.941 --> 00:18:36.941
+E elas saem construídas.
+
+
+159
+00:18:36.941 --> 00:18:43.941
+é isso. Tá.
+
+
+160
+00:18:43.941 --> 00:18:47.941
+Então a incepção inicial foi basicamente.
+
+
+161
+00:18:47.941 --> 00:18:51.941
+Desse aglomerado. Aqui tá.
+
+
+162
+00:18:51.941 --> 00:18:54.941
+Tá.
+
+
+163
+00:18:54.941 --> 00:18:58.941
+Transcript muitas vezes. é um resumo. Vozes na cabeça.
+
+
+164
+00:18:58.941 --> 00:19:02.941
+é chat. Slack Slack também é um outro ponto muito bom aqui. Tá.
+
+
+165
+00:19:02.941 --> 00:19:05.941
+Eu também recebo muita coisa no Slack.
+
+
+166
+00:19:05.941 --> 00:19:10.941
+Então eu botei o. Converge justamente para fazer esse processo. Pô, eu tenho uma kill.
+
+
+167
+00:19:10.941 --> 00:19:13.941
+Que está chegando constantemente. Coisas novas, né?
+
+
+168
+00:19:13.941 --> 00:19:19.941
+Daí. Eu tenho o meio que é a fábrica Lights out, que é desligada.
+
+
+169
+00:19:19.941 --> 00:19:26.941
+Então ele faz o building publica, escreve valida. Então ele vai passando para o que a gente chama de Gates de portões.
+
+
+170
+00:19:26.941 --> 00:19:28.941
+Esses portões. Inicialmente.
+
+
+171
+00:19:28.941 --> 00:19:31.941
+Eles são feitos e desenhados por você. O loop.
+
+
+172
+00:19:31.941 --> 00:19:38.941
+Não a máquina no loop. E aí você vai se tirando desse loop de tempos em tempos. Então vamos supor.
+
+
+173
+00:19:38.941 --> 00:19:40.941
+Vou dar um exemplo aqui para vocês.
+
+
+174
+00:19:40.941 --> 00:19:43.941
+Recebi um transcript. Pô extraia.
+
+
+175
+00:19:43.941 --> 00:19:48.941
+Todas. Você estava na reunião. Você estava na reunião. Extraia todos os pontos importantes da reunião.
+
+
+176
+00:19:48.941 --> 00:19:50.941
+Ele extraiu. Você validou? é.
+
+
+177
+00:19:50.941 --> 00:19:57.941
+Fez sentido aqui. Duas, três, quatro, cinco. Cara. Extraiu dez vezes. Você olhou e falou: Pô, é realmente tá extraindo corretamente.
+
+
+178
+00:19:57.941 --> 00:20:00.941
+Minha esquil tá muito boa para extrair isso aqui.
+
+
+179
+00:20:00.941 --> 00:20:04.941
+Você vai criar um portão de validação.
+
+
+180
+00:20:04.941 --> 00:20:07.941
+E vai falar, cara, ou você vai criar um Evol que espera algumas coisas.
+
+
+181
+00:20:07.941 --> 00:20:12.941
+Ou você vai criar uma Llm para julgar aquilo ou alguma coisa que te dê.
+
+
+182
+00:20:12.941 --> 00:20:18.941
+Um portão, porra, eu tenho script. Esse script tem mais tantas linhas como que eu classifico esse script.
+
+
+183
+00:20:18.941 --> 00:20:21.941
+Ele descreve as tarefas. Então você pode criar o quê? Um gate, um portão de validação.
+
+
+184
+00:20:21.941 --> 00:20:23.941
+E aí você se tira dessa validação.
+
+
+185
+00:20:23.941 --> 00:20:29.941
+Aí você vai. Pra próxima, pô, recebi agora eu quero registrar essas atividades. Registra pra mim no gira.
+
+
+186
+00:20:29.941 --> 00:20:32.941
+Aí você vai lá criar uma Skill, por exemplo, para registrar no giro.
+
+
+187
+00:20:32.941 --> 00:20:35.941
+Ele registra lá, simplifica dez vezes. Fala, é.
+
+
+188
+00:20:35.941 --> 00:20:38.941
+Está registrando. Top está marcando a pessoa.
+
+
+189
+00:20:38.941 --> 00:20:41.941
+Está assinalando aqui está criando as dependências. Está tudo certo.
+
+
+190
+00:20:41.941 --> 00:20:44.941
+Aí. O que você vai fazer? Põe um portão.
+
+
+191
+00:20:44.941 --> 00:20:50.941
+Que fala. Olha, toda vez que uma tarefa chegar obrigatoriamente, você vai ter que falar. Qual a relação dela.
+
+
+192
+00:20:50.941 --> 00:20:54.941
+Você vai ter que linkar ela com uma outra. Você vai ter que assinalar uma pessoa.
+
+
+193
+00:20:54.941 --> 00:21:01.941
+Você vai ter que criar um título dessa forma tal. E aí o Evol ou o Gate valida isso. Agora Eu Saio Desse Portão E Assim Eu Vou Fazendo.
+
+
+194
+00:21:01.941 --> 00:21:06.941
+Até a hora que você vai. Desliga a fábrica e a fábrica vai rodar.
+
+
+195
+00:21:06.941 --> 00:21:12.941
+Realmente de luz apagada. Então não é tipo essa ideia de porra. Eu cheguei dia dois. Tá tudo apagado. Não, não é. Tá.
+
+
+196
+00:21:12.941 --> 00:21:15.941
+E aí uma das coisas importantíssimas.
+
+
+197
+00:21:15.941 --> 00:21:17.941
+é a evidência.
+
+
+198
+00:21:17.941 --> 00:21:23.941
+Beleza. Eu tenho entrada. Eu tenho alguma coisa no meio. Mas eu tenho que ter uma prova irrefutável de saída.
+
+
+199
+00:21:23.941 --> 00:21:27.941
+E senão nunca eu vou conseguir de fato, validar o que é verdade.
+
+
+200
+00:21:27.941 --> 00:21:33.941
+A Luan. Sempre a gente vai ter essa prova irrefutável para traduções. Sim, sempre.
+
+
+201
+00:21:33.941 --> 00:21:37.941
+Para coisas novas. Não.
+
+
+202
+00:21:37.941 --> 00:21:40.941
+Quem vai validar.
+
+
+203
+00:21:40.941 --> 00:21:46.941
+Coloca aqui. Quem vocês acham que valida no final? Se você não tem um local de provas.
+
+
+204
+00:21:46.941 --> 00:21:53.941
+Tá.
+
+
+205
+00:21:53.941 --> 00:22:02.941
+O Lup. Ontem, Ricardo foi, na verdade, ele pegar todas as tarefas. Na verdade, pegar todos os requisitos e criar Todas As Tarefas Lá Na Pasta.
+
+
+206
+00:22:02.941 --> 00:22:09.941
+Então ele fez um loop, né? De olhar. Quais são? Sim, Swim, Lanes e Legs. E disso aí ele ir Criando Todas As Atividades.
+
+
+207
+00:22:09.941 --> 00:22:15.941
+Então esse foi o loop que a gente fez ontem. Então a gente fez um loop de criar as atividades E Registrar Essa Atividade.
+
+
+208
+00:22:15.941 --> 00:22:17.941
+A gente não criou um loop.
+
+
+209
+00:22:17.941 --> 00:22:21.941
+De. Na verdade.
+
+
+210
+00:22:21.941 --> 00:22:24.941
+Executar as atividades. Esse loop vai entrar hoje, tá.
+
+
+211
+00:22:24.941 --> 00:22:27.941
+Então o que? A fábrica não é.
+
+
+212
+00:22:27.941 --> 00:22:32.941
+A fábrica não é de fato, um detector de alguma coisa.
+
+
+213
+00:22:32.941 --> 00:22:34.941
+Ou um Ci que vai executar alguma coisa.
+
+
+214
+00:22:34.941 --> 00:22:38.941
+é algo muito mais complexo. Ela define gates.
+
+
+215
+00:22:38.941 --> 00:22:40.941
+Que são validados por humanos.
+
+
+216
+00:22:40.941 --> 00:22:43.941
+Ela tem forma de validar.
+
+
+217
+00:22:43.941 --> 00:22:48.941
+Ela lê contrato, por exemplo. Então essa é a forma de você entender. Então, o que você tem que.
+
+
+218
+00:22:48.941 --> 00:22:53.941
+Sempre planejar na cabeça, tá?
+
+
+219
+00:22:53.941 --> 00:22:55.941
+Os componentes principais.
+
+
+220
+00:22:55.941 --> 00:23:01.941
+Então esses são os três componentes principais que eu diria. Entrada de tarefas com menor nível possível.
+
+
+221
+00:23:01.941 --> 00:23:03.941
+Fábrica de execução.
+
+
+222
+00:23:03.941 --> 00:23:08.941
+Com o contexto que você queira dar para ela. Em uma evidência final.
+
+
+223
+00:23:08.941 --> 00:23:14.941
+E aí? Isso é uma das coisas que inclusive eu estou viajando daqui a pouco para poder explicar para o cliente.
+
+
+224
+00:23:14.941 --> 00:23:17.941
+é que a gente, no começo do projeto.
+
+
+225
+00:23:17.941 --> 00:23:19.941
+A gente estava mais ou menos aqui. Nível.
+
+
+226
+00:23:19.941 --> 00:23:24.941
+Dois para três, por exemplo, que é o que a maioria da galera está.
+
+
+227
+00:23:24.941 --> 00:23:32.941
+Então, se você olha um pouquinho dos níveis de o quão autônomo o seus sistemas são. Então aqui é um Pouquinho Da Ideia De Sistemas Autônomos Tá De Níveis.
+
+
+228
+00:23:32.941 --> 00:23:37.941
+Então você tem o que? Primeiro a gente chama de Spice alto complete que eu acredito que ninguém.
+
+
+229
+00:23:37.941 --> 00:23:46.941
+Está nesse nível hoje. De trabalhar com alto complete, ficar dando Tab, ver pedaços de boilerplate de code sendo feito. Eu Acredito Que Isso Já Acabou.
+
+
+230
+00:23:46.941 --> 00:23:52.941
+A gente tem gente que tem ali.
+
+
+231
+00:23:52.941 --> 00:23:57.941
+Deixando ai, escrevendo pedaços do processo. Documentação boilerplate, esse tipo de coisa.
+
+
+232
+00:23:57.941 --> 00:24:00.941
+Eu também acredito que poucas pessoas estão aqui.
+
+
+233
+00:24:00.941 --> 00:24:07.941
+Eu vejo muita gente no L dois, que é o nível que você já está um pouquinho do autopiloto, mas Para Algumas Coisas Tá.
+
+
+234
+00:24:07.941 --> 00:24:13.941
+Você tem um agente fazendo coisas determinadas ali. Você não tem um contexto muito bem definido.
+
+
+235
+00:24:13.941 --> 00:24:18.941
+é.
+
+
+236
+00:24:18.941 --> 00:24:21.941
+Você não tem.
+
+
+237
+00:24:21.941 --> 00:24:26.941
+Um sistema ainda definido. Muito bem. Você está ali. Meio que ainda no processo de Vibe Code um, diria.
+
+
+238
+00:24:26.941 --> 00:24:29.941
+Aqui no L Ii são que as coisas começam a ficar um pouquinho mais sérias. Tá.
+
+
+239
+00:24:29.941 --> 00:24:37.941
+No l tres. Você já tem esse conceito de autônomo. Então, basicamente, você está olhando a perspectiva muito mais de.
+
+
+240
+00:24:37.941 --> 00:24:43.941
+Deixar o agente executar. E está muito mais na parte de revisar o que ele fez.
+
+
+241
+00:24:43.941 --> 00:24:47.941
+Você está literalmente agora, passando setenta do tempo.
+
+
+242
+00:24:47.941 --> 00:24:51.941
+Revisando o código que é escrito pelo agente. E está tudo certo.
+
+
+243
+00:24:51.941 --> 00:24:55.941
+Depois disso, a gente vai mais para a ideia do Pm.
+
+
+244
+00:24:55.941 --> 00:24:59.941
+The product manager. Então agora não só.
+
+
+245
+00:24:59.941 --> 00:25:00.941
+Eu não. Também faço a validação de código.
+
+
+246
+00:25:00.941 --> 00:25:03.941
+Eu valido que o resultado.
+
+
+247
+00:25:03.941 --> 00:25:08.941
+Evaluate Outcome Instead of Reading Code. Isso é maravilhoso.
+
+
+248
+00:25:08.941 --> 00:25:11.941
+Como que se alcança isso.
+
+
+249
+00:25:11.941 --> 00:25:13.941
+Dot.
+
+
+250
+00:25:13.941 --> 00:25:18.941
+Como que eu sei quando eu estou no L quatro, quando você tem voz para validar sua tarefa.
+
+
+251
+00:25:18.941 --> 00:25:21.941
+Eu não estou olhando o código. Como ele foi escrito. Eu estou.
+
+
+252
+00:25:21.941 --> 00:25:25.941
+Verificando o resultado desse código. E como que ele está.
+
+
+253
+00:25:25.941 --> 00:25:28.941
+é isso? Basicamente tá.
+
+
+254
+00:25:28.941 --> 00:25:31.941
+E quando você olha para Dark Factory.
+
+
+255
+00:25:31.941 --> 00:25:35.941
+Você basicamente não tem nada disso.
+
+
+256
+00:25:35.941 --> 00:25:37.941
+Porque tudo isso já foi.
+
+
+257
+00:25:37.941 --> 00:25:40.941
+Validado. Beforehand.
+
+
+258
+00:25:40.941 --> 00:25:48.941
+Então, na verdade, você está controlando só o loop. Você está basicamente só de vez em tempos. Em tempos verificando O Que Está Acontecendo.
+
+
+259
+00:25:48.941 --> 00:25:52.941
+Você vai escrever o Spec ou o processo.
+
+
+260
+00:25:52.941 --> 00:25:58.941
+E você vai ver essa fábrica performar. E aqui você vai desenvolver uma coisa chamada muito fortemente.
+
+
+261
+00:25:58.941 --> 00:26:01.941
+Chamada de Taste, que é o gosto.
+
+
+262
+00:26:01.941 --> 00:26:05.941
+E aí? Olha só. Que interessante isso, né.
+
+
+263
+00:26:05.941 --> 00:26:07.941
+O texto. Ele vem mesmo com o tempo.
+
+
+264
+00:26:07.941 --> 00:26:12.941
+Quanto mais você vai passando entre esses níveis aqui, mais gosto você vai desenvolvendo.
+
+
+265
+00:26:12.941 --> 00:26:35.941
+Então é inevitável que você comece a literalmente ter o taste. O gosto.
+
+
+266
+00:26:35.941 --> 00:26:37.941
+é eu cair de novo.
+
+
+267
+00:26:37.941 --> 00:26:45.941
+Eu posso reiniciar o computador, mas vai demorar uns cinco minutos. Vocês querem que eu faça.
+
+
+268
+00:26:45.941 --> 00:27:15.941
+Tá? Eu já volto. Então. Então deixa eu reputar aqui, rapidinho.
+
+
+269
+00:30:26.941 --> 00:30:28.941
+Beleza. Voltei agora a gente, né.
+
+
+270
+00:30:28.941 --> 00:30:32.941
+Espero que a gente esteja, que a gente tenha nenhum problema mais.
+
+
+271
+00:30:32.941 --> 00:30:41.941
+Vocês me escutam bem, né?
+
+
+272
+00:30:41.941 --> 00:30:55.941
+Escutam, beleza? Valeu.
+
+
+273
+00:30:55.941 --> 00:31:02.941
+Vamos ver se a minha câmera me obedece aqui por algum moto.
+
+
+274
+00:31:02.941 --> 00:31:05.941
+Olha que milagre!
+
+
+275
+00:31:05.941 --> 00:31:12.941
+E aí uma coisa importante da gente entender é que a fábrica, como eu já tinha dito anteriormente.
+
+
+276
+00:31:12.941 --> 00:31:19.941
+Ela não é um switch que você simplesmente troca. Ela é um dial. Então é exatamente o que eu acabei de falar.
+
+
+277
+00:31:19.941 --> 00:31:22.941
+Você vai na verdade ajustando ela.
+
+
+278
+00:31:22.941 --> 00:31:27.941
+Isso é uma coisa legal, porque às vezes o cliente tem essa concepção de que.
+
+
+279
+00:31:27.941 --> 00:31:34.941
+Ou você é ou você não é? Você vai aumentando o nível. Você vai elevando o nível de acordo com O Que Você Vai.
+
+
+280
+00:31:34.941 --> 00:31:40.941
+E aí isso é ganhado. Ganho com evidência.
+
+
+281
+00:31:40.941 --> 00:31:43.941
+Então a forma de você elevar o nível da sua fábrica, ou do que você faz.
+
+
+282
+00:31:43.941 --> 00:31:49.941
+é no nível de evidência você achar as evidências que corroboram isso.
+
+
+283
+00:31:49.941 --> 00:31:51.941
+Dito isso.
+
+
+284
+00:31:51.941 --> 00:31:56.941
+Ainda tem uma coisa. Quando você olha para um repositório ou por um processo que você tem.
+
+
+285
+00:31:56.941 --> 00:31:59.941
+O que você quer também entender é o seguinte.
+
+
+286
+00:31:59.941 --> 00:32:01.941
+Que muito disso que eu estou falando.
+
+
+287
+00:32:01.941 --> 00:32:05.941
+às vezes você tem um repositório, e isso não quer dizer que seu repositório inteiro é um Dark Factory, não.
+
+
+288
+00:32:05.941 --> 00:32:12.941
+Isso quer dizer que um pedaço do seu repositório é um Dark Factory, talvez, né? E.
+
+
+289
+00:32:12.941 --> 00:32:17.941
+O resto, não é? E tá tudo certo. Então, dentro do seu repositório, você pode ter níveis ali. De onde você está.
+
+
+290
+00:32:17.941 --> 00:32:24.941
+Beleza. Então, o que converge se a gente for olhar, realmente faz fim a fim.
+
+
+291
+00:32:24.941 --> 00:32:29.941
+Então, se a gente for olhar o converge, ele cria essa fábrica contínua.
+
+
+292
+00:32:29.941 --> 00:32:31.941
+Então muita gente me perguntou: porra.
+
+
+293
+00:32:31.941 --> 00:32:34.941
+O que você.
+
+
+294
+00:32:34.941 --> 00:32:36.941
+Parou de usar o Agents Spec Qsdd.
+
+
+295
+00:32:36.941 --> 00:32:42.941
+E começou a utilizar o Converge, que é um Idd, um Intent Driven Development.
+
+
+296
+00:32:42.941 --> 00:32:48.941
+Porque é exatamente isso aqui que eu pedi para ir a colocar pra mim aqui.
+
+
+297
+00:32:48.941 --> 00:32:54.941
+A gente tem três fases muito marcantes aqui. Na verdade, quatro fases marcantes aqui.
+
+
+298
+00:32:54.941 --> 00:32:58.941
+A primeira fase marcante são as fases relacionadas ao que o humano deve fazer.
+
+
+299
+00:32:58.941 --> 00:33:00.941
+O que ele deve interagir.
+
+
+300
+00:33:00.941 --> 00:33:04.941
+Então pô, eu vou capturar várias informações.
+
+
+301
+00:33:04.941 --> 00:33:07.941
+Eu vou compilar a intenção do que ele quer.
+
+
+302
+00:33:07.941 --> 00:33:14.941
+Ele vai de fato extrair as estruturas de ida. As Architecture Decision Records.
+
+
+303
+00:33:14.941 --> 00:33:18.941
+Ele vai decompor as atividades depois que ele decompõe.
+
+
+304
+00:33:18.941 --> 00:33:21.941
+A gente tem uma parte de falar. Pô beleza. Olha.
+
+
+305
+00:33:21.941 --> 00:33:25.941
+Essas atividades foram decompostas aqui. Agora vamos chegar a um consenso.
+
+
+306
+00:33:25.941 --> 00:33:32.941
+O consenso é o seguinte: você entendeu isso? Ah, entendi. Vai ser assim assim assado? Sim, dessa forma é assim.
+
+
+307
+00:33:32.941 --> 00:33:35.941
+Mas e assim? Como vai funcionar? Vai funcionar assim? Assim? Assim.
+
+
+308
+00:33:35.941 --> 00:33:45.941
+Então a Ia vai te perguntar várias perguntas durante essa parte do consenso, é que quando a gente foi utilizando O Converge Eu, Fui Cortando Vários Pedaços Para A Gente Conseguir Entregar O Conteúdo Todo.
+
+
+309
+00:33:45.941 --> 00:33:49.941
+Mas você que tem acesso ao converge. Agora vai conseguir falar, cara, quero ir no converge todas as linhas.
+
+
+310
+00:33:49.941 --> 00:33:55.941
+Você vai ver que aqui em todos eles eu tenho vários Grims. Eu tenho vários processos, mas aqui é bem chato.
+
+
+311
+00:33:55.941 --> 00:33:59.941
+Aqui nessa parte quatro, você tem um griummy que ele ia falar. Tá.
+
+
+312
+00:33:59.941 --> 00:34:04.941
+A gente precisa chegar a um entendimento mútuo, então preciso saber se você sabe.
+
+
+313
+00:34:04.941 --> 00:34:08.941
+O que você está pedindo. E ele vai te lançar várias perguntas. E você vai responder.
+
+
+314
+00:34:08.941 --> 00:34:13.941
+Você pode responder uma por uma. Você pode responder via áudio? Você pode responder via Bet? Enfim.
+
+
+315
+00:34:13.941 --> 00:34:16.941
+A maior que ele. Está satisfeito com isso.
+
+
+316
+00:34:16.941 --> 00:34:19.941
+Falo. Pô a partir daqui. Agora é comigo.
+
+
+317
+00:34:19.941 --> 00:34:27.941
+Ele passa para o Task Spec. O Task Spec não precisa da gente mais só para dar o Stamping, mas Aí Quem Vai Dar.
+
+
+318
+00:34:27.941 --> 00:34:32.941
+O Stamping não vai ser mais. Você vai ser a fábrica, né? Porque a gente já chegou no acordo.
+
+
+319
+00:34:32.941 --> 00:34:39.941
+Daí. Eu registro essas informações no mesh ou no linear, ou dentro do repositório que a gente viu.
+
+
+320
+00:34:39.941 --> 00:34:45.941
+Depois a gente faz o binding, que é pegar todas essas tarefas e assinalar para dentro do Harness e falar, pô beleza.
+
+
+321
+00:34:45.941 --> 00:34:49.941
+Vai executar a via Converge.
+
+
+322
+00:34:49.941 --> 00:34:53.941
+A gente tem quase os executores aqui pô Codecs Cloud e Kimi, por exemplo.
+
+
+323
+00:34:53.941 --> 00:34:56.941
+E a gente vai fechar as tarefas.
+
+
+324
+00:34:56.941 --> 00:35:00.941
+Quais são os tamanhos dela? Quais são as características que elas podem fazer?
+
+
+325
+00:35:00.941 --> 00:35:05.941
+E assim por diante. E a gente começa. O quê? A passar essa informação dentro do looping?
+
+
+326
+00:35:05.941 --> 00:35:09.941
+E aí o looping? Ele tá o quê? Utiliza apagada.
+
+
+327
+00:35:09.941 --> 00:35:12.941
+Então imagina agora que toda a requisição.
+
+
+328
+00:35:12.941 --> 00:35:18.941
+Você concorda comigo que uma vez que você faz isso.
+
+
+329
+00:35:18.941 --> 00:35:21.941
+Muitas das vezes. Você não precisa passar.
+
+
+330
+00:35:21.941 --> 00:35:25.941
+Novamente. Então o que eu estou querendo dizer.
+
+
+331
+00:35:25.941 --> 00:35:33.941
+Pô. Quando eu recebo. Ninguém perguntou isso durante o treinamento, eu pensei que vocês iam perguntar. Ou pelo menos vocês Perguntarem E Eu Não Vi.
+
+
+332
+00:35:33.941 --> 00:35:36.941
+Que é o seguinte: poxa.
+
+
+333
+00:35:36.941 --> 00:35:40.941
+Toda vez que eu tiver uma nova tarefa.
+
+
+334
+00:35:40.941 --> 00:35:42.941
+Para aquele processo, por exemplo.
+
+
+335
+00:35:42.941 --> 00:35:45.941
+Eu preciso passar pelos nove passos.
+
+
+336
+00:35:45.941 --> 00:36:15.941
+Então.
+
+
+337
+00:36:18.941 --> 00:36:20.941
+Então o que eu quero perguntar aqui para meu.
+
+
+338
+00:36:20.941 --> 00:36:23.941
+Para o meu Second de Brain, né?
+
+
+339
+00:36:23.941 --> 00:36:28.941
+Toda vez que eu recebo o requisito de uma fábrica que já existe.
+
+
+340
+00:36:28.941 --> 00:36:31.941
+Se eu tenho que toda vez ficar passando.
+
+
+341
+00:36:31.941 --> 00:36:36.941
+Por toda ela constantemente. Todos os passos.
+
+
+342
+00:36:36.941 --> 00:36:41.941
+Vamos ver.
+
+
+343
+00:36:41.941 --> 00:36:43.941
+E aí é aquela coisa, né.
+
+
+344
+00:36:43.941 --> 00:36:49.941
+Como produto. Foi eu que criei. Eu sei fazer as perguntas. Então a Ia é dessa mesma sacada.
+
+
+345
+00:36:49.941 --> 00:36:56.941
+Se eu nunca fizesse essa pergunta, eu estaria repetindo todos os passos todas as vezes, tá.
+
+
+346
+00:36:56.941 --> 00:37:01.941
+Então deixa eu ver se ele pegou aqui.
+
+
+347
+00:37:01.941 --> 00:37:20.941
+Ele não pegou.
+
+
+348
+00:37:20.941 --> 00:37:25.941
+Tá vendo? Se você não sabe que você está perguntando.
+
+
+349
+00:37:25.941 --> 00:37:28.941
+Como que você sabe que a resposta é muito bom. Isso aqui, cara.
+
+
+350
+00:37:28.941 --> 00:37:32.941
+Como se sabe que a resposta verdadeira se você não sabe o que você está perguntando.
+
+
+351
+00:37:32.941 --> 00:37:36.941
+Será que você está validando esse cara.
+
+
+352
+00:37:36.941 --> 00:37:39.941
+ó de novo. Ele não pegou.
+
+
+353
+00:37:39.941 --> 00:37:41.941
+Ele não pegou de novo.
+
+
+354
+00:37:41.941 --> 00:37:44.941
+Eu vou ter que ser mais específico. Eu tenho que falar.
+
+
+355
+00:37:44.941 --> 00:37:48.941
+Na cara dele o que eu quero? Porque ele ainda não entendeu o que eu pedi para ele.
+
+
+356
+00:37:48.941 --> 00:37:58.941
+Eu pedi para ele justamente esse crime.
+
+
+357
+00:37:58.941 --> 00:38:01.941
+Dentro do converge.
+
+
+358
+00:38:01.941 --> 00:38:06.941
+Eu tenho uma coisa chamada Gelane Rowdy.
+
+
+359
+00:38:06.941 --> 00:38:09.941
+A gente tem três tipos de vias.
+
+
+360
+00:38:09.941 --> 00:38:15.941
+Eu tenho a via fest. Eu tenho a via normal e eu tenho a via full. Olha que legal, né?
+
+
+361
+00:38:15.941 --> 00:38:18.941
+Então, como ninguém perguntou, ele já é preparado para isso.
+
+
+362
+00:38:18.941 --> 00:38:23.941
+Então essas lenes, eles mostram.
+
+
+363
+00:38:23.941 --> 00:38:27.941
+Aqui, ó aí! Ele pegou agora. Beleza. Cvg Lane.
+
+
+364
+00:38:27.941 --> 00:38:50.941
+Mas ele ainda não explicou. Caraca, velho.
+
+
+365
+00:38:50.941 --> 00:38:58.941
+Deixa eu mostrar uma coisa para vocês.
+
+
+366
+00:38:58.941 --> 00:38:59.941
+Agora eu fiquei puto.
+
+
+367
+00:38:59.941 --> 00:39:29.941
+Vou mostrar uma coisa pra vocês.
+
+
+368
+00:39:34.941 --> 00:39:43.941
+Eu estou tentando amar o Google, mas ele realmente não está me ajudando.
+
+
+369
+00:39:43.941 --> 00:39:53.941
+Não é mencionada.
+
+
+370
+00:39:53.941 --> 00:40:01.941
+Tá beleza. Então, dizendo, ele não é mencionado.
+
+
+371
+00:40:01.941 --> 00:40:05.941
+Vamos ver. Então você é mencionado ou não é? Mas enfim, a gente volta aqui. Já. Já.
+
+
+372
+00:40:05.941 --> 00:40:09.941
+Então a gente vai passar por esse processo aqui.
+
+
+373
+00:40:09.941 --> 00:40:12.941
+E isso tudo é um loop.
+
+
+374
+00:40:12.941 --> 00:40:15.941
+Então, se você olhar, eu estou entendendo a intenção.
+
+
+375
+00:40:15.941 --> 00:40:19.941
+Eu estou contextualizando o que é contextualizar.
+
+
+376
+00:40:19.941 --> 00:40:24.941
+Os Ad são formas de contextualização. Então, se a gente vier aqui dentro de Docs.
+
+
+377
+00:40:24.941 --> 00:40:30.941
+Adrs. Eu tenho contextualização. Isso é contextualização.
+
+
+378
+00:40:30.941 --> 00:40:31.941
+Entendeu? Então eu tô.
+
+
+379
+00:40:31.941 --> 00:40:34.941
+Descobrindo a intenção.
+
+
+380
+00:40:34.941 --> 00:40:36.941
+Dando contextualização.
+
+
+381
+00:40:36.941 --> 00:40:40.941
+Citando Harness, que é fazendo um binding do ambiente.
+
+
+382
+00:40:40.941 --> 00:40:43.941
+Fazendo loop decompondo e fazendo loop.
+
+
+383
+00:40:43.941 --> 00:40:45.941
+E aplicando em volta.
+
+
+384
+00:40:45.941 --> 00:40:48.941
+E isso vai gerar um resultado para mim.
+
+
+385
+00:40:48.941 --> 00:40:51.941
+Então, basicamente isso. Simples intenção, contexto.
+
+
+386
+00:40:51.941 --> 00:40:58.941
+Harness Loop e vol.
+
+
+387
+00:40:58.941 --> 00:41:01.941
+Então o que a gente viu, né?
+
+
+388
+00:41:01.941 --> 00:41:04.941
+Desde a segunda até a quinta.
+
+
+389
+00:41:04.941 --> 00:41:10.941
+A gente trabalhou muito no processo fim, a fim da camada que é legada até a camada que é moderna.
+
+
+390
+00:41:10.941 --> 00:41:14.941
+Só que a gente não de fato, viu toda a execução acontecer. Até o momento.
+
+
+391
+00:41:14.941 --> 00:41:18.941
+E eu deixei tudo isso no final, justamente pra gente conseguir saber.
+
+
+392
+00:41:18.941 --> 00:41:21.941
+O que vai acontecer. Além disso.
+
+
+393
+00:41:21.941 --> 00:41:26.941
+Tem um novo tipo de arquivo que vai chegar, que chegou para a gente que foi anunciado ontem.
+
+
+394
+00:41:26.941 --> 00:41:31.941
+Tu precisa ser refaturado. Na verdade, precisa ser criado dentro da fábrica. Então a gente vai olhar. Isso.
+
+
+395
+00:41:31.941 --> 00:41:33.941
+Tá.
+
+
+396
+00:41:33.941 --> 00:41:36.941
+Outro ponto importante. Tá.
+
+
+397
+00:41:36.941 --> 00:41:39.941
+A gente tem três linhas aqui muito importantes.
+
+
+398
+00:41:39.941 --> 00:41:43.941
+Que é? Lembra que a Fonte pode mentir?
+
+
+399
+00:41:43.941 --> 00:41:45.941
+Então o que a fonte pode mentir?
+
+
+400
+00:41:45.941 --> 00:41:47.941
+Pode acontecer de chegar.
+
+
+401
+00:41:47.941 --> 00:41:55.941
+Um problema. De onde você tem cento e quarenta e três, setenta e sete, mas na verdade, chegou o arquivo Cento E Setenta E Três Quarenta E Cinco.
+
+
+402
+00:41:55.941 --> 00:41:58.941
+Então esse valor na hora que você vai ver, o detalhe está errado.
+
+
+403
+00:41:58.941 --> 00:42:01.941
+Então, muitas das vezes, a fonte pode vir com um problema.
+
+
+404
+00:42:01.941 --> 00:42:07.941
+E a gente vai descobrir isso dentro do arquivo. O arquivo vai vir com o cálculo errado.
+
+
+405
+00:42:07.941 --> 00:42:09.941
+Uma. Outro ponto é quando a gente vê o Halphiven, né?
+
+
+406
+00:42:09.941 --> 00:42:13.941
+Que é. Puxa, eu sei que no legado tá certo.
+
+
+407
+00:42:13.941 --> 00:42:16.941
+Mas, na verdade, o moderno está errado.
+
+
+408
+00:42:16.941 --> 00:42:20.941
+Então a gente precisa ter uma forma de falar. Se a forma moderna que a gente fez está errada.
+
+
+409
+00:42:20.941 --> 00:42:23.941
+E por último, quando a gente for bater.
+
+
+410
+00:42:23.941 --> 00:42:27.941
+O moderno com o legado. Se a gente quiser comparar.
+
+
+411
+00:42:27.941 --> 00:42:30.941
+A gente pode ter um problema também deles não estarem batendo.
+
+
+412
+00:42:30.941 --> 00:42:34.941
+Então o que eu quero que vocês entendam aqui, desses três pontos.
+
+
+413
+00:42:34.941 --> 00:42:36.941
+Sempre tentar achar o denominador comum.
+
+
+414
+00:42:36.941 --> 00:42:39.941
+Que é a verdade.
+
+
+415
+00:42:39.941 --> 00:42:41.941
+Tá, então.
+
+
+416
+00:42:41.941 --> 00:42:47.941
+A verdade é o seguinte.
+
+
+417
+00:42:47.941 --> 00:43:07.941
+Nem ele achou aqui. Deixa eu ver aqui.
+
+
+418
+00:43:07.941 --> 00:43:12.941
+Então esses três.
+
+
+419
+00:43:12.941 --> 00:43:16.941
+Então, o que a gente vai ver hoje, né? A gente vai recapitular o que a gente fez.
+
+
+420
+00:43:16.941 --> 00:43:21.941
+De fim a fim, a gente vai ver esse registro no Línea.
+
+
+421
+00:43:21.941 --> 00:43:24.941
+A gente vai trabalhar. Os tipos. Dois, três, quatro e cinco.
+
+
+422
+00:43:24.941 --> 00:43:29.941
+A gente vai testar um Smoke test. O que é, Smoke? Test fim a fim. Todos os tipos.
+
+
+423
+00:43:29.941 --> 00:43:33.941
+Do um ao cinco. A gente vai trazer um novo tipo para Engines.
+
+
+424
+00:43:33.941 --> 00:43:36.941
+E a gente vai criar. O quê? Um flywheel de lições.
+
+
+425
+00:43:36.941 --> 00:43:38.941
+O que é um Fly Wheel de lições.
+
+
+426
+00:43:38.941 --> 00:43:41.941
+é exatamente isso aqui.
+
+
+427
+00:43:41.941 --> 00:43:45.941
+Mas no final, quando ele acaba, o evol.
+
+
+428
+00:43:45.941 --> 00:43:50.941
+Ou quando ele está no loop. Se ele identificar um problema, o que ele vai fazer? Ele vai aprender com esse problema.
+
+
+429
+00:43:50.941 --> 00:43:55.941
+Ele vai tentar literalmente aprender com isso.
+
+
+430
+00:43:55.941 --> 00:43:59.941
+Então, quando os centavos não batem no nosso sistema.
+
+
+431
+00:43:59.941 --> 00:44:02.941
+Quais são os problemas que eu tenho? O que acontece de fato.
+
+
+432
+00:44:02.941 --> 00:44:08.941
+Lembra que a gente não pode excluir esse valor. A gente tem que simplesmente validar. Ele.
+
+
+433
+00:44:08.941 --> 00:44:14.941
+E guardar essa informação. E a ideia é que, se eu achar um problema durante esse processo, a ideia é Que Eu Tenha O Quê.
+
+
+434
+00:44:14.941 --> 00:44:21.941
+We'll fly lições para criar um skill. Então, na prática.
+
+
+435
+00:44:21.941 --> 00:44:23.941
+Eu tentei embedar tudo isso no Harness.
+
+
+436
+00:44:23.941 --> 00:44:26.941
+E deu muito ruim pra mim, tá?
+
+
+437
+00:44:26.941 --> 00:44:30.941
+Porque quando os modelos evoluíram.
+
+
+438
+00:44:30.941 --> 00:44:33.941
+Eu precisei. O meu Harness é muito Fit. Ainda.
+
+
+439
+00:44:33.941 --> 00:44:36.941
+Muito grosso.
+
+
+440
+00:44:36.941 --> 00:44:41.941
+Por exemplo, na Curve. Eu tenho sábado e domingo para refaturar a parada todinha para entregar.
+
+
+441
+00:44:41.941 --> 00:44:44.941
+Então assim laile, né.
+
+
+442
+00:44:44.941 --> 00:44:46.941
+Tem o Hardness? é muito grosso.
+
+
+443
+00:44:46.941 --> 00:44:48.941
+Então eu tenho muito, tipo assim. ó.
+
+
+444
+00:44:48.941 --> 00:44:52.941
+Quando fazer isso. Quando acontecer, isso faz isso.
+
+
+445
+00:44:52.941 --> 00:44:56.941
+Quando você passar por essa opção, você vai nesse documento e vê isso aqui. Então eu tenho muita regra.
+
+
+446
+00:44:56.941 --> 00:44:58.941
+Que faz Llm: hoje.
+
+
+447
+00:44:58.941 --> 00:45:05.941
+Ser pior do que antes. Antigamente. Você precisava dar instruções mais caras hoje. Você pode dar somente.
+
+
+448
+00:45:05.941 --> 00:45:07.941
+A ideia. A intenção inicial é deixar ele.
+
+
+449
+00:45:07.941 --> 00:45:09.941
+Fazer isso. Ele vai fazer isso muito melhor.
+
+
+450
+00:45:09.941 --> 00:45:12.941
+Então eu preciso reduzir.
+
+
+451
+00:45:12.941 --> 00:45:15.941
+Né? Para ter o quê?
+
+
+452
+00:45:15.941 --> 00:45:18.941
+Balde Grosso.
+
+
+453
+00:45:18.941 --> 00:45:26.941
+Mais um Harness fino, tá? E aí a ideia de você fazer um Harness fino é que agora você consegue Utilizar Qualquer Indian Para Fazer Isso.
+
+
+454
+00:45:26.941 --> 00:45:31.941
+Então a gente vai começar a fazer isso.
+
+
+455
+00:45:31.941 --> 00:45:36.941
+A gente viu duas coisas importantes aqui, tá? A primeira parte é o que a gente chama, né?
+
+
+456
+00:45:36.941 --> 00:45:40.941
+Do literalmente do balde do Rails, né?
+
+
+457
+00:45:40.941 --> 00:45:43.941
+Que é como que a gente garante.
+
+
+458
+00:45:43.941 --> 00:45:47.941
+Que as coisas não vão ser modificadas. Aqui. A gente falou do binding.
+
+
+459
+00:45:47.941 --> 00:45:50.941
+A gente falou na terça e na quarta.
+
+
+460
+00:45:50.941 --> 00:45:55.941
+Sobre criar as novas linhas, mas a gente não trabalhou nele.
+
+
+461
+00:45:55.941 --> 00:45:58.941
+A gente falou do Goldenmat Pi.
+
+
+462
+00:45:58.941 --> 00:46:02.941
+Que é um documento que a gente vai validar. Se esses números batem realmente, tá.
+
+
+463
+00:46:02.941 --> 00:46:05.941
+E do outro lado, a gente teve. O quê? O Task Spec.
+
+
+464
+00:46:05.941 --> 00:46:08.941
+O Cvg, que é o converge.
+
+
+465
+00:46:08.941 --> 00:46:12.941
+E toda parte de execução acontecendo. E criando as atividades. Para mim.
+
+
+466
+00:46:12.941 --> 00:46:17.941
+Então agora a gente vai começar literalmente a trabalhar com elas.
+
+
+467
+00:46:17.941 --> 00:46:20.941
+O que a gente tem. O que a gente deixou na quinta ontem, né?
+
+
+468
+00:46:20.941 --> 00:46:25.941
+Então a gente tem presente aqui as evidências.
+
+
+469
+00:46:25.941 --> 00:46:27.941
+Dos testes iniciais que a gente fez.
+
+
+470
+00:46:27.941 --> 00:46:31.941
+A gente tem a quebra da Swim Lennes. E a gente tem várias tarefas lá.
+
+
+471
+00:46:31.941 --> 00:46:34.941
+Dentro do ambiente, assim como.
+
+
+472
+00:46:34.941 --> 00:46:36.941
+O teste desse arquivo em Park.
+
+
+473
+00:46:36.941 --> 00:46:40.941
+Então a gente tem essa informação lá. Então, se a gente vier aqui, por exemplo.
+
+
+474
+00:46:40.941 --> 00:46:43.941
+A gente tem toda a parte de tarefas de evidência.
+
+
+475
+00:46:43.941 --> 00:46:46.941
+E a gente tem toda a parte.
+
+
+476
+00:46:46.941 --> 00:46:48.941
+Do Pipeline como um todo.
+
+
+477
+00:46:48.941 --> 00:46:51.941
+Tá que a gente vai rodar aqui?
+
+
+478
+00:46:51.941 --> 00:46:56.941
+It is que está dentro do moderno. Então, se eu abrir aqui o moderno.
+
+
+479
+00:46:56.941 --> 00:47:02.941
+Eu tenho uma camada Landing na camada Landing, eu tenho os meus parques. Lembra que a gente viu isso no parque.
+
+
+480
+00:47:02.941 --> 00:47:04.941
+Que a gente deu ele. Então ele está aqui.
+
+
+481
+00:47:04.941 --> 00:47:08.941
+Tudo que aconteceu ontem.
+
+
+482
+00:47:08.941 --> 00:47:12.941
+Ah, agora ele achou. Tá vendo?
+
+
+483
+00:47:12.941 --> 00:47:15.941
+Olá.
+
+
+484
+00:47:15.941 --> 00:47:28.941
+Pois eu explico para vocês aqui.
+
+
+485
+00:47:28.941 --> 00:47:32.941
+A gente olhou bastante para um tipo, né?
+
+
+486
+00:47:32.941 --> 00:47:40.941
+Que era o que a gente falou a semana toda do Card settlement. Agora a gente vai ver. Na verdade, Como Ele Vai Se Comportar Com Os Outros Quatro.
+
+
+487
+00:47:40.941 --> 00:47:47.941
+Uma coisa legal aqui é que todos eles possuem uma forma diferente. é isso que eu acho muito interessante. Da fábrica.
+
+
+488
+00:47:47.941 --> 00:47:50.941
+Porque a fábrica é um processo.
+
+
+489
+00:47:50.941 --> 00:47:53.941
+No final das contas, meio que deterministas.
+
+
+490
+00:47:53.941 --> 00:48:01.941
+Mas qual a grande sacada que ele não vai fazer? Só uma coisa igual, sempre ele pode se adaptar a Vários Tipos Diferentes De Arquivos.
+
+
+491
+00:48:01.941 --> 00:48:03.941
+Então, nesse caso, aqui, como a gente pode ver.
+
+
+492
+00:48:03.941 --> 00:48:06.941
+A gente tem um arquivo que é Iso.
+
+
+493
+00:48:06.941 --> 00:48:09.941
+Aqui. Eu tenho um Tf aqui. Eu tenho.
+
+
+494
+00:48:09.941 --> 00:48:16.941
+Exatos de duzentos e quarenta bytes aqui. Eu tenho um dado que tem especificação um pouco diferente.
+
+
+495
+00:48:16.941 --> 00:48:19.941
+Aqui. Eu tenho por colunas.
+
+
+496
+00:48:19.941 --> 00:48:24.941
+Tá vendo? Então, assim cada arquivo tem uma forma diferente aqui no processo.
+
+
+497
+00:48:24.941 --> 00:48:29.941
+Então vamos dar uma olhada lá no nosso repositório.
+
+
+498
+00:48:29.941 --> 00:48:33.941
+Então vamos aqui em nove pay. Quem quiser seguir. Vamos, Run.
+
+
+499
+00:48:33.941 --> 00:48:37.941
+But no último dia.
+
+
+500
+00:48:37.941 --> 00:48:39.941
+E vamos abrir aqui. Pré Flight.
+
+
+501
+00:48:39.941 --> 00:48:48.941
+Para flight. é só verificar se a gente tem essas informações. Aqui. Todos os arquivos estão que a gente tem.
+
+
+502
+00:48:48.941 --> 00:48:50.941
+Agora vamos fazer um recap.
+
+
+503
+00:48:50.941 --> 00:48:54.941
+Do tipo um descer lá no recap. Tipo um.
+
+
+504
+00:48:54.941 --> 00:49:04.941
+Deixa eu abrir aqui.
+
+
+505
+00:49:04.941 --> 00:49:07.941
+Desde o que hoje eu estou usando o cloud.
+
+
+506
+00:49:07.941 --> 00:49:16.941
+Por quê? Porque hoje eu voltei a me apaixonar por ele de novo. Hoje eu estou fazendo as pazes com Ele Hoje Ele Se Comportou Muito Bem.
+
+
+507
+00:49:16.941 --> 00:49:20.941
+Hoje. Ele não fez mais. Eu não sei se vocês têm isso na assinatura de vocês.
+
+
+508
+00:49:20.941 --> 00:49:25.941
+Mas na minha assinatura, acontece umas coisas assim, tipo.
+
+
+509
+00:49:25.941 --> 00:49:27.941
+Grotesque total que é tipo assim.
+
+
+510
+00:49:27.941 --> 00:49:30.941
+Leia esse documento para mim.
+
+
+511
+00:49:30.941 --> 00:49:35.941
+E faça tal coisa e tal coisa. Eu juro, não estou mentindo. Então é uma assinatura de vinte x.
+
+
+512
+00:49:35.941 --> 00:49:39.941
+Aí, beleza. Aí eu boto pra ele ler. Ele gasta um pouquinho de tempo.
+
+
+513
+00:49:39.941 --> 00:49:46.941
+I role minha assinatura trinta e cinco gasta. Falei, caralho. Eu pedi para ele ler a porra de um documento.
+
+
+514
+00:49:46.941 --> 00:49:49.941
+E daí? Eu peço para ele. Ah, creio. Escreva um novo slide.
+
+
+515
+00:49:49.941 --> 00:49:51.941
+A cabo.
+
+
+516
+00:49:51.941 --> 00:49:55.941
+Eu sei. Então, assim.
+
+
+517
+00:49:55.941 --> 00:50:00.941
+Dar umas paradas. Parece que ele está muito doidão. Sabe.
+
+
+518
+00:50:00.941 --> 00:50:03.941
+às vezes eu acho que é só eu, mas acho que tem uma galera reclamando disso também.
+
+
+519
+00:50:03.941 --> 00:50:08.941
+Ele está assim. Uma coisa. A assinatura está muito estranha.
+
+
+520
+00:50:08.941 --> 00:50:10.941
+Mas vamos ver aqui. ó.
+
+
+521
+00:50:10.941 --> 00:50:12.941
+O que a gente perguntou, né? Para entender.
+
+
+522
+00:50:12.941 --> 00:50:15.941
+O fim, a fim.
+
+
+523
+00:50:15.941 --> 00:50:18.941
+Dalene moderna. Olha só. Que legal!
+
+
+524
+00:50:18.941 --> 00:50:21.941
+Vamos ler toda lei no moderno, né?
+
+
+525
+00:50:21.941 --> 00:50:25.941
+Além moderna, gerou uma evidência.
+
+
+526
+00:50:25.941 --> 00:50:27.941
+De cento e setenta e tres. Quarenta e cinco, né?
+
+
+527
+00:50:27.941 --> 00:50:32.941
+Na verdade, o moderno não desculpa a evidência normal do antigo.
+
+
+528
+00:50:32.941 --> 00:50:36.941
+Gerou a reconciliação de cento e setenta e três, quarenta e cinco.
+
+
+529
+00:50:36.941 --> 00:50:38.941
+Quando a gente rodou o cenário lá no primeiro dia.
+
+
+530
+00:50:38.941 --> 00:50:45.941
+Quando a gente rodou esse Steel Thread, que é o mínimo. Ele gerou essas informações. Olha só. Que foda essa investigação.
+
+
+531
+00:50:45.941 --> 00:50:48.941
+No Landing que a gente desenhou.
+
+
+532
+00:50:48.941 --> 00:50:51.941
+Ele pegou e gravou Modern Landing.
+
+
+533
+00:50:51.941 --> 00:50:54.941
+Botou aqui essa informação.
+
+
+534
+00:50:54.941 --> 00:50:56.941
+Ele escreveu um documento. Parquê.
+
+
+535
+00:50:56.941 --> 00:50:59.941
+Um outro vai lidando.
+
+
+536
+00:50:59.941 --> 00:51:03.941
+Porque se alguém tentar fazer mais alguma coisa, tentar fazer o chá.
+
+
+537
+00:51:03.941 --> 00:51:08.941
+Vai dar problema. Ele jogou um Jason aqui, então eu tenho um documento do parquê que foi escrito.
+
+
+538
+00:51:08.941 --> 00:51:14.941
+Esse documento foi depois colocado dentro da onde? Do Lake House.
+
+
+539
+00:51:14.941 --> 00:51:17.941
+Então ele foi num Bet com o nome dele.
+
+
+540
+00:51:17.941 --> 00:51:24.941
+Courtesy. E o valor e o Apply de value dele foi de cento e setenta e tres, quarenta e cinco.
+
+
+541
+00:51:24.941 --> 00:51:29.941
+As duas questões aqui funcionaram. Então, o moderno vezes o contrato.
+
+
+542
+00:51:29.941 --> 00:51:34.941
+Deu bom. E o legado desses? O contrato deu bom.
+
+
+543
+00:51:34.941 --> 00:51:41.941
+E os dois deram. Bom, então a gente fez a tradução. Os nossos agentes fizeram a tradução.
+
+
+544
+00:51:41.941 --> 00:51:46.941
+E a gente chegou no mesmo resultado. E quem provou isso?
+
+
+545
+00:51:46.941 --> 00:51:48.941
+A banca, né? Ou reconciliation.
+
+
+546
+00:51:48.941 --> 00:51:51.941
+Que é o nosso contrato.
+
+
+547
+00:51:51.941 --> 00:51:53.941
+Então isso quer dizer pela prova.
+
+
+548
+00:51:53.941 --> 00:51:56.941
+Que o valor exatamente funciona.
+
+
+549
+00:51:56.941 --> 00:52:00.941
+Então, para isso, a gente tem que abrir esse cartão aqui.
+
+
+550
+00:52:00.941 --> 00:52:03.941
+Quem já executou isso aqui em casa. E quem tiver.
+
+
+551
+00:52:03.941 --> 00:52:06.941
+Um parquê.
+
+
+552
+00:52:06.941 --> 00:52:24.941
+Pode abrir.
+
+
+553
+00:52:24.941 --> 00:52:27.941
+Could Be. Só peço para ele fazer aqui. Integram.
+
+
+554
+00:52:27.941 --> 00:52:30.941
+E aí?
+
+
+555
+00:52:30.941 --> 00:52:35.941
+Dentro da atividade. Qual foi a atividade que foi feita? Foi essa atividade.
+
+
+556
+00:52:35.941 --> 00:52:37.941
+Ter, tipo um landim passe.
+
+
+557
+00:52:37.941 --> 00:52:40.941
+A gente tentou executar ela uma vez.
+
+
+558
+00:52:40.941 --> 00:52:43.941
+Oival dela deu zero. Ou seja, deu tudo certo.
+
+
+559
+00:52:43.941 --> 00:52:46.941
+Ela foi aceita.
+
+
+560
+00:52:46.941 --> 00:52:48.941
+Só que na época, naquele momento.
+
+
+561
+00:52:48.941 --> 00:52:52.941
+A gente não tinha o Bagster ainda funcionando. O sistema de orquestração. Olhando tudo isso.
+
+
+562
+00:52:52.941 --> 00:52:56.941
+Porque a gente só fez a tradução.
+
+
+563
+00:52:56.941 --> 00:52:58.941
+Do processo de engenharia de software.
+
+
+564
+00:52:58.941 --> 00:53:00.941
+E ele foi aprovado por mim.
+
+
+565
+00:53:00.941 --> 00:53:05.941
+Tá.
+
+
+566
+00:53:05.941 --> 00:53:11.941
+Depois a gente também teve o que a gente chama do Source Lie. Uma outra validação que mostra que houve um problema. Ok.
+
+
+567
+00:53:11.941 --> 00:53:18.941
+A só se declarou cento e setenta e três, quarenta e quatro e o moderno fez cento e setenta e Três Quarenta E Cinco.
+
+
+568
+00:53:18.941 --> 00:53:23.941
+Então a declaração da fonte foi mantida como cento e setenta e três, quarenta e quatro.
+
+
+569
+00:53:23.941 --> 00:53:28.941
+O moderno. Sim, Park estava certo, mas a gente teve um problema de validação.
+
+
+570
+00:53:28.941 --> 00:53:31.941
+Aí. Ele leu aqui o Duke the Beat.
+
+
+571
+00:53:31.941 --> 00:53:36.941
+Achou as informações e entendeu que tudo isso que a gente construiu está batendo com o sistema lá.
+
+
+572
+00:53:36.941 --> 00:53:39.941
+Então, até aí, tudo certo.
+
+
+573
+00:53:39.941 --> 00:53:42.941
+It is. Não temos nenhum problema.
+
+
+574
+00:53:42.941 --> 00:53:46.941
+Conseguimos fazer a validação e provar que esse valor bate no final.
+
+
+575
+00:53:46.941 --> 00:53:50.941
+Então a gente olhou esses caras aqui.
+
+
+576
+00:53:50.941 --> 00:53:51.941
+Então todas as confirmações realmente.
+
+
+577
+00:53:51.941 --> 00:53:54.941
+Então, os dados estão na Land.
+
+
+578
+00:53:54.941 --> 00:53:56.941
+A gente tem as evidências.
+
+
+579
+00:53:56.941 --> 00:53:59.941
+A gente tem aqui. Na verdade, a.
+
+
+580
+00:53:59.941 --> 00:54:04.941
+Fonte que mentiu foi mantida. A gente não excluiu. Não fez nenhuma alteração em cima dele.
+
+
+581
+00:54:04.941 --> 00:54:09.941
+Agora a gente vai olhar a parte da segunda parte.
+
+
+582
+00:54:09.941 --> 00:54:11.941
+A segunda parte daqui.
+
+
+583
+00:54:11.941 --> 00:54:15.941
+A gente vai registrar.
+
+
+584
+00:54:15.941 --> 00:54:17.941
+Todas as atividades no Board.
+
+
+585
+00:54:17.941 --> 00:54:20.941
+Então.
+
+
+586
+00:54:20.941 --> 00:54:23.941
+Quando a gente chegar aqui e passar esse Prompt.
+
+
+587
+00:54:23.941 --> 00:54:26.941
+O que eu estou falando? Mal.
+
+
+588
+00:54:26.941 --> 00:54:31.941
+Registrar tudo o que aconteceu na quinta do Line Aboard.
+
+
+589
+00:54:31.941 --> 00:54:36.941
+Então ele vai basicamente entrar aqui nas tasks. Toques.
+
+
+590
+00:54:36.941 --> 00:54:38.941
+Testes. Ele vai registrar.
+
+
+591
+00:54:38.941 --> 00:54:41.941
+Todas as atividades do Board.
+
+
+592
+00:54:41.941 --> 00:54:45.941
+Então vamos ver se ele vai conseguir fazer isso.
+
+
+593
+00:54:45.941 --> 00:54:51.941
+Isso. Ele vai usar a Skill do Converge por detrás dos panos para fazer isso. Obviamente que você tem que ter o linear.
+
+
+594
+00:54:51.941 --> 00:54:55.941
+Então aqui, ó ele vai.
+
+
+595
+00:54:55.941 --> 00:54:56.941
+Literalmente tentar criar esse board e executar. Ele.
+
+
+596
+00:54:56.941 --> 00:55:05.941
+Vê se ele vai fazer, né.
+
+
+597
+00:55:05.941 --> 00:55:09.941
+Nolinear Tools Reachable.
+
+
+598
+00:55:09.941 --> 00:55:13.941
+Então agora a gente vai ter que fazer. A gente vai ter que.
+
+
+599
+00:55:13.941 --> 00:55:16.941
+Configurar o linear pela primeira vez.
+
+
+600
+00:55:16.941 --> 00:55:20.941
+Que vai ser? Vmcp.
+
+
+601
+00:55:20.941 --> 00:55:23.941
+Ele está falando aqui? Que.
+
+
+602
+00:55:23.941 --> 00:55:26.941
+Eu tenho no documento o linear.
+
+
+603
+00:55:26.941 --> 00:55:29.941
+Então está aqui em Docs.
+
+
+604
+00:55:29.941 --> 00:55:33.941
+Linha board. Quais são as tarefas que têm que ser.
+
+
+605
+00:55:33.941 --> 00:55:49.941
+Registradas. A gente precisa.
+
+
+606
+00:55:49.941 --> 00:55:52.941
+Então isso vai acontecer uma vez que você vai.
+
+
+607
+00:55:52.941 --> 00:55:59.941
+Fazer, que é configurar o Liner no seu projeto.
+
+
+608
+00:55:59.941 --> 00:56:05.941
+E aí eu vou trazer uma coisa para vocês que vocês vão falar assim, caralho! Luan, eu amo você. Que vocês querem falar.
+
+
+609
+00:56:05.941 --> 00:56:09.941
+Agora ou só depois que eu mostrar lá ele.
+
+
+610
+00:56:09.941 --> 00:56:14.941
+Eu estou testando. Isso aqui não está nesse projeto. Mas eu já testei lá na Curv. Tá? E tal.
+
+
+611
+00:56:14.941 --> 00:56:16.941
+Te amo. Também.
+
+
+612
+00:56:16.941 --> 00:56:20.941
+Testem isso aqui.
+
+
+613
+00:56:20.941 --> 00:56:24.941
+O que ele faz, tá? Ele é um gateway.
+
+
+614
+00:56:24.941 --> 00:56:28.941
+De permissão e conexão via Mcp.
+
+
+615
+00:56:28.941 --> 00:56:33.941
+Ele vem pelo combinator. Então tudo que vem pelo combinator. Você pode prestar atenção.
+
+
+616
+00:56:33.941 --> 00:56:39.941
+Então, escrever ferramentas é muito espalhado. Então, o que acontece hoje.
+
+
+617
+00:56:39.941 --> 00:56:43.941
+Você vai lá no repositório. Você configura no outro também. Assim por diante.
+
+
+618
+00:56:43.941 --> 00:56:47.941
+Então, sem o executo, você tem que simplesmente falar.
+
+
+619
+00:56:47.941 --> 00:56:51.941
+Com Ezequiel Tour. Basicamente, o que você tem só para vocês entenderem.
+
+
+620
+00:56:51.941 --> 00:56:54.941
+Vocês têm um local.
+
+
+621
+00:56:54.941 --> 00:57:02.941
+Então você vai pegar ali Cloud cursor e tal. Você vai fazer todas as configurações, cara, isso é muito foda Vocês Não Sei Se Vocês Entenderam Vocês Entenderam Falam Foda Aí.
+
+
+622
+00:57:02.941 --> 00:57:07.941
+Vocês vão conectar esse cara em todos os seus Mcps.
+
+
+623
+00:57:07.941 --> 00:57:14.941
+E daí? Você agora só disponibiliza isso para o Cláudio. Então ele vê que automaticamente fala, Ah, pô beleza. Tem o Liner ali.
+
+
+624
+00:57:14.941 --> 00:57:18.941
+Ah, pô, beleza. Tem um cursor aqui, ó, e aí você conecta todos os seus.
+
+
+625
+00:57:18.941 --> 00:57:20.941
+Caras aqui dentro.
+
+
+626
+00:57:20.941 --> 00:57:23.941
+Pegaram.
+
+
+627
+00:57:23.941 --> 00:57:28.941
+é um Mcp de Mcps.
+
+
+628
+00:57:28.941 --> 00:57:32.941
+Porque senão vai acontecer isso aí que eu estou mostrando para vocês. Tá vendo.
+
+
+629
+00:57:32.941 --> 00:57:38.941
+Desculpa essa. Ah, pô no projeto. Eu configurei o Slack no outro. Não.
+
+
+630
+00:57:38.941 --> 00:57:43.941
+Pô aqui. Eu configurei o Liner nesse outro. Não aqui. Você vem dentro do executor.
+
+
+631
+00:57:43.941 --> 00:57:47.941
+E você coloca tudo dentro. Aí você pode fazer ele.
+
+
+632
+00:57:47.941 --> 00:57:52.941
+Você pode colocar ele local? Porque ele open source.
+
+
+633
+00:57:52.941 --> 00:57:55.941
+Você pode fazer? Ele via cli.
+
+
+634
+00:57:55.941 --> 00:57:59.941
+Então, cara, isso aqui é a parada que mais facilitou a minha vida.
+
+
+635
+00:57:59.941 --> 00:58:04.941
+Ultimamente, tá? Eu ainda tô testando.
+
+
+636
+00:58:04.941 --> 00:58:09.941
+Mas ele vai fazer o proxy de tudo para vocês. Então, seus agentes.
+
+
+637
+00:58:09.941 --> 00:58:12.941
+Mcp no executo. E aí ele vai.
+
+
+638
+00:58:12.941 --> 00:58:20.941
+Achando que ele vai fazer então, Ah, pô. Quero ler o li, né? Ele bate no executor aqui e fala. Pô A Gente, Tem Learner Conectado Tem Esse Aqui Então Tá Passa Pra Mim.
+
+
+639
+00:58:20.941 --> 00:58:25.941
+Tá.
+
+
+640
+00:58:25.941 --> 00:58:27.941
+Exatamente.
+
+
+641
+00:58:27.941 --> 00:58:30.941
+Title.
+
+
+642
+00:58:30.941 --> 00:58:33.941
+O compose.
+
+
+643
+00:58:33.941 --> 00:58:38.941
+Funciona mais ou menos assim, né?
+
+
+644
+00:58:38.941 --> 00:58:45.941
+Também. Mas o composo. Você não Deployia ele, tipo local ou tal.
+
+
+645
+00:58:45.941 --> 00:58:50.941
+Ele está na web, né? Então aqui você consegue ter o controle.
+
+
+646
+00:58:50.941 --> 00:58:55.941
+Mais estrito, um pouquinho diferente. Eu também uso muito compos. O composo. O composo é.
+
+
+647
+00:58:55.941 --> 00:59:03.941
+Maravilhoso. Então ele funciona também? Mais ou menos assim. Ele é bem mais robusto, porque ele atende outros casos de uso.
+
+
+648
+00:59:03.941 --> 00:59:06.941
+Esse cara aqui. Ele atende esse caso de uso da dor. Do que eu falei pra vocês.
+
+
+649
+00:59:06.941 --> 00:59:09.941
+De por vários projetos, configura, faz assim por diante, tá.
+
+
+650
+00:59:09.941 --> 00:59:38.941
+Então vamos ver aqui se a gente configura.
+
+
+651
+00:59:38.941 --> 00:59:41.941
+O parque. Vamos ver se a gente conseguiu ver o parquê.
+
+
+652
+00:59:41.941 --> 00:59:45.941
+A gente conseguiu fazer um bocado aqui. ó.
+
+
+653
+00:59:45.941 --> 00:59:50.941
+Bruce Stahlder, Tb.
+
+
+654
+00:59:50.941 --> 00:59:58.941
+Vamos ver se a gente tem um direct to be aqui.
+
+
+655
+00:59:58.941 --> 01:00:00.941
+Mas eu tenho que estar no lugar certo, né.
+
+
+656
+01:00:00.941 --> 01:00:30.941
+Não. Aí não dá.
+
+
+657
+01:00:48.941 --> 01:01:10.941
+Ai! O parque!
+
+
+658
+01:01:10.941 --> 01:01:15.941
+Ah, muito bom. Ah, tá aqui.
+
+
+659
+01:01:15.941 --> 01:01:20.941
+They're Landing Landing. Vamos ver se ele pega aqui. Agora.
+
+
+660
+01:01:20.941 --> 01:01:36.941
+Agora.
+
+
+661
+01:01:36.941 --> 01:01:43.941
+Oh, query.
+
+
+662
+01:01:43.941 --> 01:01:47.941
+Como faz para não virar bagunça entre os projetos.
+
+
+663
+01:01:47.941 --> 01:01:53.941
+é justamente adicionando o executor. Pelo menos hoje é o que eu tenho hoje. Um samba do crioulo louco hoje.
+
+
+664
+01:01:53.941 --> 01:01:57.941
+Porque aí você tem dentro. Aqui, geralmente você cria um Mcp. Jason, aqui.
+
+
+665
+01:01:57.941 --> 01:01:59.941
+Que te aponta por vários lugares.
+
+
+666
+01:01:59.941 --> 01:02:11.941
+Geralmente você tem que ficar gerenciando esse tipo de cara para saber onde está, o que faz, assim por diante.
+
+
+667
+01:02:11.941 --> 01:02:19.941
+Não, cara. Quero que você configure.
+
+
+668
+01:02:19.941 --> 01:02:22.941
+Tá? Vamos vir aqui.
+
+
+669
+01:02:22.941 --> 01:02:29.941
+Terminal. Cloud.
+
+
+670
+01:02:29.941 --> 01:02:34.941
+Use Mcp. Beleza, ele já achou.
+
+
+671
+01:02:34.941 --> 01:02:38.941
+Bairro Mcg.
+
+
+672
+01:02:38.941 --> 01:02:46.941
+Cadê você?
+
+
+673
+01:02:46.941 --> 01:03:16.941
+Líbia.
+
+
+674
+01:03:25.941 --> 01:03:42.941
+Beleza. Teoricamente, conectei.
+
+
+675
+01:03:42.941 --> 01:03:48.941
+Enquanto isso, o dado aqui está vendo? Olha que legal!
+
+
+676
+01:03:48.941 --> 01:03:59.941
+Um bom soldado.
+
+
+677
+01:03:59.941 --> 01:04:03.941
+E aí dá pra gente.
+
+
+678
+01:04:03.941 --> 01:04:04.941
+Aqui.
+
+
+679
+01:04:04.941 --> 01:04:09.941
+Vamos ler esse cara aqui.
+
+
+680
+01:04:09.941 --> 01:04:23.941
+é o mesmo. Então o dado está aqui. Realmente está lá dentro do parque processado.
+
+
+681
+01:04:23.941 --> 01:04:26.941
+ótimo. Agora a gente vai registrar.
+
+
+682
+01:04:26.941 --> 01:04:33.941
+Essas atividades no linear.
+
+
+683
+01:04:33.941 --> 01:04:38.941
+Se ele é inteligente o bastante para entender.
+
+
+684
+01:04:38.941 --> 01:04:46.941
+Que ele vai registrar no time, correto, né? Porque dentro do linear você tem times teams têm projetos.
+
+
+685
+01:04:46.941 --> 01:04:52.941
+Quer verificar qual que ele vai escolher, se ele vai escolher o Time Luan ou se ele vai escolher, o Time Converge A Ideia é Que Ele.
+
+
+686
+01:04:52.941 --> 01:04:55.941
+Escolha.
+
+
+687
+01:04:55.941 --> 01:04:57.941
+Se ele for bem inteligente, que ele escolha.
+
+
+688
+01:04:57.941 --> 01:05:19.941
+Converge.
+
+
+689
+01:05:19.941 --> 01:05:24.941
+Opa, que burro.
+
+
+690
+01:05:24.941 --> 01:05:32.941
+Aqui. ó, ele está criando as atividades. Ele só não colocou isso dentro de um projeto.
+
+
+691
+01:05:32.941 --> 01:05:42.941
+Que eu não pedi. Mas aqui ele está registrando as atividades. Tá vendo?
+
+
+692
+01:05:42.941 --> 01:05:48.941
+Aí, por exemplo, dentro do converge nas Cieli, tem todo o processo que ele guia.
+
+
+693
+01:05:48.941 --> 01:05:51.941
+Dessa instalação. Então você usa o Cvg.
+
+
+694
+01:05:51.941 --> 01:05:54.941
+E aqui. ó.
+
+
+695
+01:05:54.941 --> 01:05:58.941
+Para quando vocês forem explorarem.
+
+
+696
+01:05:58.941 --> 01:06:02.941
+Cvg. E aqui você tem setup.
+
+
+697
+01:06:02.941 --> 01:06:06.941
+Track Ripo.
+
+
+698
+01:06:06.941 --> 01:06:12.941
+Para você, Linkar. Você tem que acertar. Que linha? Kit Hub, gira aí.
+
+
+699
+01:06:12.941 --> 01:06:20.941
+Você seta setup que Miller, por exemplo.
+
+
+700
+01:06:20.941 --> 01:06:24.941
+Cvg.
+
+
+701
+01:06:24.941 --> 01:06:32.941
+Priv.
+
+
+702
+01:06:32.941 --> 01:06:34.941
+Aí. Esse cara.
+
+
+703
+01:06:34.941 --> 01:06:40.941
+Eu estou com a versão desatualizada do Converge aqui que ele abre aqui. Ele abre.
+
+
+704
+01:06:40.941 --> 01:06:43.941
+E você habilita. Ou você pode pedir para ele fazer isso para você, né?
+
+
+705
+01:06:43.941 --> 01:06:46.941
+Como eu pedi aqui.
+
+
+706
+01:06:46.941 --> 01:07:01.941
+Ele registrou. As atividades estão todas aqui. Não colocou dentro de um projeto. Deixa eu colocar ele.
+
+
+707
+01:07:01.941 --> 01:07:06.941
+Você. Vou usar aqui a mesma ideia.
+
+
+708
+01:07:06.941 --> 01:07:16.941
+O C. Norfield. Pay.
+
+
+709
+01:07:16.941 --> 01:07:46.941
+Se você quiser fazer isso uma vez só, tá?
+
+
+710
+01:07:47.941 --> 01:07:56.941
+Agora a gente.
+
+
+711
+01:07:56.941 --> 01:07:59.941
+Executar essas atividades.
+
+
+712
+01:07:59.941 --> 01:08:14.941
+Desk Spec vai passar todas elas, né?
+
+
+713
+01:08:14.941 --> 01:08:17.941
+Então, só para ver se a gente no final, a gente vai.
+
+
+714
+01:08:17.941 --> 01:08:19.941
+Terminado com Sims.
+
+
+715
+01:08:19.941 --> 01:08:21.941
+Os. Sim, estão aqui. ó.
+
+
+716
+01:08:21.941 --> 01:08:26.941
+Docs.
+
+
+717
+01:08:26.941 --> 01:08:31.941
+Opa Sins. Então a gente tem o Cinns aqui, que foram divididos.
+
+
+718
+01:08:31.941 --> 01:08:37.941
+Temos as atividades, e a gente está organizando as atividades aqui. Ah, que legal.
+
+
+719
+01:08:37.941 --> 01:08:40.941
+Aqui, ó exatamente ele usando.
+
+
+720
+01:08:40.941 --> 01:08:42.941
+Olha que legal ele usando.
+
+
+721
+01:08:42.941 --> 01:08:45.941
+A Skill aqui para registrar tudo.
+
+
+722
+01:08:45.941 --> 01:08:49.941
+Agora ele fez, certo? Ele botou até um. Febre. Que legal. Dark Factory.
+
+
+723
+01:08:49.941 --> 01:08:52.941
+Você no filme de Pay.
+
+
+724
+01:08:52.941 --> 01:08:57.941
+Off Wind repositório Golden Match. Enfim.
+
+
+725
+01:08:57.941 --> 01:09:00.941
+E aí ele está registrando as atividades aqui. Tá vendo? Que legal.
+
+
+726
+01:09:00.941 --> 01:09:03.941
+Top. Isso aqui, né? ó.
+
+
+727
+01:09:03.941 --> 01:09:07.941
+Ele já falou que além de impasse, foi concluída, né? Porque ela foi realmente.
+
+
+728
+01:09:07.941 --> 01:09:11.941
+Então está aqui o projeto.
+
+
+729
+01:09:11.941 --> 01:09:13.941
+Com as issos registradas.
+
+
+730
+01:09:13.941 --> 01:09:24.941
+Beleza.
+
+
+731
+01:09:24.941 --> 01:09:26.941
+Agora a gente vai trabalhar na execução deles.
+
+
+732
+01:09:26.941 --> 01:09:29.941
+Vamos até essas tarefas.
+
+
+733
+01:09:29.941 --> 01:09:35.941
+Como que ele faz, tá? Ele vem aqui. Puxa essa atividade. Porque o que acontece.
+
+
+734
+01:09:35.941 --> 01:09:38.941
+O líder é um espelho do repositório.
+
+
+735
+01:09:38.941 --> 01:09:40.941
+Então ele sempre vai aparecer aqui.
+
+
+736
+01:09:40.941 --> 01:09:44.941
+Tá sempre. Então, se você vier aqui em Docs.
+
+
+737
+01:09:44.941 --> 01:09:48.941
+Desks access sempre terão aqui. Elas estarão em diferentes folders.
+
+
+738
+01:09:48.941 --> 01:09:53.941
+é que eu fui? Usando pedaços do Converge, tá? Ele vai estar em Folders diferentes.
+
+
+739
+01:09:53.941 --> 01:09:58.941
+Deixa eu ver se eu mostro.
+
+
+740
+01:09:58.941 --> 01:10:04.941
+Assim, Archive parque e de assim por diante. Depois de um tempo, eu deleto elas.
+
+
+741
+01:10:04.941 --> 01:10:11.941
+Mas a ideia é que você vai ter isso aqui, tá? E daí? Ele vai começar a trabalhar, fazer o Cranking Dessas Atividades A Gente Vai Ver.
+
+
+742
+01:10:11.941 --> 01:10:15.941
+Já. Já a gente vai executar agora do dois ao cinco.
+
+
+743
+01:10:15.941 --> 01:10:19.941
+A gente vai executar todas as tarefas que estavam faltantes.
+
+
+744
+01:10:19.941 --> 01:10:22.941
+Opa ponta.
+
+
+745
+01:10:22.941 --> 01:10:26.941
+Depois dessas tarefas faltantes, a gente vai executar o Smoke Test.
+
+
+746
+01:10:26.941 --> 01:10:30.941
+Tá? O que o Smoke test é é pegar.
+
+
+747
+01:10:30.941 --> 01:10:35.941
+Pegar o tipo um e executar ele inteiro e confirmar que ele está em todos os lugares.
+
+
+748
+01:10:35.941 --> 01:10:40.941
+Ele passou por toda parte de Landing.
+
+
+749
+01:10:40.941 --> 01:10:44.941
+Pousou na camada, fez a validação.
+
+
+750
+01:10:44.941 --> 01:10:47.941
+Viu o processo e a gente vai ver.
+
+
+751
+01:10:47.941 --> 01:10:50.941
+O degster, né.
+
+
+752
+01:10:50.941 --> 01:10:52.941
+Para poder visualizar esse cara.
+
+
+753
+01:10:52.941 --> 01:10:55.941
+Então, ansioso para isso aqui.
+
+
+754
+01:10:55.941 --> 01:10:58.941
+Então, daqui a pouco, a gente vai começar a ver.
+
+
+755
+01:10:58.941 --> 01:11:01.941
+é para a gente ver.
+
+
+756
+01:11:01.941 --> 01:11:31.941
+Deixa eu ver o que ele fez aqui.
+
+
+757
+01:11:34.941 --> 01:11:54.941
+Tem que stampar Key as the Two That's no lugar certo.
+
+
+758
+01:11:54.941 --> 01:12:00.941
+Deixa eu ver uma coisa aqui no Modern.
+
+
+759
+01:12:00.941 --> 01:12:05.941
+Tô vendo. é esse aqui que eu quero mostrar. Até o momento.
+
+
+760
+01:12:05.941 --> 01:12:10.941
+O moderno só tem o Handler, o modelo pássaro Writer, esquema e Writer do tipo um.
+
+
+761
+01:12:10.941 --> 01:12:28.941
+Que a gente só fez o tipo.
+
+
+762
+01:12:28.941 --> 01:12:38.941
+Vou ver se a marcha começa.
+
+
+763
+01:12:38.941 --> 01:12:41.941
+Dúvidas. Pessoal.
+
+
+764
+01:12:41.941 --> 01:12:45.941
+Minha voz está ótima, né? Parecendo.
+
+
+765
+01:12:45.941 --> 01:12:55.941
+Pelo menos não está doendo tanto a garganta.
+
+
+766
+01:12:55.941 --> 01:12:59.941
+Olha que legal. Isso. Eu quero que vocês entendam.
+
+
+767
+01:12:59.941 --> 01:13:02.941
+Olha o Card. Que lindo que ele botou.
+
+
+768
+01:13:02.941 --> 01:13:03.941
+Olha a atividade que ele botou. ó.
+
+
+769
+01:13:03.941 --> 01:13:07.941
+Aprovado os tipos.
+
+
+770
+01:13:07.941 --> 01:13:13.941
+Quais foram? Ele escreveu lá no Board.
+
+
+771
+01:13:13.941 --> 01:13:19.941
+On track. Então, quando eu venho aqui, eu acho isso. Massa velho.
+
+
+772
+01:13:19.941 --> 01:13:23.941
+Três minutos atrás. Eu venho aqui. Seis completado com dezasseis issos. Eu clico.
+
+
+773
+01:13:23.941 --> 01:13:28.941
+Consigo ver o que é on track com a atividade que ele acabou de escrever.
+
+
+774
+01:13:28.941 --> 01:13:33.941
+As activities que você vai postando aqui as atividades.
+
+
+775
+01:13:33.941 --> 01:13:35.941
+E aí, daqui a pouco, a gente começa a ver.
+
+
+776
+01:13:35.941 --> 01:13:44.941
+A movimentação. Ele salvou status.
+
+
+777
+01:13:44.941 --> 01:13:46.941
+Aí. ó sério, vocês não acham isso, foda? Não.
+
+
+778
+01:13:46.941 --> 01:13:49.941
+Desculpa. Eu acho isso muito.
+
+
+779
+01:13:49.941 --> 01:13:51.941
+Magia negra velho na minha.
+
+
+780
+01:13:51.941 --> 01:13:54.941
+Humilde opinião.
+
+
+781
+01:13:54.941 --> 01:13:55.941
+Então vocês vão ver aqui a parada Bovedo.
+
+
+782
+01:13:55.941 --> 01:13:59.941
+A tarefa, rolando.
+
+
+783
+01:13:59.941 --> 01:14:02.941
+é vocês não are.
+
+
+784
+01:14:02.941 --> 01:14:05.941
+Dark Factory funcionando.
+
+
+785
+01:14:05.941 --> 01:14:09.941
+Escrevendo.
+
+
+786
+01:14:09.941 --> 01:14:15.941
+Aí de boa. Agora eu só vou pegar um voo. Uma e meia da manhã, chegar oito horas da noite. Mas Tá De Boa.
+
+
+787
+01:14:15.941 --> 01:14:18.941
+Um voo? Não, né? Três.
+
+
+788
+01:14:18.941 --> 01:14:23.941
+O fim do mundo, bicho.
+
+
+789
+01:14:23.941 --> 01:14:28.941
+única coisa foda é deixar a pictucha e a esposa. é difícil.
+
+
+790
+01:14:28.941 --> 01:14:41.941
+A garganta.
+
+
+791
+01:14:41.941 --> 01:14:45.941
+O preço de como tomar.
+
+
+792
+01:14:45.941 --> 01:14:56.941
+Vai tomando.
+
+
+793
+01:14:56.941 --> 01:15:09.941
+Estava? Que ele falou que.
+
+
+794
+01:15:09.941 --> 01:15:14.941
+Aí. Agora a gente vai falar explicitamente para ele.
+
+
+795
+01:15:14.941 --> 01:15:16.941
+Para o convergia.
+
+
+796
+01:15:16.941 --> 01:15:23.941
+Legal. Esse aqui, ó converge.
+
+
+797
+01:15:23.941 --> 01:15:26.941
+A gente vai falar para ele. O quê?
+
+
+798
+01:15:26.941 --> 01:15:30.941
+E isso converge. Task loop.
+
+
+799
+01:15:30.941 --> 01:15:32.941
+To execute. Every single.
+
+
+800
+01:15:32.941 --> 01:15:35.941
+Every Single. Task.
+
+
+801
+01:15:35.941 --> 01:15:40.941
+Before Moving to.
+
+
+802
+01:15:40.941 --> 01:15:42.941
+Moving to the next.
+
+
+803
+01:15:42.941 --> 01:15:48.941
+Thanks.
+
+
+804
+01:15:48.941 --> 01:15:53.941
+Old Tags, Zero One, Two Zero, Five.
+
+
+805
+01:15:53.941 --> 01:15:59.941
+Asburg, Tasks.
+
+
+806
+01:15:59.941 --> 01:16:06.941
+I aqui. ó, deixa eu ver se ele vai aprovar o plano. Só um minutinho.
+
+
+807
+01:16:06.941 --> 01:16:16.941
+Ele fez a primeira, né?
+
+
+808
+01:16:16.941 --> 01:16:22.941
+Enquanto ele executa aqui. Eu quero mostrar para vocês.
+
+
+809
+01:16:22.941 --> 01:16:24.941
+Converge. Lane.
+
+
+810
+01:16:24.941 --> 01:16:54.941
+Deixa só ele aprovar. Aqui.
+
+
+811
+01:17:41.941 --> 01:17:52.941
+Lobimos e que o passo a passo não funciona de maneira resumida. A dúvida. Agora está em um caso em Que Eu Importo O Defecto De Um Projeto Em Andamento.
+
+
+812
+01:17:52.941 --> 01:18:01.941
+Qual o primeiro passo que eu preciso fazer? Escrever alguma Spec aí, como ele. Starta, a fábrica.
+
+
+813
+01:18:01.941 --> 01:18:07.941
+Uma forma mais simples de você fazer isso. Luiz.
+
+
+814
+01:18:07.941 --> 01:18:09.941
+Estalo converge no repositório.
+
+
+815
+01:18:09.941 --> 01:18:15.941
+Tá.
+
+
+816
+01:18:15.941 --> 01:18:18.941
+E aí você pergunta para ele exatamente isso.
+
+
+817
+01:18:18.941 --> 01:18:20.941
+Com o converge instalado.
+
+
+818
+01:18:20.941 --> 01:18:23.941
+Como que eu faço para iniciar.
+
+
+819
+01:18:23.941 --> 01:18:27.941
+Porque o que ele vai fazer? Ele vai começar a olhar.
+
+
+820
+01:18:27.941 --> 01:18:30.941
+Os lenes, que é o que eu vou explicar aqui. Agora.
+
+
+821
+01:18:30.941 --> 01:18:50.941
+Esses lenes vão te dar uma visão. Muito bem. Do que você vai precisar executar. Ele vai te falar. Isso.
+
+
+822
+01:18:50.941 --> 01:18:53.941
+Beleza. Ele já tem essa Skill.
+
+
+823
+01:18:53.941 --> 01:18:59.941
+ó, deixa eu ver se ele vai aprovar aqui.
+
+
+824
+01:18:59.941 --> 01:19:01.941
+Tá.
+
+
+825
+01:19:01.941 --> 01:19:07.941
+é porque o Task Spec Tres oito. Eu não fiz o teste com três nove. Então ele quebrou.
+
+
+826
+01:19:07.941 --> 01:19:09.941
+Por isso que ele não executou. Tá?
+
+
+827
+01:19:09.941 --> 01:19:11.941
+Ele está com incompatibilidade.
+
+
+828
+01:19:11.941 --> 01:19:19.941
+Porque antigamente, só para vocês entenderem o que aconteceu antigamente. O Task Spec, o Simwise e o converge.
+
+
+829
+01:19:19.941 --> 01:19:23.941
+O converge. Tinha todas as Engines dentro.
+
+
+830
+01:19:23.941 --> 01:19:53.941
+Então agora ele não tem as Indians. Eu quebrei elas.
+
+
+831
+01:20:01.941 --> 01:20:07.941
+Agora começar a trabalhar. Aqui é vinte e nove.
+
+
+832
+01:20:07.941 --> 01:20:13.941
+O Converge ainda está disponível para vocês baixarem lá. Deixa eu botar aqui.
+
+
+833
+01:20:13.941 --> 01:20:29.941
+Weep.
+
+
+834
+01:20:29.941 --> 01:20:54.941
+Agora ele tá.
+
+
+835
+01:20:54.941 --> 01:20:56.941
+Ele vai corrigir tudo aqui dentro. Você veja.
+
+
+836
+01:20:56.941 --> 01:21:02.941
+Desks aí. ó.
+
+
+837
+01:21:02.941 --> 01:21:07.941
+Donny Package. Ele vai mover para cá. E agora ele vai conseguir fazer.
+
+
+838
+01:21:07.941 --> 01:21:10.941
+Beleza. O que eu converge, Lane? Tá só pra vocês entenderem.
+
+
+839
+01:21:10.941 --> 01:21:13.941
+Síntese. Cvg, Lane.
+
+
+840
+01:21:13.941 --> 01:21:18.941
+é um acidente de descrever o trabalho em questões e tal, tal tal tal.
+
+
+841
+01:21:18.941 --> 01:21:21.941
+Existem três lenes que eu criei aqui. Tá.
+
+
+842
+01:21:21.941 --> 01:21:24.941
+A primeira Lane.
+
+
+843
+01:21:24.941 --> 01:21:26.941
+Por exemplo, corrige o problema do ritmo.
+
+
+844
+01:21:26.941 --> 01:21:28.941
+Tá? Vamos supor.
+
+
+845
+01:21:28.941 --> 01:21:31.941
+Ele vai escolher a Lane Fest.
+
+
+846
+01:21:31.941 --> 01:21:34.941
+Então ele já vai direto. Já vai criar a tarefa.
+
+
+847
+01:21:34.941 --> 01:21:37.941
+Já vai fazer o binding e já vai executar.
+
+
+848
+01:21:37.941 --> 01:21:39.941
+é pequeno, reversível.
+
+
+849
+01:21:39.941 --> 01:21:42.941
+é rápida.
+
+
+850
+01:21:42.941 --> 01:21:46.941
+Aí você vê Gelene normal, Ed, a real Friend Point.
+
+
+851
+01:21:46.941 --> 01:21:48.941
+Com a intenção que você quer.
+
+
+852
+01:21:48.941 --> 01:21:52.941
+A estrutura que você define. Aí. Ele já vai para o tasking.
+
+
+853
+01:21:52.941 --> 01:21:55.941
+Já faz o Baide e já faz o loop.
+
+
+854
+01:21:55.941 --> 01:22:04.941
+Então muitos dos processos novos que você aborda, ele já vai ser assim. Então, se você tem um Hippo, por Exemplo Que Você Está Trazendo Novas Features Toda Hora.
+
+
+855
+01:22:04.941 --> 01:22:07.941
+Então, o que ele vai fazer? Ele sempre vai classificar como normal.
+
+
+856
+01:22:07.941 --> 01:22:09.941
+Então ele já vai pulando as etapas para você automaticamente.
+
+
+857
+01:22:09.941 --> 01:22:12.941
+Come back.
+
+
+858
+01:22:12.941 --> 01:22:16.941
+E se você pegar.
+
+
+859
+01:22:16.941 --> 01:22:19.941
+Aqui uma outra Edge a refund endpoint. Mesma coisa normal.
+
+
+860
+01:22:19.941 --> 01:22:27.941
+Porque já existam. Qual é a intenção? Eu quero adicionar assim, assim com a estrutura. Se ele vai quebrar nas Adrs.
+
+
+861
+01:22:27.941 --> 01:22:29.941
+Ele já cria tarefa.
+
+
+862
+01:22:29.941 --> 01:22:33.941
+Já faz um bind e já faz isso agora.
+
+
+863
+01:22:33.941 --> 01:22:35.941
+Buje a New Service for Reporting and I pô. Calma aí.
+
+
+864
+01:22:35.941 --> 01:22:37.941
+Então me dá os documentos.
+
+
+865
+01:22:37.941 --> 01:22:45.941
+Me dá intenção. Me dá a parada toda.
+
+
+866
+01:22:45.941 --> 01:22:47.941
+Que vocês acharem. Faz sentido. Legal.
+
+
+867
+01:22:47.941 --> 01:22:50.941
+Então você tem um fast normal e o full.
+
+
+868
+01:22:50.941 --> 01:23:09.941
+Faz sentido para nem sempre. Toda vez você ficar fazendo processo repetidas vezes.
+
+
+869
+01:23:09.941 --> 01:23:11.941
+Beleza.
+
+
+870
+01:23:11.941 --> 01:23:14.941
+Faz sentido, né?
+
+
+871
+01:23:14.941 --> 01:23:17.941
+Então tá. Então aqui eu vou botar para executar esse cara.
+
+
+872
+01:23:17.941 --> 01:23:21.941
+Então a gente vai fazer duas coisas. Eu vou botar ele para executar.
+
+
+873
+01:23:21.941 --> 01:23:26.941
+Então ele vai copiar aqui essas informações.
+
+
+874
+01:23:26.941 --> 01:23:27.941
+Olá. Agora ele começou a organizar o swing.
+
+
+875
+01:23:27.941 --> 01:23:30.941
+Sete.
+
+
+876
+01:23:30.941 --> 01:23:32.941
+Então, só para avisar para vocês o que aconteceu.
+
+
+877
+01:23:32.941 --> 01:23:35.941
+A nova versão do Task Spec.
+
+
+878
+01:23:35.941 --> 01:23:41.941
+Quebrou a integração com o converge. Então o que eu vou prometer para vocês.
+
+
+879
+01:23:41.941 --> 01:23:46.941
+Eu vou deixar o repositório mais uma semana aberto. Até semana que vem.
+
+
+880
+01:23:46.941 --> 01:23:51.941
+Porque o que eu vou fazer na verdade é. Eu vou corrigir tudo isso para ficar uma experiência.
+
+
+881
+01:23:51.941 --> 01:23:55.941
+Certeira para vocês.
+
+
+882
+01:23:55.941 --> 01:24:03.941
+E aí vocês podem baixar com a o três nove integrado com o converge perfeitamente.
+
+
+883
+01:24:03.941 --> 01:24:13.941
+Doc. If I could ask sweet bonitinhas. Aqui Dlt Ingestion Orquestrate. Ele vai colocar dentro da pasta do Cvg.
+
+
+884
+01:24:13.941 --> 01:24:15.941
+Então eu vou deixar aberto para vocês poderem.
+
+
+885
+01:24:15.941 --> 01:24:21.941
+Vê.
+
+
+886
+01:24:21.941 --> 01:24:24.941
+último post issues.
+
+
+887
+01:24:24.941 --> 01:24:28.941
+Então, por exemplo, minha fábrica, quando ela roda na outra conta que eu tenho.
+
+
+888
+01:24:28.941 --> 01:24:36.941
+Eu venho aqui, abro o app. Então é assim que eu verifico, tá? Uma das formas que eu verifico. Como Está Indo A Fábrica.
+
+
+889
+01:24:36.941 --> 01:24:38.941
+Havendo o app aqui.
+
+
+890
+01:24:38.941 --> 01:24:41.941
+Eu clico, por exemplo.
+
+
+891
+01:24:41.941 --> 01:24:44.941
+Aqui.
+
+
+892
+01:24:44.941 --> 01:24:47.941
+No feedback. Eu venho aqui.
+
+
+893
+01:24:47.941 --> 01:24:50.941
+Eu consigo ver as tarefas que estão sendo executadas.
+
+
+894
+01:24:50.941 --> 01:24:53.941
+Então eu basicamente.
+
+
+895
+01:24:53.941 --> 01:25:02.941
+Vejo daqui.
+
+
+896
+01:25:02.941 --> 01:25:13.941
+Vamos ver aqui.
+
+
+897
+01:25:13.941 --> 01:25:21.941
+Desks.
+
+
+898
+01:25:21.941 --> 01:25:24.941
+Essa é uma mídia. Essa é uma mídia. Tá vendo?
+
+
+899
+01:25:24.941 --> 01:25:29.941
+Já é um pouquinho maior.
+
+
+900
+01:25:29.941 --> 01:25:34.941
+Daqui a pouco, ele começa a atualizar. Quem vai ser o agente assinalado para poder fazer isso.
+
+
+901
+01:25:34.941 --> 01:25:40.941
+Ele vai adicionar as labels. é para ele fazer toda essa parte. Tá de controle pra gente.
+
+
+902
+01:25:40.941 --> 01:25:43.941
+Aí que ele vai. Ele vai embora.
+
+
+903
+01:25:43.941 --> 01:25:48.941
+A gente vai deixar aqui, fazendo o que ele vai fazer. Ele vai construir.
+
+
+904
+01:25:48.941 --> 01:25:53.941
+Todos os caras. Nível do um ao cinco.
+
+
+905
+01:25:53.941 --> 01:25:55.941
+Depois da nossa próxima tarefa. Aqui.
+
+
+906
+01:25:55.941 --> 01:25:57.941
+Vai ser o quê?
+
+
+907
+01:25:57.941 --> 01:26:01.941
+Escreveu seis do zero.
+
+
+908
+01:26:01.941 --> 01:26:04.941
+Que é um tipo novo que a gente nunca viu.
+
+
+909
+01:26:04.941 --> 01:26:07.941
+Tá? Então, o que aconteceu? A gente simplesmente recebeu um novo tipo.
+
+
+910
+01:26:07.941 --> 01:26:10.941
+Se a gente vier aqui dentro de Specs, tem um novo tipo seis aqui.
+
+
+911
+01:26:10.941 --> 01:26:13.941
+Que se chama chargeback.
+
+
+912
+01:26:13.941 --> 01:26:18.941
+Aí. ó, começou agora ele cria para cada tarefa. Uma Orc tree. Tá vendo? Que legal!
+
+
+913
+01:26:18.941 --> 01:26:20.941
+Ele começa a trabalhar.
+
+
+914
+01:26:20.941 --> 01:26:24.941
+Eu adoro isso.
+
+
+915
+01:26:24.941 --> 01:26:27.941
+Então isso é por padrão. Dentro do converge. Eles sempre cria.
+
+
+916
+01:26:27.941 --> 01:26:29.941
+O Work Tree.
+
+
+917
+01:26:29.941 --> 01:26:32.941
+E aí esse Work Tree.
+
+
+918
+01:26:32.941 --> 01:26:37.941
+Vai estar assinalado. A tarefa que vai ser executada e o Card vai ser atualizado aqui.
+
+
+919
+01:26:37.941 --> 01:26:39.941
+Ele faz isso para não conflitar.
+
+
+920
+01:26:39.941 --> 01:26:49.941
+Só que aí a parada de vocês falarem foda, é isso aqui, ó, porque muita gente acha que ele vai Fazer Isso De Serial Né.
+
+
+921
+01:26:49.941 --> 01:26:52.941
+Tem tarefas que ele vai fazer. Cereal.
+
+
+922
+01:26:52.941 --> 01:26:55.941
+Tem tarefas que ele vai fazer paralelo.
+
+
+923
+01:26:55.941 --> 01:26:59.941
+Por quê? Por isso que a gente fez a decomposição do Swelene.
+
+
+924
+01:26:59.941 --> 01:27:02.941
+Do docinholandes e Legs.
+
+
+925
+01:27:02.941 --> 01:27:07.941
+Porque aqui você consegue quebrar. Olha aí.
+
+
+926
+01:27:07.941 --> 01:27:12.941
+Pela dependência de uma da outra. Exatamente.
+
+
+927
+01:27:12.941 --> 01:27:16.941
+Então depois ele vai atualizando aqui.
+
+
+928
+01:27:16.941 --> 01:27:20.941
+Esse card esses cards, tá, ele vai.
+
+
+929
+01:27:20.941 --> 01:27:25.941
+Predicando aqui. E se a gente vier em testes.
+
+
+930
+01:27:25.941 --> 01:27:27.941
+Daqui a pouco a gente vai ver.
+
+
+931
+01:27:27.941 --> 01:27:32.941
+Esses caras. Moves aqui pra Donny.
+
+
+932
+01:27:32.941 --> 01:27:36.941
+Aí, voltando aqui depois que a gente terminar de escrever.
+
+
+933
+01:27:36.941 --> 01:27:39.941
+Todos os tipos do um ao cinco.
+
+
+934
+01:27:39.941 --> 01:27:42.941
+A gente vai fazer um tipo novo.
+
+
+935
+01:27:42.941 --> 01:27:44.941
+E olha só. Que legal. Esse tipo novo.
+
+
+936
+01:27:44.941 --> 01:27:47.941
+Esse tipo novo se chama Mechchan Charge Back.
+
+
+937
+01:27:47.941 --> 01:27:51.941
+I just meant that.
+
+
+938
+01:27:51.941 --> 01:27:54.941
+Ele tem um vale de mínimo, que é o caminho feliz.
+
+
+939
+01:27:54.941 --> 01:27:59.941
+Ele tem um vale de Boundary.
+
+
+940
+01:27:59.941 --> 01:28:04.941
+E tem exatos dois centavos. Ele tem o Malformage.
+
+
+941
+01:28:04.941 --> 01:28:07.941
+Que ele vem válido. O arquivo.
+
+
+942
+01:28:07.941 --> 01:28:11.941
+Ele tem.
+
+
+943
+01:28:11.941 --> 01:28:17.941
+O e mail do Ricardo. Falando como que vai ser? As escalas de tradução.
+
+
+944
+01:28:17.941 --> 01:28:21.941
+Fala que é um layout aqui desse arquivo.
+
+
+945
+01:28:21.941 --> 01:28:25.941
+A definição da tabela.
+
+
+946
+01:28:25.941 --> 01:28:30.941
+Yes top procedure que insere dentro.
+
+
+947
+01:28:30.941 --> 01:28:33.941
+Aqui. A gente tem os.
+
+
+948
+01:28:33.941 --> 01:28:35.941
+Tipos, os arquivos.
+
+
+949
+01:28:35.941 --> 01:28:42.941
+E aqui a gente tem os esperados, que são as verdades. Aquele arquivo. Eu espero esse valor daquele outro arquivo. Eu Espero Desse Valor.
+
+
+950
+01:28:42.941 --> 01:28:47.941
+Daquele outro arquivo. Eu espero esse valor. Então eu tenho um balde que são os documentos que eu preciso ter.
+
+
+951
+01:28:47.941 --> 01:28:51.941
+As regras, a Stop procedure e as definições.
+
+
+952
+01:28:51.941 --> 01:28:59.941
+Deus, tenho sempre os que são os arquivos. E para cada um desses tempos, eu tenho exatamente o resultado final dele.
+
+
+953
+01:28:59.941 --> 01:29:03.941
+E onde? Como ele faz o controle de cor. Ele vai usar. é boa.
+
+
+954
+01:29:03.941 --> 01:29:07.941
+Não expliquei. Não.
+
+
+955
+01:29:07.941 --> 01:29:12.941
+Eu tenho duas formas. Se eu não falar nada.
+
+
+956
+01:29:12.941 --> 01:29:15.941
+Ele vai usar a própria llm.
+
+
+957
+01:29:15.941 --> 01:29:18.941
+That se.
+
+
+958
+01:29:18.941 --> 01:29:21.941
+Usar o Task Mesh aí.
+
+
+959
+01:29:21.941 --> 01:29:25.941
+Ele vai tentar por padrão. Usa o Taskmatch para fazer.
+
+
+960
+01:29:25.941 --> 01:29:33.941
+Ele vai verificar se você tem algum plugin do Kimi ou do codec instalado, ou se você tem algum ipi configurado.
+
+
+961
+01:29:33.941 --> 01:29:38.941
+Se você não tiver nenhum deles.
+
+
+962
+01:29:38.941 --> 01:29:40.941
+Ele vai falar. Olha, não tenho.
+
+
+963
+01:29:40.941 --> 01:29:44.941
+Não tem que é instalar. E aí você instala.
+
+
+964
+01:29:44.941 --> 01:29:47.941
+E ele te dá a possibilidade de você escolher.
+
+
+965
+01:29:47.941 --> 01:29:51.941
+E aí você pode setar. Tem o arquivo de configuração que você seta.
+
+
+966
+01:29:51.941 --> 01:29:55.941
+Ou que você pede para ele setar. Obviamente que você fala. ó.
+
+
+967
+01:29:55.941 --> 01:29:58.941
+Quando for tarefas pequenas, executa esse modelo hoje. é assim, tá.
+
+
+968
+01:29:58.941 --> 01:30:03.941
+Quando tem tarefas pequenas. Executa esse modelo. Quando for tarefas médias, executa esse.
+
+
+969
+01:30:03.941 --> 01:30:05.941
+Quando for tarefas grandes, executa esse.
+
+
+970
+01:30:05.941 --> 01:30:13.941
+Então você pode escolher qual é o tipo de Gianning que você quer escolher.
+
+
+971
+01:30:13.941 --> 01:30:16.941
+Vai estar executando aqui.
+
+
+972
+01:30:16.941 --> 01:30:24.941
+Vamos ver se já tem alguma atualização. Ainda.
+
+
+973
+01:30:24.941 --> 01:30:27.941
+E daí vai. Depois que a gente fez isso?
+
+
+974
+01:30:27.941 --> 01:30:29.941
+A gente vai.
+
+
+975
+01:30:29.941 --> 01:30:32.941
+Da roda, tá.
+
+
+976
+01:30:32.941 --> 01:30:36.941
+Então, basicamente, o que funciona o Flywheel tá gente só pra vocês entenderem.
+
+
+977
+01:30:36.941 --> 01:30:39.941
+Will Fly Wheel. é para vocês poderem.
+
+
+978
+01:30:39.941 --> 01:30:42.941
+Coletar experiência.
+
+
+979
+01:30:42.941 --> 01:30:47.941
+E lições do que aconteceu.
+
+
+980
+01:30:47.941 --> 01:30:55.941
+Então, basicamente, quando você passa no loop, o converge já faz isso. Mas se você estiver criando o seu próprio loop.
+
+
+981
+01:30:55.941 --> 01:31:01.941
+Você pede para ele falar. Olha, toda vez que você passar pelo loop, o que você tem que fazer é No Final Você Guarda.
+
+
+982
+01:31:01.941 --> 01:31:05.941
+O que aconteceu. Mostra o que acontece.
+
+
+983
+01:31:05.941 --> 01:31:10.941
+E daí? Na verdade, o que ele vai fazer? Ele vai girar e vai achar a informação para você.
+
+
+984
+01:31:10.941 --> 01:31:16.941
+Vai guardar essas informações como lições. Já vi um exemplo aqui.
+
+
+985
+01:31:16.941 --> 01:31:19.941
+Eu não sei exatamente onde estão as lessons agora.
+
+
+986
+01:31:19.941 --> 01:31:49.941
+No topo da minha cabeça. Eu vou ter que lembrar onde está.
+
+
+987
+01:31:53.941 --> 01:32:05.941
+Isso, eu acho, aqui continuar as lições.
+
+
+988
+01:32:05.941 --> 01:32:25.941
+Ah, boa, Luiz. Ele só vai gerar as tarefas se ele estiver cem certeza que ela pode ser concluída, então.
+
+
+989
+01:32:25.941 --> 01:32:31.941
+Esse cenário não vai acontecer dele não conseguir executar, porque ele fez a decomposição.
+
+
+990
+01:32:31.941 --> 01:32:38.941
+Então ele nunca vai criar uma tarefa que ele não saiba o que vai fazer por causa da decomposição. Mas.
+
+
+991
+01:32:38.941 --> 01:32:43.941
+Tem uma coisa aqui que você falou, que com certeza é muito foda. Que é? Tá.
+
+
+992
+01:32:43.941 --> 01:32:45.941
+Ele pode falhar por outras coisas aqui.
+
+
+993
+01:32:45.941 --> 01:32:51.941
+Ele pode falhar por tempo. Ele pode falhar por interação.
+
+
+994
+01:32:51.941 --> 01:32:58.941
+Ele pode falhar, porque, na verdade, houve um erro intransiente em alguma outra sessão. Tentou pegar e vai dar.
+
+
+995
+01:32:58.941 --> 01:33:02.941
+O temporary na atividade.
+
+
+996
+01:33:02.941 --> 01:33:07.941
+Então existem algumas formas que vão acontecer se aquela tarefa que está sendo executada.
+
+
+997
+01:33:07.941 --> 01:33:09.941
+Ela depende das outras. Então.
+
+
+998
+01:33:09.941 --> 01:33:11.941
+é o que vai acontecer. Vai falhar.
+
+
+999
+01:33:11.941 --> 01:33:14.941
+Não vai começar as próximas, obviamente.
+
+
+1000
+01:33:14.941 --> 01:33:17.941
+Quando essa tarefa falhar.
+
+
+1001
+01:33:17.941 --> 01:33:23.941
+O que você vai fazer? Ele vai colocar na sua tela. A tarefa falhou por causa disso disso. E disso O Que Você Quer Fazer.
+
+
+1002
+01:33:23.941 --> 01:33:26.941
+E aí você vai interagir com a Llm para ver qual o próximo passo aqui. ó.
+
+
+1003
+01:33:26.941 --> 01:33:30.941
+Ponto cloud cab.
+
+
+1004
+01:33:30.941 --> 01:33:33.941
+Acho que é this.
+
+
+1005
+01:33:33.941 --> 01:33:38.941
+E tem os lessons. Learned.
+
+
+1006
+01:33:38.941 --> 01:33:40.941
+Aqui. São as lições que eu aprendi.
+
+
+1007
+01:33:40.941 --> 01:33:44.941
+Que eu aprendo constantemente, né?
+
+
+1008
+01:33:44.941 --> 01:33:46.941
+Então, o que acontece aqui.
+
+
+1009
+01:33:46.941 --> 01:33:50.941
+Qual é a grande sacada? Quando você roda o loop.
+
+
+1010
+01:33:50.941 --> 01:33:56.941
+Que que vai acontecer? Ele vai sempre olhar essas lições. Então, coisas que ele já passou.
+
+
+1011
+01:33:56.941 --> 01:34:00.941
+E muitas das vezes vai ter um caminho, ou vai ter uma Skill que ele carrega.
+
+
+1012
+01:34:00.941 --> 01:34:08.941
+Então, por exemplo, se ele bate em algum problema lá? Que foi? Sei lá.
+
+
+1013
+01:34:08.941 --> 01:34:12.941
+Valor numérico que ele teve algum problema e não conseguiu.
+
+
+1014
+01:34:12.941 --> 01:34:19.941
+Você. Ele vai olhar quando ele passar no loop, que ele estiver fazendo isso. E vai falar. Opa, eu tenho memórias aqui.
+
+
+1015
+01:34:19.941 --> 01:34:21.941
+Eu tenho lições que eu já aprendi.
+
+
+1016
+01:34:21.941 --> 01:34:26.941
+Ele vai olhar e vai falar, pô, olha, tem uma lição de decimal aqui.
+
+
+1017
+01:34:26.941 --> 01:34:30.941
+Dessa Skill que resolve esse problema.
+
+
+1018
+01:34:30.941 --> 01:34:39.941
+Ele vem aqui e resolve o problema.
+
+
+1019
+01:34:39.941 --> 01:34:44.941
+Esse repositório tá grande, velho.
+
+
+1020
+01:34:44.941 --> 01:34:47.941
+Essas configurações com todas. Não converge.
+
+
+1021
+01:34:47.941 --> 01:34:50.941
+A Lucia lá e dele. Mas aí você perde.
+
+
+1022
+01:34:50.941 --> 01:34:53.941
+Quais são as configurações que eu tenho.
+
+
+1023
+01:34:53.941 --> 01:34:58.941
+Eu quero fazer o setup do converge.
+
+
+1024
+01:34:58.941 --> 01:35:05.941
+O que eu configuro. E ele vai te dar toda a informação dentro dele. Ele tem como se fosse. Não é Um Ll Mas Ele Tem Um Convergesque.
+
+
+1025
+01:35:05.941 --> 01:35:12.941
+Você pode fazer perguntas para ele. Vou fazer o setup. Aí ele te traz uma experiência de setup.
+
+
+1026
+01:35:12.941 --> 01:35:19.941
+Configura tudo que você quer. Primeiro instala no projeto, e você não tem mais que fazer nada.
+
+
+1027
+01:35:19.941 --> 01:35:25.941
+Uma dúvida sobre o consumo de tokens no converge. Se a minha conta acabar no meio de uma task, que acontece.
+
+
+1028
+01:35:25.941 --> 01:35:28.941
+Essa Task, ela para de ser executada.
+
+
+1029
+01:35:28.941 --> 01:35:36.941
+E ela é dada como não completa hoje eu não tenho um sistema de memória que faz isso não no converge.
+
+
+1030
+01:35:36.941 --> 01:35:39.941
+O Taskmatch tem algo parecido, mas não hoje. Ela falha.
+
+
+1031
+01:35:39.941 --> 01:35:41.941
+Então, sei lá. Você está no meio.
+
+
+1032
+01:35:41.941 --> 01:35:45.941
+Estourou sua assinatura lá.
+
+
+1033
+01:35:45.941 --> 01:35:55.941
+E ela parou no meio. Ela vai falhar. Por quê? Porque ela é atômica ou tudo ou nada.
+
+
+1034
+01:35:55.941 --> 01:35:58.941
+Aí? O que acontece, né?
+
+
+1035
+01:35:58.941 --> 01:36:02.941
+Bem, você teve o Cloud que fez o que é um sign off dessa atividade.
+
+
+1036
+01:36:02.941 --> 01:36:05.941
+Dessa atividade precisa ser reagerada.
+
+
+1037
+01:36:05.941 --> 01:36:09.941
+E ela vai ser automaticamente até você vai falar. Opa falhou.
+
+
+1038
+01:36:09.941 --> 01:36:12.941
+Beleza. Vou reigerar essa atividade, porque ele regera atividade.
+
+
+1039
+01:36:12.941 --> 01:36:15.941
+Que ele regera atividade com novo Hitmec.
+
+
+1040
+01:36:15.941 --> 01:36:21.941
+Uma nova chave. Porque da próxima vez que o outro agente vier.
+
+
+1041
+01:36:21.941 --> 01:36:26.941
+Vai ser uma nova chave.
+
+
+1042
+01:36:26.941 --> 01:36:36.941
+Wow, hoje, vendo essa estrutura que você montou, posso dizer que não precisa mais de create a agro e afins. Posso Usar Seus Projetos é Claro Mas Quero Adaptar A Sua Necessidade.
+
+
+1043
+01:36:36.941 --> 01:36:42.941
+Sim, se dependendo de você estar usando Krue ai Agno, para fazer esse controle ou coisa assim.
+
+
+1044
+01:36:42.941 --> 01:36:45.941
+Você pode fazer tudo via Skills e tudo pela Cli.
+
+
+1045
+01:36:45.941 --> 01:36:49.941
+Então, independente de você usar aqui, você pode usar essa ideia que eu te falei.
+
+
+1046
+01:36:49.941 --> 01:36:52.941
+Chat. Skill.
+
+
+1047
+01:36:52.941 --> 01:37:05.941
+E se ela é? Se você tiver isso, você pode substituir para esses casos de uso aqui.
+
+
+1048
+01:37:05.941 --> 01:37:08.941
+As in giants. Tá.
+
+
+1049
+01:37:08.941 --> 01:37:11.941
+Assinatura aqui do cloud.
+
+
+1050
+01:37:11.941 --> 01:37:13.941
+é.
+
+
+1051
+01:37:13.941 --> 01:37:19.941
+Sessenta.
+
+
+1052
+01:37:19.941 --> 01:37:21.941
+Acho que está tudo certo até o momento.
+
+
+1053
+01:37:21.941 --> 01:37:31.941
+Atualizou aqui.
+
+
+1054
+01:37:31.941 --> 01:37:35.941
+Ele geralmente atualiza no final.
+
+
+1055
+01:37:35.941 --> 01:37:38.941
+Agora não sei se por causa.
+
+
+1056
+01:37:38.941 --> 01:37:48.941
+Da atualização nova que eu fiz, que quebrou. Pode ser por causa disso. Também.
+
+
+1057
+01:37:48.941 --> 01:37:52.941
+Beleza. Então agora, basicamente, esperar, executar.
+
+
+1058
+01:37:52.941 --> 01:37:59.941
+Para a gente executar o Tipo seis. Deixa eu pensar. Se a gente consegue executar o Tipo seis isolado.
+
+
+1059
+01:37:59.941 --> 01:38:02.941
+Conseguimos. é um novo recurso, não é?
+
+
+1060
+01:38:02.941 --> 01:38:06.941
+A gente pode fazer isso também, tá? Então a gente vai fazer o seguinte.
+
+
+1061
+01:38:06.941 --> 01:38:08.941
+Para a gente ver o tipo seis.
+
+
+1062
+01:38:08.941 --> 01:38:10.941
+A gente vai.
+
+
+1063
+01:38:10.941 --> 01:38:13.941
+Vim aqui. Vai abrir.
+
+
+1064
+01:38:13.941 --> 01:38:15.941
+No Work Tree.
+
+
+1065
+01:38:15.941 --> 01:38:18.941
+Vou chamar de.
+
+
+1066
+01:38:18.941 --> 01:38:20.941
+Work Tree.
+
+
+1067
+01:38:20.941 --> 01:38:23.941
+Seis.
+
+
+1068
+01:38:23.941 --> 01:38:24.941
+Age trade.
+
+
+1069
+01:38:24.941 --> 01:38:26.941
+E aí eu vou colar.
+
+
+1070
+01:38:26.941 --> 01:38:29.941
+Aí. Que eu vou fazer.
+
+
+1071
+01:38:29.941 --> 01:38:31.941
+Que eu vou fazer com.
+
+
+1072
+01:38:31.941 --> 01:38:40.941
+Grock.
+
+
+1073
+01:38:40.941 --> 01:38:43.941
+Já passado. Passe oito inteiro.
+
+
+1074
+01:38:43.941 --> 01:38:48.941
+Visitar o tipo seis.
+
+
+1075
+01:38:48.941 --> 01:38:53.941
+O que ele vai fazer, tá.
+
+
+1076
+01:38:53.941 --> 01:38:57.941
+Ele vai fazer a Dark Factory inteira. Então, basicamente, eu falei o seguinte, tá.
+
+
+1077
+01:38:57.941 --> 01:39:00.941
+E aí eu vou dar uma dica muito foda aqui.
+
+
+1078
+01:39:00.941 --> 01:39:06.941
+Está vendo que aqui no Prompt eu precisei. Não precisei. Mas eu especifiquei o seguinte.
+
+
+1079
+01:39:06.941 --> 01:39:11.941
+The olhar. O Spec, tipo, seis.
+
+
+1080
+01:39:11.941 --> 01:39:15.941
+Você vai executar o converge.
+
+
+1081
+01:39:15.941 --> 01:39:17.941
+Para ganhar consensos.
+
+
+1082
+01:39:17.941 --> 01:39:19.941
+Executar o Task Spec.
+
+
+1083
+01:39:19.941 --> 01:39:24.941
+Vai fazer? O Binding vai verificar. Vai validar e vai escrever tudo. Fim a fim.
+
+
+1084
+01:39:24.941 --> 01:39:28.941
+E vai colocar isso no linear.
+
+
+1085
+01:39:28.941 --> 01:39:29.941
+Beleza.
+
+
+1086
+01:39:29.941 --> 01:39:31.941
+O que você pode fazer.
+
+
+1087
+01:39:31.941 --> 01:39:48.941
+Que foi o que eu fiz aqui. ó.
+
+
+1088
+01:39:48.941 --> 01:39:50.941
+Eu criei um comando.
+
+
+1089
+01:39:50.941 --> 01:39:54.941
+Barratices alto. Tá vendo?
+
+
+1090
+01:39:54.941 --> 01:39:57.941
+Então olha só. Que foda. Eu criei um comando.
+
+
+1091
+01:39:57.941 --> 01:40:03.941
+Que basicamente era assim. Basicamente era assim. Não é desse jeito. ó, só pra você ver como é que eram as minhas madrugadas.
+
+
+1092
+01:40:03.941 --> 01:40:07.941
+Eu vim aqui te se exalto.
+
+
+1093
+01:40:07.941 --> 01:40:14.941
+Para vocês verem a cabeça explodindo. Agora, eu chegava no Spec.
+
+
+1094
+01:40:14.941 --> 01:40:16.941
+Pô. Qual Spec que eu recebi? Eu recebi esse Spec aqui.
+
+
+1095
+01:40:16.941 --> 01:40:19.941
+Do cliente para traduzir.
+
+
+1096
+01:40:19.941 --> 01:40:23.941
+E acabou. Era isso.
+
+
+1097
+01:40:23.941 --> 01:40:28.941
+Era isso. Essa era a minha Dark Factory. é isso que eu tinha que fazer de trabalho.
+
+
+1098
+01:40:28.941 --> 01:40:32.941
+E daí ele passava por todos os processos.
+
+
+1099
+01:40:32.941 --> 01:40:35.941
+Sozinhos. Então aqui eu estou mostrando um prompt.
+
+
+1100
+01:40:35.941 --> 01:40:37.941
+Mas dá real. Que você pode fazer? O quê? Dar um barra.
+
+
+1101
+01:40:37.941 --> 01:40:40.941
+Fabric? Sei lá. Alto.
+
+
+1102
+01:40:40.941 --> 01:40:48.941
+E você só cola o que você quer? E ele vai fazer todos os pedaços para você automaticamente.
+
+
+1103
+01:40:48.941 --> 01:40:51.941
+Eu só tô vendo o Thiago mandando foda aqui.
+
+
+1104
+01:40:51.941 --> 01:40:57.941
+Luan. Quando você trabalha com várias Lives, você tem a mesma config base em todos os Mdfs de cada Lm.
+
+
+1105
+01:40:57.941 --> 01:41:03.941
+é? Basicamente, uso sempre o Cloud. Uma vez usei o Kim. Acabei bagunçando um pouco o projeto.
+
+
+1106
+01:41:03.941 --> 01:41:07.941
+Você pode criar um Setup Harness. Vou te dar uma dica, tá.
+
+
+1107
+01:41:07.941 --> 01:41:09.941
+Cria uma Skill.
+
+
+1108
+01:41:09.941 --> 01:41:13.941
+Queria mais Skill no projeto.
+
+
+1109
+01:41:13.941 --> 01:41:15.941
+Que faz o setup de todos os Harders para você.
+
+
+1110
+01:41:15.941 --> 01:41:18.941
+Para você nunca mais passar por isso.
+
+
+1111
+01:41:18.941 --> 01:41:23.941
+Então, o que é isso? Pô? Entrou no projeto. Usa esse Skill como se fosse um setup.
+
+
+1112
+01:41:23.941 --> 01:41:28.941
+Configura para mim. O que ela vai fazer? Ela vai criar o Agents Md.
+
+
+1113
+01:41:28.941 --> 01:41:30.941
+Ela vai criar o Cloud Md.
+
+
+1114
+01:41:30.941 --> 01:41:36.941
+Ela vai criar lá o ponto. Cloud Folder vai criar lá o ponto Cloud Grock Folder.
+
+
+1115
+01:41:36.941 --> 01:41:44.941
+E aí você pede para cada um estruturar do jeito que você quer ficar bonitinho do mesmo jeito. Então, quando Qualquer Lima Entrar No Repositório.
+
+
+1116
+01:41:44.941 --> 01:41:53.941
+Ele não vai sofrer com esse tipo de coisa.
+
+
+1117
+01:41:53.941 --> 01:41:55.941
+é? Tem que ser preguiçoso. Pô.
+
+
+1118
+01:41:55.941 --> 01:42:00.941
+E aí eu só tava assim mandando Barry Spec.
+
+
+1119
+01:42:00.941 --> 01:42:04.941
+E é isso. Deixa eu pedir para ele continuar me explicar aqui.
+
+
+1120
+01:42:04.941 --> 01:42:08.941
+Aqui. Agora. Ele vai executar.
+
+
+1121
+01:42:08.941 --> 01:42:16.941
+Minha filha.
+
+
+1122
+01:42:16.941 --> 01:42:22.941
+Vai lá, autônomo. Então, basicamente, o que acontecia comigo na Curv.
+
+
+1123
+01:42:22.941 --> 01:42:26.941
+Foi isso? Eu pegava os arquivos, botava para executar. Ficava fazendo outras coisas aqui.
+
+
+1124
+01:42:26.941 --> 01:42:31.941
+Que eu nem queria automatizar isso. Não falei: Ah, nem vou automatizar isso. Não.
+
+
+1125
+01:42:31.941 --> 01:42:33.941
+Eu deixava lá fazendo.
+
+
+1126
+01:42:33.941 --> 01:42:37.941
+Ia fazer outras coisas. Demorava, sei lá, vinte.
+
+
+1127
+01:42:37.941 --> 01:42:43.941
+Trinta minutos ou eu fazia melhor. Eu abria tres work tres e botava três para o resultado. Uma vez.
+
+
+1128
+01:42:43.941 --> 01:42:45.941
+E aí, por isso que eu comecei a usar o químia.
+
+
+1129
+01:42:45.941 --> 01:42:49.941
+Porque eu comecei a fazer isso. Repet.
+
+
+1130
+01:42:49.941 --> 01:42:54.941
+E aí essa área aí eu via os arquivos que eram mais simples. Eu tentava fazendo que eu fazia muito bem.
+
+
+1131
+01:42:54.941 --> 01:43:01.941
+Então eu comecei a usar duas llms no mesmo projeto. Foi daí que eu comecei a usar multi hardness.
+
+
+1132
+01:43:01.941 --> 01:43:07.941
+Então eu comecei a usar Butcher aos quatro meses atrás.
+
+
+1133
+01:43:07.941 --> 01:43:12.941
+Uma coisa que não está clara para mim, é o seu processo. Pode administrar vários projetos diferentes.
+
+
+1134
+01:43:12.941 --> 01:43:17.941
+Com contexto diferentes, sendo resolvidos com Ia e, ainda assim, garantia que tudo está correto.
+
+
+1135
+01:43:17.941 --> 01:43:21.941
+Tá? Então vamos pegar dois projetos, né?
+
+
+1136
+01:43:21.941 --> 01:43:24.941
+Dois projetos têm.
+
+
+1137
+01:43:24.941 --> 01:43:26.941
+Entradas diferentes.
+
+
+1138
+01:43:26.941 --> 01:43:31.941
+Uma Black Box de converge que vai ser a mesma coisa para todos. Concordam.
+
+
+1139
+01:43:31.941 --> 01:43:35.941
+E uma saída que tem que ter uma validação.
+
+
+1140
+01:43:35.941 --> 01:43:39.941
+Qual é a grande sacada? Como que você gerencia isso?
+
+
+1141
+01:43:39.941 --> 01:43:46.941
+Eu hoje gerencia dessa forma.
+
+
+1142
+01:43:46.941 --> 01:43:51.941
+Inclusive eu estou mudando minha forma de gerenciamento está sendo assim agora.
+
+
+1143
+01:43:51.941 --> 01:43:57.941
+Eu crio um time para cada fábrica. é, é isso mesmo. Chupa.
+
+
+1144
+01:43:57.941 --> 01:44:00.941
+é isso mesmo. Eu tenho um time.
+
+
+1145
+01:44:00.941 --> 01:44:02.941
+Que tem um factory lead.
+
+
+1146
+01:44:02.941 --> 01:44:05.941
+O Research. Um backlog.
+
+
+1147
+01:44:05.941 --> 01:44:09.941
+Agora vocês vão pirar um deve um teste.
+
+
+1148
+01:44:09.941 --> 01:44:11.941
+E um document.
+
+
+1149
+01:44:11.941 --> 01:44:13.941
+Então, basicamente.
+
+
+1150
+01:44:13.941 --> 01:44:16.941
+Esse cara tá olhando meu repositório de cima.
+
+
+1151
+01:44:16.941 --> 01:44:22.941
+E aí eu falo. Kill.
+
+
+1152
+01:44:22.941 --> 01:44:24.941
+Bring me.
+
+
+1153
+01:44:24.941 --> 01:44:29.941
+The Latest Updates About the Project.
+
+
+1154
+01:44:29.941 --> 01:44:34.941
+And.
+
+
+1155
+01:44:34.941 --> 01:44:36.941
+Ask Inc.
+
+
+1156
+01:44:36.941 --> 01:44:39.941
+To Provide me.
+
+
+1157
+01:44:39.941 --> 01:44:41.941
+A Summary.
+
+
+1158
+01:44:41.941 --> 01:44:45.941
+About What Happened.
+
+
+1159
+01:44:45.941 --> 01:44:47.941
+This week.
+
+
+1160
+01:44:47.941 --> 01:44:52.941
+E aí você cria uma rotina para isso.
+
+
+1161
+01:44:52.941 --> 01:44:58.941
+Eu estou citando agora, porque antes eles ficavam divididos aí, o certo é uma rotina. Então eu tenho um time Que Conversa Com Todo Mundo Eles Se Conversam.
+
+
+1162
+01:44:58.941 --> 01:45:02.941
+Então, por exemplo, o que o mandou? Uma tarefa.
+
+
+1163
+01:45:02.941 --> 01:45:04.941
+O índice pegou essa tarefa.
+
+
+1164
+01:45:04.941 --> 01:45:08.941
+E fez um Equally update para mim.
+
+
+1165
+01:45:08.941 --> 01:45:11.941
+Chipou a tarefa no linear.
+
+
+1166
+01:45:11.941 --> 01:45:14.941
+Olha que depressivo.
+
+
+1167
+01:45:14.941 --> 01:45:17.941
+Puxou a tarefa no línea.
+
+
+1168
+01:45:17.941 --> 01:45:19.941
+Volta aqui!
+
+
+1169
+01:45:19.941 --> 01:45:23.941
+Aí. O que o mandou para o Slate.
+
+
+1170
+01:45:23.941 --> 01:45:25.941
+Revisou.
+
+
+1171
+01:45:25.941 --> 01:45:28.941
+Em que não aprovou. E ele está falando. Olha.
+
+
+1172
+01:45:28.941 --> 01:45:32.941
+O teste que mexendo tá em Progress. Então, se eu vier aqui.
+
+
+1173
+01:45:32.941 --> 01:45:36.941
+No Task Spec, que eu estou fazendo os testes finais agora.
+
+
+1174
+01:45:36.941 --> 01:45:38.941
+Eu estou testando.
+
+
+1175
+01:45:38.941 --> 01:45:41.941
+Eu tenho duas pull. Requires abertas aqui. ó.
+
+
+1176
+01:45:41.941 --> 01:45:45.941
+Que falhar.
+
+
+1177
+01:45:45.941 --> 01:45:49.941
+Eu vou consertar esse cara. Mas a ideia que eu vou ter um time fazendo isso, então.
+
+
+1178
+01:45:49.941 --> 01:45:57.941
+Só para voltar aqui. Eu não sei o que vocês estão escrevendo, mas deixa eu terminar o processo que eu mostro.
+
+
+1179
+01:45:57.941 --> 01:46:03.941
+Cara. Isso aqui é o supra sumo do supra sumo, tá? Quem tá fazendo isso aqui? é assim.
+
+
+1180
+01:46:03.941 --> 01:46:08.941
+Times que estão trabalhando com o grok bot no nível que eu estou também. Então é assim.
+
+
+1181
+01:46:08.941 --> 01:46:12.941
+Você tem o cockpit.
+
+
+1182
+01:46:12.941 --> 01:46:16.941
+Chama de. Eu vou publicar para vocês um pedaço do meu await. Tá.
+
+
+1183
+01:46:16.941 --> 01:46:19.941
+Por causa que você perguntou Davi tá.
+
+
+1184
+01:46:19.941 --> 01:46:27.941
+Então eu divido o Eyed em três partes. Calma aí. Vocês querem ver isso aqui enquanto tá fazendo cranking? Eu Quero Ver Outra Coisa.
+
+
+1185
+01:46:27.941 --> 01:46:30.941
+Vamos ver aqui.
+
+
+1186
+01:46:30.941 --> 01:46:32.941
+Ah, tá, beleza. Então, olha só.
+
+
+1187
+01:46:32.941 --> 01:46:37.941
+Eu tenho três níveis no Idols, tá? A primeira se chama.
+
+
+1188
+01:46:37.941 --> 01:46:40.941
+Cockpit.
+
+
+1189
+01:46:40.941 --> 01:46:49.941
+A segunda se chama autônomos.
+
+
+1190
+01:46:49.941 --> 01:46:51.941
+E a terceira.
+
+
+1191
+01:46:51.941 --> 01:46:56.941
+Se chama Dark Factory.
+
+
+1192
+01:46:56.941 --> 01:46:59.941
+E aí, como que eu tenho feito hoje.
+
+
+1193
+01:46:59.941 --> 01:47:03.941
+Dá só para entender o nível de loucura aqui que eu.
+
+
+1194
+01:47:03.941 --> 01:47:08.941
+Na verdade, eu chamo de facto. E só, né.
+
+
+1195
+01:47:08.941 --> 01:47:14.941
+Então, qual o meu entendimento? Eu trabalhando nos meus projetos há muitos anos.
+
+
+1196
+01:47:14.941 --> 01:47:17.941
+Eu começo um projeto.
+
+
+1197
+01:47:17.941 --> 01:47:23.941
+é muito doido. Esses Frameworks aqui tá. Vocês me falam. O que vocês acham? Isso faz sentido.
+
+
+1198
+01:47:23.941 --> 01:47:31.941
+Aí você fala. Ah, mas é complexo demais. é porque a vida é complexa para mim. Então eu preciso de Coisas Para Resolver Meus Problemas Então Assim Eu Começo O Projeto.
+
+
+1199
+01:47:31.941 --> 01:47:33.941
+Então eu vou lá entender o projeto.
+
+
+1200
+01:47:33.941 --> 01:47:38.941
+Então vamos supor que eu peguei um projeto chamado Uc North Windpay.
+
+
+1201
+01:47:38.941 --> 01:47:40.941
+Beleza. Esse é o projeto.
+
+
+1202
+01:47:40.941 --> 01:47:43.941
+Aí. O projeto está aqui. Aí eu vou entender.
+
+
+1203
+01:47:43.941 --> 01:47:47.941
+Aí. Eu vou chegar no projeto aqui. Eu vou abrir o super engineering.
+
+
+1204
+01:47:47.941 --> 01:47:50.941
+Eu estou dando. Eu estou dando.
+
+
+1205
+01:47:50.941 --> 01:47:56.941
+Isso aqui é literalmente o meu molho secreto, tá? Ninguém tem acesso a isso aqui. Isso aqui é como eu trabalho.
+
+
+1206
+01:47:56.941 --> 01:47:59.941
+Beleza. Então eu abro super engineering.
+
+
+1207
+01:47:59.941 --> 01:48:03.941
+Aí. Eu começo a entender o projeto. Aí eu uso o quê? Que eu uso meu combo, né?
+
+
+1208
+01:48:03.941 --> 01:48:06.941
+Desk Spec para gerar as tarefas. Atual.
+
+
+1209
+01:48:06.941 --> 01:48:08.941
+Vamos pegar aqui. Assim o aise para decompor.
+
+
+1210
+01:48:08.941 --> 01:48:11.941
+O problema? Task Spec.
+
+
+1211
+01:48:11.941 --> 01:48:14.941
+Para gerar as tarefas.
+
+
+1212
+01:48:14.941 --> 01:48:18.941
+E aí, se isso for uma fábrica, ou se for algo muito complexo.
+
+
+1213
+01:48:18.941 --> 01:48:19.941
+Eu uso, converge.
+
+
+1214
+01:48:19.941 --> 01:48:22.941
+Mas eu.
+
+
+1215
+01:48:22.941 --> 01:48:25.941
+Esses dois normalmente.
+
+
+1216
+01:48:25.941 --> 01:48:32.941
+Beleza. Aí eu vou lá, corto os negócios. Tá funcionando. Não sei o que aí as tarefas começam a aparecer lá.
+
+
+1217
+01:48:32.941 --> 01:48:38.941
+Eu vou habilitando o backlog. Vou entendendo. Vou fazendo aí. Eu vou me tirar do loop.
+
+
+1218
+01:48:38.941 --> 01:48:41.941
+Aí. Eu retiro do loop.
+
+
+1219
+01:48:41.941 --> 01:48:43.941
+Aí quando eu me tiro do loop.
+
+
+1220
+01:48:43.941 --> 01:48:46.941
+Eu saio do Super Engineering.
+
+
+1221
+01:48:46.941 --> 01:48:49.941
+E aí eu vou para o Simax.
+
+
+1222
+01:48:49.941 --> 01:48:51.941
+Aí eu abro projeto no Siem.
+
+
+1223
+01:48:51.941 --> 01:48:55.941
+E eu já tenho esse processo de automação. Que está acontecendo.
+
+
+1224
+01:48:55.941 --> 01:48:58.941
+Tenho. Abro aqui o projeto no Simux. Olha, coisa linda.
+
+
+1225
+01:48:58.941 --> 01:49:01.941
+Ele fazendo tudo. Autônomo.
+
+
+1226
+01:49:01.941 --> 01:49:04.941
+Passe um passe agora. Sim, vocês vão ver o Cvg. Delícia.
+
+
+1227
+01:49:04.941 --> 01:49:11.941
+Olha que foda. Um, dois, três, quatro, cinco. Agora Sim, é o meu Cvg bichão. Oito.
+
+
+1228
+01:49:11.941 --> 01:49:15.941
+Tudo construindo a feature inteira.
+
+
+1229
+01:49:15.941 --> 01:49:19.941
+Desculpa, fod.
+
+
+1230
+01:49:19.941 --> 01:49:20.941
+Voltando onde eu estava.
+
+
+1231
+01:49:20.941 --> 01:49:22.941
+Aí. Eu abro o Cimax.
+
+
+1232
+01:49:22.941 --> 01:49:26.941
+Aí? O sim Box está aqui.
+
+
+1233
+01:49:26.941 --> 01:49:29.941
+Aqui! Abro, Cimax.
+
+
+1234
+01:49:29.941 --> 01:49:34.941
+E aí o Cibox. Agora eu trabalho muito pouco tempo nele. Porque eu fico aqui do lado.
+
+
+1235
+01:49:34.941 --> 01:49:38.941
+Ele já está rodando mais autônomo. Eu estou vendo as tarefas. ó, executa as tarefas, tais.
+
+
+1236
+01:49:38.941 --> 01:49:44.941
+Faz tal coisa. Ele fica aqui fazendo isso aqui. ó, isso aqui. Eu não preciso dar mais atenção para o Projeto Do Jeito Que Eu Dou.
+
+
+1237
+01:49:44.941 --> 01:49:48.941
+Então agora eu já estou saindo um pouco mais do controle. Eu estou deixando esse gate agora.
+
+
+1238
+01:49:48.941 --> 01:49:52.941
+Automatizado. Porque quem automatizou isso aqui.
+
+
+1239
+01:49:52.941 --> 01:49:56.941
+O Seawise Tech. Ele automatizou isso para mim.
+
+
+1240
+01:49:56.941 --> 01:50:00.941
+Aí quando eu chego no nível em que eu já conheço projeto. Ele já está.
+
+
+1241
+01:50:00.941 --> 01:50:05.941
+Rodando e eu não preciso mais olhar para ele. Eu vou para a fábrica. Aí eu trago o grok bot.
+
+
+1242
+01:50:05.941 --> 01:50:10.941
+Antes eu tentar fazer isso com o Hermes Agents ou com o Openclop. Eu não consegui fazer bem.
+
+
+1243
+01:50:10.941 --> 01:50:14.941
+E agora o Grokbox faz muito bem. Isso.
+
+
+1244
+01:50:14.941 --> 01:50:16.941
+Então o grok bot. Eu venho aqui.
+
+
+1245
+01:50:16.941 --> 01:50:19.941
+Cria um time.
+
+
+1246
+01:50:19.941 --> 01:50:24.941
+Certo? A responsabilidade de cada um do time.
+
+
+1247
+01:50:24.941 --> 01:50:26.941
+E aí?
+
+
+1248
+01:50:26.941 --> 01:50:29.941
+Cada um dos tem uma responsabilidade. Então, Kill.
+
+
+1249
+01:50:29.941 --> 01:50:32.941
+Ele é o Factory Lead. Ele é como se fosse o Pm.
+
+
+1250
+01:50:32.941 --> 01:50:41.941
+Eu tenho prob que vai fazer a pesquisa que eu falei para vocês. Que tem o Indian que faz pesquisa. Então Eu Tenho Um Agente Que Faz Pesquisa Para Mim.
+
+
+1251
+01:50:41.941 --> 01:50:49.941
+Ele já sabe a intenção do projeto. Ele vai lá, busca na rede, faz pesquisas na Internet e traz para mim.
+
+
+1252
+01:50:49.941 --> 01:50:54.941
+Coisas para implementar. Aí eu tenho o Slate, que é o backlog. Ele vai lá e registra essas informações no linear para mim.
+
+
+1253
+01:50:54.941 --> 01:50:57.941
+Aí uma vez. Uma hora que ele registra.
+
+
+1254
+01:50:57.941 --> 01:51:00.941
+Wright, pega.
+
+
+1255
+01:51:00.941 --> 01:51:04.941
+E faz a escrita da Poor Requests. Faz a escrita do código.
+
+
+1256
+01:51:04.941 --> 01:51:08.941
+E faz um pull requests. Quando o Pull requests finaliza.
+
+
+1257
+01:51:08.941 --> 01:51:13.941
+O acei. Pega, faz um teste, roda o Ci. Verifica se está tudo certo.
+
+
+1258
+01:51:13.941 --> 01:51:16.941
+E aí ele aceita ou recusa.
+
+
+1259
+01:51:16.941 --> 01:51:30.941
+é isso?
+
+
+1260
+01:51:30.941 --> 01:51:40.941
+Legal. E Diego. Essa ideia aqui do Frankly Big Gibret e do Clarice Bleacher.
+
+
+1261
+01:51:40.941 --> 01:51:46.941
+Sempre que há um trabalho difícil para fazer, eu atribuo a um homem preguiçoso.
+
+
+1262
+01:51:46.941 --> 01:51:51.941
+Ele com certeza encontrará uma maneira fácil de fazer totalmente.
+
+
+1263
+01:51:51.941 --> 01:51:55.941
+é, faz tipo, duas semanas que o Grock lançou. é tipo isso.
+
+
+1264
+01:51:55.941 --> 01:51:58.941
+Daí. Você já vê como que eu estou.
+
+
+1265
+01:51:58.941 --> 01:52:09.941
+No Bleeding Edge, né? Não é nem Karine Edge. Não.
+
+
+1266
+01:52:09.941 --> 01:52:17.941
+Ele já é. Ele já tem Brief Spec aqui.
+
+
+1267
+01:52:17.941 --> 01:52:19.941
+Cara pra Factory.
+
+
+1268
+01:52:19.941 --> 01:52:23.941
+Para ficar barato. Eu pagaria o Kim.
+
+
+1269
+01:52:23.941 --> 01:52:25.941
+O que me é muito foda. Assim.
+
+
+1270
+01:52:25.941 --> 01:52:33.941
+Na minha humilde opinião, que me performa como oposs cinco tranquilamente, principalmente pelo Test Spec, que cria as utilidades.
+
+
+1271
+01:52:33.941 --> 01:52:39.941
+As unidades. Então, assim se eu fosse escolher, eu escolheria sempre três.
+
+
+1272
+01:52:39.941 --> 01:52:45.941
+Se não puder, tres, eu teria o Cloud primeiro. Depois eu teria o codec.
+
+
+1273
+01:52:45.941 --> 01:52:51.941
+Sujeitos a modificações, dependendo do meu humor.
+
+
+1274
+01:52:51.941 --> 01:52:54.941
+You kimi.
+
+
+1275
+01:52:54.941 --> 01:52:56.941
+Se você puder escolher.
+
+
+1276
+01:52:56.941 --> 01:53:00.941
+Uma Open e uma fechada.
+
+
+1277
+01:53:00.941 --> 01:53:02.941
+Eu escolheria o Codex.
+
+
+1278
+01:53:02.941 --> 01:53:05.941
+Porque ele tem o.
+
+
+1279
+01:53:05.941 --> 01:53:09.941
+Ele tem.
+
+
+1280
+01:53:09.941 --> 01:53:13.941
+Ele tem uma assinatura muito generosa. Vai fazer muita coisa com ele.
+
+
+1281
+01:53:13.941 --> 01:53:15.941
+E escolheria o quê? Me.
+
+
+1282
+01:53:15.941 --> 01:53:20.941
+Pudesse escolher só um, eu escolheria o Chat Gpt, o codec.
+
+
+1283
+01:53:20.941 --> 01:53:24.941
+Mas o como perfeito aqui seria Claudia Kimicodex.
+
+
+1284
+01:53:24.941 --> 01:53:30.941
+O Grok. Eu tô muito feliz com ele. Gosto bastante, mas eu ainda.
+
+
+1285
+01:53:30.941 --> 01:53:33.941
+Eu ainda estou me adaptando a ele.
+
+
+1286
+01:53:33.941 --> 01:53:35.941
+Tá.
+
+
+1287
+01:53:35.941 --> 01:53:38.941
+Oh, latest test back.
+
+
+1288
+01:53:38.941 --> 01:53:43.941
+Está com risco. Isolation Passage.
+
+
+1289
+01:53:43.941 --> 01:53:49.941
+Eles registaram a tarefa foi para mim.
+
+
+1290
+01:53:49.941 --> 01:54:19.941
+O oceano conseguiu fazer isolação, tá? Por quê?
+
+
+1291
+01:54:28.941 --> 01:54:31.941
+Eu acho isso muito magia negra, na minha opinião.
+
+
+1292
+01:54:31.941 --> 01:54:34.941
+Os Bots conversam entre eles. é muito escrito. Isso.
+
+
+1293
+01:54:34.941 --> 01:54:37.941
+Quer ver? Cadê.
+
+
+1294
+01:54:37.941 --> 01:54:39.941
+Quando eles têm interação.
+
+
+1295
+01:54:39.941 --> 01:54:41.941
+Eles abriram uma thread aqui. Deixa eu ver se eu.
+
+
+1296
+01:54:41.941 --> 01:54:44.941
+Se eu vejo em algum lugar aqui. ó.
+
+
+1297
+01:54:44.941 --> 01:54:51.941
+Eu acho. Eu sou muito magia negra, velho velho. Isso aqui é a parada mais disruptivo que eu já vi desde o Cloud.
+
+
+1298
+01:54:51.941 --> 01:54:53.941
+Desde o Cloud. De longe, tá.
+
+
+1299
+01:54:53.941 --> 01:54:56.941
+Então eles começam a trabalhar.
+
+
+1300
+01:54:56.941 --> 01:54:58.941
+Está conversar.
+
+
+1301
+01:54:58.941 --> 01:55:02.941
+Para chegar num acordo.
+
+
+1302
+01:55:02.941 --> 01:55:06.941
+Então marquei eles aqui.
+
+
+1303
+01:55:06.941 --> 01:55:15.941
+O Remains é bom. Também gosta dele?
+
+
+1304
+01:55:15.941 --> 01:55:20.941
+é o problema do Grok Heavy, que é trezentos do letra. Ele é caro.
+
+
+1305
+01:55:20.941 --> 01:55:45.941
+Mas agora eles estão expandindo o Grok Bot para outras assinaturas. Então está indo para Proska agora.
+
+
+1306
+01:55:45.941 --> 01:55:50.941
+Então aqui é como se você tivesse um time, né? é como se você tivesse um time, não é você ter um time.
+
+
+1307
+01:55:50.941 --> 01:55:55.941
+Então, na hora que você já está confortável, que você entende o processo que você entende? A fábrica.
+
+
+1308
+01:55:55.941 --> 01:56:03.941
+E assim por diante. Você faz. Por exemplo, eu vou dar outro Nugget para você. Isso aqui eu estou mostrando Para Vocês Ninguém, Nunca Viu Tá Ninguém, Ninguém.
+
+
+1309
+01:56:03.941 --> 01:56:10.941
+Nem o Datasip. Então eu não fiquei com raiva. Tá, pessoal? Depois vou mostrar pra vocês. Mas.
+
+
+1310
+01:56:10.941 --> 01:56:11.941
+Eu peço para toda semana.
+
+
+1311
+01:56:11.941 --> 01:56:15.941
+O link gerava mim um documento.
+
+
+1312
+01:56:15.941 --> 01:56:21.941
+Então deixa eu te mostrar aqui qual documento ele me gera.
+
+
+1313
+01:56:21.941 --> 01:56:49.941
+Só um minuto.
+
+
+1314
+01:56:49.941 --> 01:56:53.941
+Esse documento é o primeiro documento que ele me gera inicial.
+
+
+1315
+01:56:53.941 --> 01:56:56.941
+De tudo que ele fez.
+
+
+1316
+01:56:56.941 --> 01:57:01.941
+E aí eu tenho vários estilos. Quando eu vou viajar, o compacto e assim por diante.
+
+
+1317
+01:57:01.941 --> 01:57:07.941
+E depois ele começa a me mandar somente atualizações. ó Travelers Operation Field Guide.
+
+
+1318
+01:57:07.941 --> 01:57:09.941
+Então eu vou lendo.
+
+
+1319
+01:57:09.941 --> 01:57:11.941
+Aí. Eu vou fazendo anotações.
+
+
+1320
+01:57:11.941 --> 01:57:18.941
+Vou entendendo o projeto cada vez mais. Vou trabalhando nele e assim por diante. Porque eu não consigo entender todas As Features Que Foram Implementadas.
+
+
+1321
+01:57:18.941 --> 01:57:22.941
+Eu tenho sempre uma ideia. Eu sei o que é, mas eu não sei o nível.
+
+
+1322
+01:57:22.941 --> 01:57:26.941
+Lá dentro. E como eu sou um cara muito chato.
+
+
+1323
+01:57:26.941 --> 01:57:28.941
+Eu quero entender, né?
+
+
+1324
+01:57:28.941 --> 01:57:33.941
+Eu vou tentar entender. Ali pedaço a pedaço. Então ele gera esses documentos para mim.
+
+
+1325
+01:57:33.941 --> 01:57:36.941
+Então, cara a imaginação.
+
+
+1326
+01:57:36.941 --> 01:57:39.941
+Oh, right writes the Fix I see Only Scorsen.
+
+
+1327
+01:57:39.941 --> 01:57:42.941
+Trump Block. Eu sei.
+
+
+1328
+01:57:42.941 --> 01:57:47.941
+Trump block, lua trinta e quatro, que é o problema.
+
+
+1329
+01:57:47.941 --> 01:57:52.941
+Que a gente teve no Taskmask Slolution. Você aceitou.
+
+
+1330
+01:57:52.941 --> 01:57:59.941
+Mas ele não respondeu. O que a gente tem que fazer aqui?
+
+
+1331
+01:57:59.941 --> 01:58:07.941
+It starts on task and then say scores again like clean accepts again except with gaps does not merge weight.
+
+
+1332
+01:58:07.941 --> 01:58:12.941
+Seis centos. If You Want.
+
+
+1333
+01:58:12.941 --> 01:58:14.941
+Let's Fix that.
+
+
+1334
+01:58:14.941 --> 01:58:20.941
+E o que é legal disso aqui. Assim, se vocês conseguirem entender toda a lombra. Mas.
+
+
+1335
+01:58:20.941 --> 01:58:22.941
+Você está no seu celular?
+
+
+1336
+01:58:22.941 --> 01:58:26.941
+Ou você está em qualquer lugar. E você tem uma fábrica que você já conhece.
+
+
+1337
+01:58:26.941 --> 01:58:29.941
+E você tem um time fazendo para você.
+
+
+1338
+01:58:29.941 --> 01:58:32.941
+Eu acho isso aqui assim. ó.
+
+
+1339
+01:58:32.941 --> 01:58:33.941
+A parada. Mais foda.
+
+
+1340
+01:58:33.941 --> 01:58:39.941
+Que vai me ajudar em vários outros controles que eu tenho da minha vida, que já acelerou.
+
+
+1341
+01:58:39.941 --> 01:58:42.941
+Gigantescamente.
+
+
+1342
+01:58:42.941 --> 01:58:45.941
+Essas informações.
+
+
+1343
+01:58:45.941 --> 01:58:48.941
+Desculpa, eu estou desviando um pouco, mas só para.
+
+
+1344
+01:58:48.941 --> 01:58:58.941
+Dá mais visão para vocês, tá?
+
+
+1345
+01:58:58.941 --> 01:59:07.941
+Aí, Lucas. Aí eu já não tenho mais esse problema aí. Eu deixo eles lidarem com esse negócio. O que é Legal Aqui é O Seguinte.
+
+
+1346
+01:59:07.941 --> 01:59:09.941
+Todos eles compartilham uma máquina.
+
+
+1347
+01:59:09.941 --> 01:59:13.941
+Lá. Então a máquina é a mesma. Então, se eu entrar aqui.
+
+
+1348
+01:59:13.941 --> 01:59:18.941
+Do Chief of Staff, por exemplo.
+
+
+1349
+01:59:18.941 --> 01:59:25.941
+O que essa máquina tem. Ela tem.
+
+
+1350
+01:59:25.941 --> 01:59:31.941
+Obviously, abre aqui.
+
+
+1351
+01:59:31.941 --> 01:59:38.941
+Ele tem o Chrome.
+
+
+1352
+01:59:38.941 --> 01:59:39.941
+Ele tem.
+
+
+1353
+01:59:39.941 --> 01:59:48.941
+Files aqui, onde ele armazena tudo isso. Então ele controla. Ele sabe tudo porque ele vai guardando aqui e ele Tem Um Chat Componente Tá Vendo.
+
+
+1354
+01:59:48.941 --> 01:59:54.941
+Olá. Tô bonitinho. Ele tem tudo.
+
+
+1355
+01:59:54.941 --> 01:59:57.941
+Workspace dele.
+
+
+1356
+01:59:57.941 --> 02:00:06.941
+E ele tem a Celi.
+
+
+1357
+02:00:06.941 --> 02:00:08.941
+Por exemplo, I still my pai nessa cli.
+
+
+1358
+02:00:08.941 --> 02:00:11.941
+Entendeu? Olha que isso foda.
+
+
+1359
+02:00:11.941 --> 02:00:15.941
+Então eles têm acesso a tudo velho. E eu posso gravar uma Skill aqui, se eu quiser.
+
+
+1360
+02:00:15.941 --> 02:00:19.941
+Ensinando ele para fazer alguma coisa. é muito doido. Isso aqui é.
+
+
+1361
+02:00:19.941 --> 02:00:27.941
+Inspiração total na minha. Nunca vi nada igual.
+
+
+1362
+02:00:27.941 --> 02:00:35.941
+Olá. Estão trabalhando aqui? ó.
+
+
+1363
+02:00:35.941 --> 02:00:43.941
+Say the right take lua trinta e quatro. Ele vai olhar agora. Qual foi o problema?
+
+
+1364
+02:00:43.941 --> 02:00:46.941
+De lua.
+
+
+1365
+02:00:46.941 --> 02:00:50.941
+Aí ele vai.
+
+
+1366
+02:00:50.941 --> 02:00:57.941
+Corrigir. E agora o Wright está trabalhando. Se eu vier no Wright.
+
+
+1367
+02:00:57.941 --> 02:01:09.941
+Está cozinhando aqui? ó.
+
+
+1368
+02:01:09.941 --> 02:01:17.941
+Aí. é uma outra história sobre isso. Que depois eu compartilho com vocês sobre efetividade disso realmente na prática. Tá.
+
+
+1369
+02:01:17.941 --> 02:01:20.941
+Que é muito assustador. Mais ainda.
+
+
+1370
+02:01:20.941 --> 02:01:30.941
+Então aqui ó, sobretudo.
+
+
+1371
+02:01:30.941 --> 02:01:39.941
+Vamos ver aqui. Modern.
+
+
+1372
+02:01:39.941 --> 02:01:42.941
+Ainda está executando. Não, calma aí.
+
+
+1373
+02:01:42.941 --> 02:01:44.941
+Okay, está fora da sessão.
+
+
+1374
+02:01:44.941 --> 02:01:51.941
+Joy. Test dezasseis.
+
+
+1375
+02:01:51.941 --> 02:01:56.941
+Dois delegantes.
+
+
+1376
+02:01:56.941 --> 02:02:15.941
+O que? Que? Eu não estou vendo? Esses outros caras aqui.
+
+
+1377
+02:02:15.941 --> 02:02:18.941
+Aqui é seis. Vamos ver se a gente acha seis aqui.
+
+
+1378
+02:02:18.941 --> 02:02:21.941
+Modern Sticky House.
+
+
+1379
+02:02:21.941 --> 02:02:26.941
+Desculpa, Ingestium. Src. Não Film.
+
+
+1380
+02:02:26.941 --> 02:02:31.941
+Seis. Hitler Model passa esquema Writer.
+
+
+1381
+02:02:31.941 --> 02:02:39.941
+Click housing, dlt.
+
+
+1382
+02:02:39.941 --> 02:02:43.941
+Dbt.
+
+
+1383
+02:02:43.941 --> 02:02:46.941
+Tá aqui. Charge Back.
+
+
+1384
+02:02:46.941 --> 02:02:53.941
+Creates, validação está escrevendo. Ainda.
+
+
+1385
+02:02:53.941 --> 02:02:57.941
+But.
+
+
+1386
+02:02:57.941 --> 02:03:00.941
+Ele tá fazendo um bindinho aqui.
+
+
+1387
+02:03:00.941 --> 02:03:14.941
+Vamos. Vamos ver o Darkster. Com certeza. A gente tem que ver o Darkster.
+
+
+1388
+02:03:14.941 --> 02:03:28.941
+Own Tasks.
+
+
+1389
+02:03:28.941 --> 02:03:34.941
+é que eu tenho que falar? Porque ele misturou o Task Spec com Converge, tá? Eu tenho que trabalhar, inclusive nisso.
+
+
+1390
+02:03:34.941 --> 02:04:02.941
+But. A gente começou com o Task Spec e virou. Converge. Por isso que ele tá dando uma alumbrada aqui.
+
+
+1391
+02:04:02.941 --> 02:04:09.941
+Ah, uma coisa aqui. ó, olha só isso. Aqui.
+
+
+1392
+02:04:09.941 --> 02:04:12.941
+Pedir um gol, né.
+
+
+1393
+02:04:12.941 --> 02:04:13.941
+Tá vendo?
+
+
+1394
+02:04:13.941 --> 02:04:25.941
+Saca só!
+
+
+1395
+02:04:25.941 --> 02:04:29.941
+Você vê o que aconteceu aqui?
+
+
+1396
+02:04:29.941 --> 02:04:31.941
+Foda, né.
+
+
+1397
+02:04:31.941 --> 02:04:34.941
+Ele tirou o perfeito gol pra mim.
+
+
+1398
+02:04:34.941 --> 02:04:38.941
+Hi, velho. Minha vida é muito boa. Você tá doido, gente.
+
+
+1399
+02:04:38.941 --> 02:04:44.941
+Isso que eu ainda estou no meio da tempestade. Se eu tô me sentindo meio louco, imagino vocês. Boa sorte.
+
+
+1400
+02:04:44.941 --> 02:04:47.941
+Emma. Cada um com seus problemas, né? Eu ainda estou.
+
+
+1401
+02:04:47.941 --> 02:04:51.941
+Encontrando minha cabeça, como eu organizo tudo isso. Tá.
+
+
+1402
+02:04:51.941 --> 02:04:54.941
+Mas aqui eu criei um transforme de gol.
+
+
+1403
+02:04:54.941 --> 02:04:58.941
+Então, toda vez que eu apertar esse comando, opt tres.
+
+
+1404
+02:04:58.941 --> 02:05:02.941
+Ele reescreve o que eu escrevi.
+
+
+1405
+02:05:02.941 --> 02:05:07.941
+Para acertar, para criar um gol perfeito. Um objetivo perfeito. Você está doido? Isso aqui é delícia demais.
+
+
+1406
+02:05:07.941 --> 02:05:12.941
+E dele setor, né?
+
+
+1407
+02:05:12.941 --> 02:05:15.941
+Hoje está bizarro, né? Hoje eu só trouxe uns nuggets.
+
+
+1408
+02:05:15.941 --> 02:05:17.941
+Gigante para vocês comerem.
+
+
+1409
+02:05:17.941 --> 02:05:20.941
+Aqui, voltando sobre.
+
+
+1410
+02:05:20.941 --> 02:05:22.941
+Mas acho que. Acho que é a vida real. Tá.
+
+
+1411
+02:05:22.941 --> 02:05:25.941
+A gente vai de um lado para outro contexto.
+
+
+1412
+02:05:25.941 --> 02:05:28.941
+Está vivendo? Essa era da loucura, né?
+
+
+1413
+02:05:28.941 --> 02:05:30.941
+Então aqui.
+
+
+1414
+02:05:30.941 --> 02:05:32.941
+O tices on board.
+
+
+1415
+02:05:32.941 --> 02:05:37.941
+Ele é um alias. O que ele faz? Ele roda oito estágios.
+
+
+1416
+02:05:37.941 --> 02:05:42.941
+Ele gera os pacotes. Trabalha no Bronze Chipa. Dark Factory.
+
+
+1417
+02:05:42.941 --> 02:05:49.941
+Então, basicamente, foi o comando que eu criei para poder abstrair todas essas paradas.
+
+
+1418
+02:05:49.941 --> 02:05:51.941
+Deixar aqui.
+
+
+1419
+02:05:51.941 --> 02:05:56.941
+Eu acho muito delícia isso, velho. Olha, agora.
+
+
+1420
+02:05:56.941 --> 02:06:05.941
+Donny.
+
+
+1421
+02:06:05.941 --> 02:06:10.941
+Tá? Você está alumbrando. Tá.
+
+
+1422
+02:06:10.941 --> 02:06:13.941
+Calma aí. Onde eu estou? Ah, tá, desculpa. Eu tô aqui.
+
+
+1423
+02:06:13.941 --> 02:06:15.941
+Gol sete.
+
+
+1424
+02:06:15.941 --> 02:06:18.941
+All tasks under tal completed into and done.
+
+
+1425
+02:06:18.941 --> 02:06:22.941
+No Remaining Tasks Are Associated Linear Cards reflected.
+
+
+1426
+02:06:22.941 --> 02:06:31.941
+Lindo. Vamos lá, Structure Match. Agora você foi, né? O Hatazana.
+
+
+1427
+02:06:31.941 --> 02:06:33.941
+Tá. Agora Sim.
+
+
+1428
+02:06:33.941 --> 02:06:36.941
+Beleza, rato de laboratório.
+
+
+1429
+02:06:36.941 --> 02:06:41.941
+Chama.
+
+
+1430
+02:06:41.941 --> 02:06:46.941
+Vai crancando aí que agora eu só tô terminando a planta pra gente ver o fim a fim.
+
+
+1431
+02:06:46.941 --> 02:06:48.941
+E down Call it a day.
+
+
+1432
+02:06:48.941 --> 02:06:53.941
+Enquanto isso, deixo passar.
+
+
+1433
+02:06:53.941 --> 02:06:57.941
+Só chicote.
+
+
+1434
+02:06:57.941 --> 02:06:59.941
+é o Hermes Bot. é bom.
+
+
+1435
+02:06:59.941 --> 02:07:06.941
+Eu já testei todos. O Hermes é bom, mas nada se compara com o Grokbot. Grokbot é.
+
+
+1436
+02:07:06.941 --> 02:07:14.941
+Você sente que você está chitando no nível mais chitador que existe do mundo. é muito unfair.
+
+
+1437
+02:07:14.941 --> 02:07:18.941
+Ele é uma vantagem que eu nem gostaria de mostrar para vocês. Para ser honesto.
+
+
+1438
+02:07:18.941 --> 02:07:21.941
+Porque essa era a única coisa assim. Tipo, realmente vantagem.
+
+
+1439
+02:07:21.941 --> 02:07:26.941
+Parada que ninguém não usa. Assim. Tipo tal.
+
+
+1440
+02:07:26.941 --> 02:07:29.941
+Mas isso aqui é foda Vel.
+
+
+1441
+02:07:29.941 --> 02:07:33.941
+Então o meu grock bot usa a sua fábrica.
+
+
+1442
+02:07:33.941 --> 02:07:38.941
+Sim, não aí. Eu tenho que entrar aqui nas paradas das configurações, né?
+
+
+1443
+02:07:38.941 --> 02:07:44.941
+Mas eu criei um projeto. Eu criei um time dentro do Grokboch.
+
+
+1444
+02:07:44.941 --> 02:07:51.941
+E esse time é para trabalhar no projeto do Task Spec, na Fábrica do Test Spec. Então automatizei.
+
+
+1445
+02:07:51.941 --> 02:07:54.941
+A automação sacou.
+
+
+1446
+02:07:54.941 --> 02:07:57.941
+Que nem o Thiago falou. Que loucura. O Boy é.
+
+
+1447
+02:07:57.941 --> 02:07:59.941
+E automatizei a automação.
+
+
+1448
+02:07:59.941 --> 02:08:01.941
+Então eu estou fazendo Dog Fury.
+
+
+1449
+02:08:01.941 --> 02:08:05.941
+Eu estou alimentando o produto com o próprio produto, entendeu?
+
+
+1450
+02:08:05.941 --> 02:08:09.941
+Então eu criei uma fábrica do Task Spec.
+
+
+1451
+02:08:09.941 --> 02:08:12.941
+Melhorando o test pack.
+
+
+1452
+02:08:12.941 --> 02:08:13.941
+Depois eu vou criar uma.
+
+
+1453
+02:08:13.941 --> 02:08:16.941
+Uma fábrica.
+
+
+1454
+02:08:16.941 --> 02:08:17.941
+Do converge para melhorar o converge.
+
+
+1455
+02:08:17.941 --> 02:08:22.941
+Depois eu vou criar uma fábrica do projeto que você está para melhorar o seu projeto.
+
+
+1456
+02:08:22.941 --> 02:08:26.941
+Então você cria teams de fábricas.
+
+
+1457
+02:08:26.941 --> 02:08:28.941
+Muito doido, né?
+
+
+1458
+02:08:28.941 --> 02:08:33.941
+Outro nível. Eu também acho.
+
+
+1459
+02:08:33.941 --> 02:08:38.941
+Não. E você criou umas paradas aqui. Muito foda. Tipo.
+
+
+1460
+02:08:38.941 --> 02:08:41.941
+Eles trabalham. Por exemplo, no meu seco de Brain.
+
+
+1461
+02:08:41.941 --> 02:08:46.941
+E assim por diante. Mas uma coisa que eu acho legal aqui.
+
+
+1462
+02:08:46.941 --> 02:08:48.941
+é que, por exemplo.
+
+
+1463
+02:08:48.941 --> 02:08:50.941
+Ainda não terminei, mas pô.
+
+
+1464
+02:08:50.941 --> 02:08:53.941
+Eu peço para ele ler todos os meus Slacks para aprender.
+
+
+1465
+02:08:53.941 --> 02:08:58.941
+Criar uma Skill de como eu me comunico. E aí ele começa a responder a galera.
+
+
+1466
+02:08:58.941 --> 02:09:00.941
+Então, tipo assim, eu já tô testando isso, né.
+
+
+1467
+02:09:00.941 --> 02:09:06.941
+Ele manda pra mim aqui primeiro. Eu valido. Dou a Sept. Ele escreve lá para o meu chefe. Faz.
+
+
+1468
+02:09:06.941 --> 02:09:09.941
+Resumo semanal. Faz tudo pra mim, velho.
+
+
+1469
+02:09:09.941 --> 02:09:12.941
+Tipo outra coisa.
+
+
+1470
+02:09:12.941 --> 02:09:14.941
+Com a Manu.
+
+
+1471
+02:09:14.941 --> 02:09:16.941
+Exercícios com a Manu.
+
+
+1472
+02:09:16.941 --> 02:09:20.941
+Academia. Meus treinos!
+
+
+1473
+02:09:20.941 --> 02:09:27.941
+Esse aqui é mais particular, mas pô Youtube. Análise Youtube. Ah, eu tenho aqui, por exemplo, o Pulse, que me mandou, inclusive hoje.
+
+
+1474
+02:09:27.941 --> 02:09:32.941
+Algumas coisas. Novidades para poder estudar, então, assim.
+
+
+1475
+02:09:32.941 --> 02:09:37.941
+Está fazendo as paradas. Muito, muito fodas. Eu ainda estou experimentando muita coisa. E agora.
+
+
+1476
+02:09:37.941 --> 02:09:41.941
+Fala assim. Quero fritar a minha mente. Escreve aí pra vocês.
+
+
+1477
+02:09:41.941 --> 02:09:45.941
+Da fritada que eu não vou sofrer sozinho, né?
+
+
+1478
+02:09:45.941 --> 02:09:48.941
+Botar tudo para sofrer aqui também. Porque é assim.
+
+
+1479
+02:09:48.941 --> 02:09:51.941
+Isso porque vocês vão me deixar sem voz.
+
+
+1480
+02:09:51.941 --> 02:09:54.941
+Mas beleza. Então chupa aqui.
+
+
+1481
+02:09:54.941 --> 02:09:58.941
+Vou dar pra vocês o ouro do ouro. Toma aí.
+
+
+1482
+02:09:58.941 --> 02:10:04.941
+O diretório do Grok Bot com tudo.
+
+
+1483
+02:10:04.941 --> 02:10:05.941
+Com os agentes, já. Tudo pronto.
+
+
+1484
+02:10:05.941 --> 02:10:10.941
+Estão bem?
+
+
+1485
+02:10:10.941 --> 02:10:15.941
+Toma.
+
+
+1486
+02:10:15.941 --> 02:10:41.941
+Então toma.
+
+
+1487
+02:10:41.941 --> 02:10:46.941
+é Rafael. Eles, infelizmente, os botes compartilham uma máquina. Então eles trabalham. Todo mundo lá.
+
+
+1488
+02:10:46.941 --> 02:10:49.941
+Então quando você loga.
+
+
+1489
+02:10:49.941 --> 02:10:54.941
+Uma vez no seu e mail. Todos os botes utilizam isso. é uma máquina compartilhada com.
+
+
+1490
+02:10:54.941 --> 02:11:00.941
+Com Shared Context com a raiva em Mind. Então eles compartilham com memórias e tudo lá dentro.
+
+
+1491
+02:11:00.941 --> 02:11:13.941
+Então eles têm uma máquina que eles compartilham.
+
+
+1492
+02:11:13.941 --> 02:11:26.941
+Eu preciso queimar minha mente. é fod.
+
+
+1493
+02:11:26.941 --> 02:11:32.941
+Depois. Eu queria falar do que eu nunca falo para vocês, mas aí é um assunto mais sensível.
+
+
+1494
+02:11:32.941 --> 02:11:38.941
+O quanto eu consegui aumentar a minha renda na empresa.
+
+
+1495
+02:11:38.941 --> 02:11:42.941
+O quanto eu consegui aumentar minha velocidade no trabalho.
+
+
+1496
+02:11:42.941 --> 02:11:47.941
+O quanto eu comecei a trabalhar em outras coisas ao mesmo tempo.
+
+
+1497
+02:11:47.941 --> 02:11:53.941
+O quanto eu comecei a ganhar mais em dólar em outros projetos ao mesmo tempo, sem ter nenhum impacto na minha vida.
+
+
+1498
+02:11:53.941 --> 02:11:55.941
+E isso tudo por causa dessa loucura aqui.
+
+
+1499
+02:11:55.941 --> 02:12:02.941
+Então isso aqui é tudo. Para eu poder conseguir dar vazão ao meu backlog que eu nunca consegui em dezessete anos de tecnologia.
+
+
+1500
+02:12:02.941 --> 02:12:06.941
+Eu estou chegando num ponto que eu estou zerando meu backlog inteiro. Você tem noção? O que é isso?
+
+
+1501
+02:12:06.941 --> 02:12:08.941
+Cara, todo todo.
+
+
+1502
+02:12:08.941 --> 02:12:13.941
+Então assim eu finalmente estou entrando no processo que eu tô conseguindo zerar.
+
+
+1503
+02:12:13.941 --> 02:12:17.941
+Eu tô conseguindo fazer muitas coisas ao mesmo tempo, com uma qualidade absurda.
+
+
+1504
+02:12:17.941 --> 02:12:21.941
+Entregar tudo a um Point. E ainda está.
+
+
+1505
+02:12:21.941 --> 02:12:30.941
+Muito bem com o sistema atualizado, lendo os documentos no final do dia me atualizando. Então eu estou criando Flow. Ainda Estou Me Adaptando Com Adoles.
+
+
+1506
+02:12:30.941 --> 02:12:33.941
+Então, para quem fizer parte.
+
+
+1507
+02:12:33.941 --> 02:12:38.941
+Cande o datasip. E quem fizer parte da formação.
+
+
+1508
+02:12:38.941 --> 02:12:40.941
+Tá? Então eu vou deixar aqui para vocês. Isso aí.
+
+
+1509
+02:12:40.941 --> 02:12:45.941
+Quem todo mundo que fizer formação e tiver no datasip.
+
+
+1510
+02:12:45.941 --> 02:12:47.941
+Eu vou fazer um workshop.
+
+
+1511
+02:12:47.941 --> 02:12:51.941
+Tá? Eu vou chamar de workshop. Eu vou chamar de Master Class.
+
+
+1512
+02:12:51.941 --> 02:12:56.941
+Que eu vou mostrar o eus para você. E vou mostrar como que eu configuro.
+
+
+1513
+02:12:56.941 --> 02:12:58.941
+O meu ecossistema inteiro.
+
+
+1514
+02:12:58.941 --> 02:13:03.941
+Eu vou pegar um caso de uso de ecossistema, e eu vou configurar ele inteiramente, tá.
+
+
+1515
+02:13:03.941 --> 02:13:11.941
+Desde o projeto, até ele virar autônomo até ele virar fábrica. Como que eu tenho seco de Brem, como que Eu Me Organizo Como Um Todo.
+
+
+1516
+02:13:11.941 --> 02:13:14.941
+Então, quem tiver a formação. Eu já até anotei aqui.
+
+
+1517
+02:13:14.941 --> 02:13:19.941
+E o Datasip. Eu vou fazer uma apresentação sobre isso para vocês. Então vou ter que fazer para o Datasip de qualquer jeito.
+
+
+1518
+02:13:19.941 --> 02:13:23.941
+E eu estendo pra dar informação.
+
+
+1519
+02:13:23.941 --> 02:13:29.941
+Oi, Luan. Tudo que a gente quer é cliente feliz para resolver. Como você faz para capturar.
+
+
+1520
+02:13:29.941 --> 02:13:38.941
+Corretamente a intenção passar isso. Então aí que ficou a parte mais fácil do rolê, né? Porque agora que a Gente Consegue Automatizar Tudo Isso Agora Eu Posso Respirar.
+
+
+1521
+02:13:38.941 --> 02:13:48.941
+E eu posso literalmente. Finalmente, pela primeira vez, falar assim, velho, eu nem vou pensar. Nada, técnico, eu vou. Tô Cagando Pra Tudo Porque.
+
+
+1522
+02:13:48.941 --> 02:13:50.941
+Porque você está com clientes. Eu vou entender.
+
+
+1523
+02:13:50.941 --> 02:13:54.941
+Então, na verdade, é aprimorar os seus soft skills.
+
+
+1524
+02:13:54.941 --> 02:14:01.941
+E aprimorar a sua forma de como você vai capturar. Como você vai entender o problema? Como você vai coletar a intenção.
+
+
+1525
+02:14:01.941 --> 02:14:13.941
+E aí, uma vez que você tem isso, o resto fica fácil.
+
+
+1526
+02:14:13.941 --> 02:14:21.941
+Caralho! Ratasa Ratolino, Rate, Super Rato, Rato, manager.
+
+
+1527
+02:14:21.941 --> 02:14:24.941
+é Marcelo.
+
+
+1528
+02:14:24.941 --> 02:14:29.941
+Infelizmente, eu não acho o tempo que eu gostaria de dar para minha filha.
+
+
+1529
+02:14:29.941 --> 02:14:32.941
+Mas eu vou chegar lá. Eu tô fazendo tudo isso também. Por causa disso.
+
+
+1530
+02:14:32.941 --> 02:14:37.941
+é engraçado, né? A Manu. Ela queria ser sempre benção na vida, né?
+
+
+1531
+02:14:37.941 --> 02:14:41.941
+Eu pelo menos vejo assim independentemente. E aí, cara?
+
+
+1532
+02:14:41.941 --> 02:14:46.941
+A gente cheia de preocupação, cara. Como que vai ser? Como.
+
+
+1533
+02:14:46.941 --> 02:14:48.941
+E cara, eu, em um ano de Manu.
+
+
+1534
+02:14:48.941 --> 02:14:51.941
+A mão. Não vai fazer amanhã. Ela faz oito meses.
+
+
+1535
+02:14:51.941 --> 02:14:54.941
+Eu dobrei meu salário. Basicamente.
+
+
+1536
+02:14:54.941 --> 02:15:02.941
+E eu me sinto a pessoa mais produtiva. E eu consigo dar atenção assim. Claro que não. A atenção que Eu Gostaria De Dar Pra Ela Mas Eu Consigo Estar Com Ela.
+
+
+1537
+02:15:02.941 --> 02:15:05.941
+Três, quatro vezes ali. No dia.
+
+
+1538
+02:15:05.941 --> 02:15:09.941
+Eu tiro a parte da manhã pra ficar com ela um pouquinho. Uma hora, duas horas.
+
+
+1539
+02:15:09.941 --> 02:15:13.941
+Ainda na hora do almoço, você sai um pouquinho com ela. Cinco horas é sagrado. Eu saio com ela.
+
+
+1540
+02:15:13.941 --> 02:15:17.941
+Então eu consigo acompanhar minha filha. Então isso é uma coisa.
+
+
+1541
+02:15:17.941 --> 02:15:21.941
+Muito foda. Sabe, filha. Muito bem. Sou assim.
+
+
+1542
+02:15:21.941 --> 02:15:25.941
+Traz muito isso.
+
+
+1543
+02:15:25.941 --> 02:15:39.941
+Eu sugiro beber.
+
+
+1544
+02:15:39.941 --> 02:15:41.941
+Olha, eu sugeriria.
+
+
+1545
+02:15:41.941 --> 02:15:43.941
+Tem? Quantas pessoas aqui? Oitenta e um, né.
+
+
+1546
+02:15:43.941 --> 02:15:46.941
+Eu sugeriria.
+
+
+1547
+02:15:46.941 --> 02:15:55.941
+Olhar o Adilson. O Adilson é um cara muito foda. Já trabalhei com ele. é um cara também, que eu Considero Fora Da Curva.
+
+
+1548
+02:15:55.941 --> 02:15:59.941
+Faz um grupo cara no Whatsapp, e depois a gente move isso pra algum lugar.
+
+
+1549
+02:15:59.941 --> 02:16:04.941
+Se esse grupo realmente tiver tração. Eu não sou de aceitar grupo. Eu não sou de entrar em grupo, mas.
+
+
+1550
+02:16:04.941 --> 02:16:10.941
+Faz um grupo divulga um grupo legalzinho de insights. Não sei o que.
+
+
+1551
+02:16:10.941 --> 02:16:23.941
+E aí dá para vocês testarem coisas, fazer coisas. Eu acho que é uma coisa legal de vocês fazerem. Eu faria, tá.
+
+
+1552
+02:16:23.941 --> 02:16:26.941
+Rádio sequer paisão. Você, Phil, que tem que aprender muito. Ainda.
+
+
+1553
+02:16:26.941 --> 02:16:33.941
+No rolê do pai. Eu ainda estou muito longe, mas é assim, né?
+
+
+1554
+02:16:33.941 --> 02:16:36.941
+A questão é a gente correr.
+
+
+1555
+02:16:36.941 --> 02:16:39.941
+Acho que a fábrica parou.
+
+
+1556
+02:16:39.941 --> 02:16:42.941
+Não parou. Não tá aqui. Filme forte.
+
+
+1557
+02:16:42.941 --> 02:16:47.941
+A seis parou. Olha, fizemos tudo.
+
+
+1558
+02:16:47.941 --> 02:16:51.941
+Donny. Tipo seis instalado.
+
+
+1559
+02:16:51.941 --> 02:17:00.941
+Fia. Fee.
+
+
+1560
+02:17:00.941 --> 02:17:05.941
+But a hora da verdade.
+
+
+1561
+02:17:05.941 --> 02:17:09.941
+Tá aqui, ó Cis. Criado consenso feito.
+
+
+1562
+02:17:09.941 --> 02:17:18.941
+Tudo criado, foda, né.
+
+
+1563
+02:17:18.941 --> 02:17:19.941
+Gostoso. Isso aqui.
+
+
+1564
+02:17:19.941 --> 02:17:23.941
+Jonathan é bom. Você conseguiu colocar pra dormir, né?
+
+
+1565
+02:17:23.941 --> 02:17:43.941
+é bom demais.
+
+
+1566
+02:17:43.941 --> 02:17:45.941
+Vamos ver o Degxtere.
+
+
+1567
+02:17:45.941 --> 02:18:15.941
+Para ver se o bichão é rasgado mesmo pela primeira vez.
+
+
+1568
+02:18:15.941 --> 02:18:45.941
+Caraca. Não sei mais escrever. Não.
+
+
+1569
+02:18:46.941 --> 02:18:51.941
+Exatamente. A água é sobre via.
+
+
+1570
+02:18:51.941 --> 02:18:54.941
+Sobrevia.
+
+
+1571
+02:18:54.941 --> 02:19:13.941
+Via Docker.
+
+
+1572
+02:19:13.941 --> 02:19:16.941
+Curiosidade. Alguém aqui.
+
+
+1573
+02:19:16.941 --> 02:19:19.941
+Alguém aqui já testou o Gpt.
+
+
+1574
+02:19:19.941 --> 02:19:23.941
+Vinte. Bi, local.
+
+
+1575
+02:19:23.941 --> 02:19:25.941
+Se alguém já testou minha visa aqui.
+
+
+1576
+02:19:25.941 --> 02:19:29.941
+é gente. Infelizmente, funcionou. Tá.
+
+
+1577
+02:19:29.941 --> 02:19:38.941
+Só tenho isso para falar para vocês.
+
+
+1578
+02:19:38.941 --> 02:19:41.941
+A gente tem que executar.
+
+
+1579
+02:19:41.941 --> 02:19:45.941
+Mas ele vai rodar aqui. Eu pedi pra ele rodar.
+
+
+1580
+02:19:45.941 --> 02:19:56.941
+Mas ele criou o Lined. Todinho bonitinho aqui, ó.
+
+
+1581
+02:19:56.941 --> 02:20:09.941
+é a vida é assim, né, Chitano?
+
+
+1582
+02:20:09.941 --> 02:20:12.941
+Até eu vou usar. Vai, eu vou entrar também.
+
+
+1583
+02:20:12.941 --> 02:20:17.941
+Por favor, coloquem um ícone bonitinho.
+
+
+1584
+02:20:17.941 --> 02:20:19.941
+Parada assim. Legal pra gente usar.
+
+
+1585
+02:20:19.941 --> 02:20:24.941
+Eu vou entrar aqui para ficar vendo vocês.
+
+
+1586
+02:20:24.941 --> 02:20:28.941
+Fully.
+
+
+1587
+02:20:28.941 --> 02:20:34.941
+Na hora que eu não entro em grupo, tá? Olha só pra vocês verem que eu não tô mentindo. Olha O Tanto De Grupo Que Eu Tenho.
+
+
+1588
+02:20:34.941 --> 02:20:36.941
+Eu tenho quatro grupos, eu acho.
+
+
+1589
+02:20:36.941 --> 02:20:40.941
+Do Datasip ou do The Plumbers.
+
+
+1590
+02:20:40.941 --> 02:20:42.941
+Os membros fundadores e da Pitcher.
+
+
+1591
+02:20:42.941 --> 02:20:45.941
+Só pra você ter ideia que eu não tenho grupo. Eu não uso grupo.
+
+
+1592
+02:20:45.941 --> 02:20:57.941
+Ah, então.
+
+
+1593
+02:20:57.941 --> 02:21:07.941
+Beleza.
+
+
+1594
+02:21:07.941 --> 02:21:37.941
+Me pedir para ele executar. Agora vamos ver se a gente já está executando.
+
+
+1595
+02:22:04.941 --> 02:22:13.941
+Ah, vou ter esperar, só isso aqui. Acabar.
+
+
+1596
+02:22:13.941 --> 02:22:20.941
+Enquanto isso, eu vou fazer uma coisa aqui que eu preciso fazer rapidinho.
+
+
+1597
+02:22:20.941 --> 02:22:23.941
+Open folder. Finder.
+
+
+1598
+02:22:23.941 --> 02:22:26.941
+Ebooks.
+
+
+1599
+02:22:26.941 --> 02:22:33.941
+Need to modify it Tv.
+
+
+1600
+02:22:33.941 --> 02:22:35.941
+Share.
+
+
+1601
+02:22:35.941 --> 02:22:44.941
+Airdrop.
+
+
+1602
+02:22:44.941 --> 02:22:47.941
+Like a bouquet.
+
+
+1603
+02:22:47.941 --> 02:22:52.941
+Eu sempre tenho orgulho de vocês. Quem fica até o final, não tem nem como não ter. Quem assiste.
+
+
+1604
+02:22:52.941 --> 02:22:56.941
+Não. Calma aí, irmão. Não era pra cá. Não.
+
+
+1605
+02:22:56.941 --> 02:23:00.941
+Para cá.
+
+
+1606
+02:23:00.941 --> 02:23:07.941
+Olha.
+
+
+1607
+02:23:07.941 --> 02:23:14.941
+Eu gosta, né?
+
+
+1608
+02:23:14.941 --> 02:23:18.941
+Caraca que top? Eu citei. All my pie.
+
+
+1609
+02:23:18.941 --> 02:23:21.941
+Com o Gpt.
+
+
+1610
+02:23:21.941 --> 02:23:27.941
+Não. Calma aí. Com o olhama Gpt. Oss vinte Bi.
+
+
+1611
+02:23:27.941 --> 02:23:30.941
+E o Olhama três Cold, trinta, bi.
+
+
+1612
+02:23:30.941 --> 02:23:35.941
+Para testar offline quando eu estiver nove anos, vinte e cinco horas de voo. Que eu vou fazer agora?
+
+
+1613
+02:23:35.941 --> 02:23:38.941
+Para ver se o bicho dá para dar.
+
+
+1614
+02:23:38.941 --> 02:23:44.941
+Uma chapada no meu maczinho. Aqui.
+
+
+1615
+02:23:44.941 --> 02:23:55.941
+Isso é legal. Eu aviso para vocês se funcionar realmente legal.
+
+
+1616
+02:23:55.941 --> 02:23:59.941
+Beleza.
+
+
+1617
+02:23:59.941 --> 02:24:05.941
+Vamos ver.
+
+
+1618
+02:24:05.941 --> 02:24:09.941
+Quem vai falar, foda, quem vai xingar aí?
+
+
+1619
+02:24:09.941 --> 02:24:13.941
+Ninguém. Vamos ver um foda gente. Vamos! Final do dia.
+
+
+1620
+02:24:13.941 --> 02:24:18.941
+Os dados sendo materializados no negócio bonitinho.
+
+
+1621
+02:24:18.941 --> 02:24:20.941
+Está sendo executado.
+
+
+1622
+02:24:20.941 --> 02:24:25.941
+Blah. Processo de reconciliação bateu.
+
+
+1623
+02:24:25.941 --> 02:24:28.941
+Verificando com Gold.
+
+
+1624
+02:24:28.941 --> 02:24:35.941
+E aí, gente? Vou dar dez minutos para alguém falar alguma coisa aí no máximo que eu preciso ir embora, correndo. E aí.
+
+
+1625
+02:24:35.941 --> 02:24:43.941
+O que vocês acharam. Fala no Cloud aí pra mim que eu já não aguento mais falar. Pelo amor de Deus.
+
+
+1626
+02:24:43.941 --> 02:24:46.941
+Espero que minha voz volte no sábado na segunda, porque fudeu.
+
+
+1627
+02:24:46.941 --> 02:24:50.941
+E aí, Wilker só quer paz. Tá em paz agora, irmão.
+
+
+1628
+02:24:50.941 --> 02:25:05.941
+Oh hello sem, palavras estava hoje me deixou calado hoje eu fiquei calado porque eu fiquei reflexivo cara pensar que no início do ano, passado, eu não, sabia nem o que era, um token pra você ter uma, ideia.
+
+
+1629
+02:25:05.941 --> 02:25:06.941
+Caralha. é muita coisa.
+
+
+1630
+02:25:06.941 --> 02:25:07.941
+E, assim.
+
+
+1631
+02:25:07.941 --> 02:25:11.941
+Alguém me apresentou, teus primeiros cursos ali que eu comecei.
+
+
+1632
+02:25:11.941 --> 02:25:25.941
+E mergulhei a cabeça em fundamentos mergulhei a, cabeça praticar ou seja na empresa praticamente databrics hoje a gente tem acesso além do copilty.
+
+
+1633
+02:25:25.941 --> 02:25:26.941
+Paddle.
+
+
+1634
+02:25:26.941 --> 02:25:36.941
+Conseguir ser uma referência na criação de pipelines e apps fazer todo o monorip, então eu tenho criado meu projetinho ali de estudo ele, é um projetinho pequenininho mas, é melhor projeto para tudo.
+
+
+1635
+02:25:36.941 --> 02:25:45.941
+E cara sem palavras o, ponto é o seguinte o que eu já faço aqui hoje é praticamente uma agulha no palheiro para tudo, que eu, vejo aqui.
+
+
+1636
+02:25:45.941 --> 02:26:00.941
+E só que o que eu vejo aqui é o, ponto de um norte para onde eu sonhar e para onde eu caminhar então assim cara só te agradecer te desejar uma, boa viagem recuperação de saúde e sucesso, no seu trabalho lá cara sem, palavras.
+
+
+1637
+02:26:00.941 --> 02:26:05.941
+Amém. Muito obrigado. Valeu, Wilker. é sempre bom ter você.
+
+
+1638
+02:26:05.941 --> 02:26:12.941
+Eu acompanho a sua evolução. E realmente é bizarro, porque eu lembro quando você entrou na formação do Spark.
+
+
+1639
+02:26:12.941 --> 02:26:15.941
+E eu olho hoje.
+
+
+1640
+02:26:15.941 --> 02:26:19.941
+O quanto você saiu daquela pessoa para essa pessoa.
+
+
+1641
+02:26:19.941 --> 02:26:22.941
+Então, obviamente que é tudo graças a você.
+
+
+1642
+02:26:22.941 --> 02:26:27.941
+E é muito legal ver essa evolução. E a questão, né? Quem procura acha.
+
+
+1643
+02:26:27.941 --> 02:26:28.941
+Thing.
+
+
+1644
+02:26:28.941 --> 02:26:31.941
+Então você continua consumindo. E eu acho que é isso.
+
+
+1645
+02:26:31.941 --> 02:26:34.941
+O treinamento te traz. O que você falou para mim perfeitamente, que eu não consegui explicar.
+
+
+1646
+02:26:34.941 --> 02:26:39.941
+Ele te dá o norte e o norte vale dinheiro pra caralho. No final do dia.
+
+
+1647
+02:26:39.941 --> 02:26:41.941
+é assim. ó, olha pra cá.
+
+
+1648
+02:26:41.941 --> 02:26:45.941
+Vai por aqui. E aí, cara? Só você seguir aqui que eu tenho certeza que vai dar. Bom, tá. Obrigado Aí Por Sempre Acreditar.
+
+
+1649
+02:26:45.941 --> 02:27:00.941
+Substant ideas só para completar rapidinho esse curso eu consegui acompanhar até certa medida depois eu parei mas o que o meu foco, dele não é nem, reproduzir. Mas é tentar capturar o modelo mental, esse tem sido sempre o meu objetivo agora.
+
+
+1650
+02:27:00.941 --> 02:27:07.941
+é isso. E se você pensar nisso, essa é a forma mais inteligente do conteúdo.
+
+
+1651
+02:27:07.941 --> 02:27:13.941
+Esquece o técnico. Captura o meu processo mental.
+
+
+1652
+02:27:13.941 --> 02:27:14.941
+Ice.
+
+
+1653
+02:27:14.941 --> 02:27:16.941
+E tenta olhar isso, somar com o seu e criar algo muito melhor. Então essa é a ideia. Realmente é O Processo Mental Como é Isso.
+
+
+1654
+02:27:16.941 --> 02:27:21.941
+Se você aprendeu isso aí, filho. Aí a ferramenta vira qualquer coisa. Porque você.
+
+
+1655
+02:27:21.941 --> 02:27:29.941
+Crio. Converge em qualquer lugar. Faz o que quiser, Linux, Mac, se é com Hermes Bot. Mas se você entendeu qual a ideia.
+
+
+1656
+02:27:29.941 --> 02:27:31.941
+Entrou na mente. Aí se implementa exatamente isso.
+
+
+1657
+02:27:31.941 --> 02:27:34.941
+Bom muito obrigado.
+
+
+1658
+02:27:34.941 --> 02:27:40.941
+Valeu, Newton. Sempre também. Aí, cara. é outro guerreiro.
+
+
+1659
+02:27:40.941 --> 02:27:43.941
+Yeah especially i'm a community.
+
+
+1660
+02:27:43.941 --> 02:27:46.941
+Eu tenho, um.
+
+
+1661
+02:27:46.941 --> 02:27:50.941
+Então vocês estão conseguindo me escutar e me ver bem.
+
+
+1662
+02:27:50.941 --> 02:27:51.941
+Mhm.
+
+
+1663
+02:27:51.941 --> 02:27:55.941
+Rapaz é até.
+
+
+1664
+02:27:55.941 --> 02:28:00.941
+Depoimento aqui que eu vou fazer, mas é rápido primeiro, agradecer.
+
+
+1665
+02:28:00.941 --> 02:28:16.941
+Você cara você está sendo luz aqui não só na minha vida. Por exemplo que eu vou dar o testemunho mas, eu acho que naquele todo mundo que conhece teu trabalho aí, a forma que você conduz seus cursos não só a sua.
+
+
+1666
+02:28:16.941 --> 02:28:24.941
+E, a iniciativa mas é perceptível seu prazer cara, de passar conhecimento isso é muito foda.
+
+
+1667
+02:28:24.941 --> 02:28:29.941
+Eh e cara, hoje eu recebi, um presente assim espetacular e é, fruto.
+
+
+1668
+02:28:29.941 --> 02:28:42.941
+Desconhecimento que você está passando para a gente eu comentei com vocês aqui não no, podcast mas eu não lembro. Se foi na semana ide enfim que eu, passei por um layoff.
+
+
+1669
+02:28:42.941 --> 02:28:45.941
+E eu nunca tinha enfrentado isso na vida.
+
+
+1670
+02:28:45.941 --> 02:29:01.941
+And tatuaí também há um bom tempo em tecnologia e nunca tinha passado por, um layoff na vida e, passei a primeira vez cara hoje o fruto hoje aconteceu, fruto de toda essa construção desde março ali.
+
+
+1671
+02:29:01.941 --> 02:29:07.941
+Da formação né.
+
+
+1672
+02:29:07.941 --> 02:29:08.941
+Caralho! Que massa! Até arrepiei aqui.
+
+
+1673
+02:29:08.941 --> 02:29:10.941
+E, hoje eu recebi, um sim cara hoje para, voltar ao mercado e é, fruto disso aqui cara.
+
+
+1674
+02:29:10.941 --> 02:29:11.941
+Que legal! Que legal! Parabéns.
+
+
+1675
+02:29:11.941 --> 02:29:26.941
+Juro, por deus e como obrigado obrigado e como o wilker falou é umas, palavras, ficaram, marcadas para mim quando, você falou que você falou foi o seguinte. Quando você hoje além de você, claro ter uma expertise uma bagagem que é legal.
+
+
+1676
+02:29:26.941 --> 02:29:29.941
+Importante mas quando você entende.
+
+
+1677
+02:29:29.941 --> 02:29:31.941
+O negócio e o processo.
+
+
+1678
+02:29:31.941 --> 02:29:33.941
+Where soft i.
+
+
+1679
+02:29:33.941 --> 02:29:36.941
+Só vai.
+
+
+1680
+02:29:36.941 --> 02:29:52.941
+E eu senti nas entrevistas que eu tenho feito, que cada vez. Eu melhorei nesse aspecto, de naturalidade de, passar o conhecimento mas a reação de quem escuta no início eu tive muita dificuldade que eu tive porra a galera tá ou, eu estou muito louco.
+
+
+1681
+02:29:52.941 --> 02:29:55.941
+Ou a galera no brasil aqui não está acompanhando.
+
+
+1682
+02:29:55.941 --> 02:30:08.941
+O cenário o novo cenário né da da incorporação da ia ali dentro das empresas eu até comentei isso aqui também mas, ainda bem que está começando a mudar e realmente está e está sendo rápido eu achei que fosse mais lento mas está sendo rápido.
+
+
+1683
+02:30:08.941 --> 02:30:24.941
+E essa semana quando eu comecei a, falar do que eu aprendi do meu conhecimento fiz desafios e tal cara o rosto da galera era, um sorrisão assim sabe e hoje eu senti muito isso.
+
+
+1684
+02:30:24.941 --> 02:30:31.941
+Quando o cara, disse para mim cara o cara chega e falou assim cara tá fechado foi assim ele chega fechou ele fez assim ó.
+
+
+1685
+02:30:31.941 --> 02:30:39.941
+Está fechado cara. Eu fiquei muito feliz, e é isso aqui cara essa primeira nossa, iniciativa de procurar, o conhecimento.
+
+
+1686
+02:30:39.941 --> 02:30:40.941
+E o conhecimento em lugares certos assim sabe.
+
+
+1687
+02:30:40.941 --> 02:30:42.941
+Claro, claro. é isso.
+
+
+1688
+02:30:42.941 --> 02:30:52.941
+E você cara você é é uma, inspiração se tornou meu mentor.
+
+
+1689
+02:30:52.941 --> 02:30:53.941
+Te vejo no Datasip, filho.
+
+
+1690
+02:30:53.941 --> 02:30:55.941
+Né e assim cara só quero, lhe agradecer e dar esse, testemunho aqui, a todo mundo aqui.
+
+
+1691
+02:30:55.941 --> 02:30:56.941
+Estarei lá.
+
+
+1692
+02:30:56.941 --> 02:30:57.941
+Estarei lá com certeza.
+
+
+1693
+02:30:57.941 --> 02:31:03.941
+Não, Datasip, dois mil e vinte e sete. Vejo lá esteja que é do cara. Não é por nada. Não, Mas é Do Caralho Se Você Puder Participar é Do Caralho Valeu.
+
+
+1694
+02:31:03.941 --> 02:31:04.941
+Tamo junto! Gente.
+
+
+1695
+02:31:04.941 --> 02:31:08.941
+Vou participar sim, antes de você falar eu, já ia falar eu já ia para lá.
+
+
+1696
+02:31:08.941 --> 02:31:09.941
+Obrigado, thiago.
+
+
+1697
+02:31:09.941 --> 02:31:10.941
+Valeu, galera valeu boa viagem aí luan.
+
+
+1698
+02:31:10.941 --> 02:31:14.941
+Nada. Tamo junto. Obrigado.
+
+
+1699
+02:31:14.941 --> 02:31:17.941
+O Thiago também sempre está comigo. Já faz muitos anos.
+
+
+1700
+02:31:17.941 --> 02:31:24.941
+Estou fazendo a formação em dia. Interesse em datasip também. Mas pareceu algo mais avançado que chama modelo. Carreira. Faz Sentido Datasip Para Alguém Mais No Começo.
+
+
+1701
+02:31:24.941 --> 02:31:33.941
+Caio, Datasip, eu não estou preocupado. Em qual nível você está? Eu estou preocupado na sua mentalidade.
+
+
+1702
+02:31:33.941 --> 02:31:35.941
+Porque não? é um programa de.
+
+
+1703
+02:31:35.941 --> 02:31:38.941
+Não um programa de dinheiro. Ele é caro.
+
+
+1704
+02:31:38.941 --> 02:31:46.941
+Ele é muito caro. Ele é um programa já caro, mas não é o dinheiro. Eu vou revisar e eu Vou Ver Se Faz Sentido Você Entrar Ou Não.
+
+
+1705
+02:31:46.941 --> 02:31:49.941
+Então, assim é o Mindset.
+
+
+1706
+02:31:49.941 --> 02:31:52.941
+A questão. Mindset sempre é sobre o Mindset.
+
+
+1707
+02:31:52.941 --> 02:32:01.941
+Só que agora, com a Ia cada vez mais ainda fica mais exorbitante. Ficaram mais de sete, certo? Leva você Muito Mais Que Você Tem Uma Frota De Agentes E Frameworks E Processos.
+
+
+1708
+02:32:01.941 --> 02:32:06.941
+E asa para poder construir o que você não conseguia fazer antes. E olhar ainda para o cliente.
+
+
+1709
+02:32:06.941 --> 02:32:10.941
+Agora a gente consegue olhar para o cliente e consegue fazer tudo ao mesmo tempo. Então, assim.
+
+
+1710
+02:32:10.941 --> 02:32:14.941
+é só isso. Tá.
+
+
+1711
+02:32:14.941 --> 02:32:20.941
+Beleza e gente agradecer. Eu vou sair agora, já que ninguém tem mais nada para fazer, porque eu tenho que Estar Onze Horas No Aeroporto.
+
+
+1712
+02:32:20.941 --> 02:32:24.941
+Foi um prazer. Espero que vocês tenham gostado. Acompanhe meu Instagram.
+
+
+1713
+02:32:24.941 --> 02:32:29.941
+Que eu vou postar algumas coisas legais que eu falei aqui, que eu quero falar no Instagram para todo mundo.
+
+
+1714
+02:32:29.941 --> 02:32:36.941
+Acompanhe as coisas que a gente vai ter. Quem é da comunidade? Quem ainda não adquiriu a formação que vale a pena adquira.
+
+
+1715
+02:32:36.941 --> 02:32:43.941
+Porque vão ter a comunidade. Permaneça quem tiver interesse, fala com a mãe.
+
+
+1716
+02:32:43.941 --> 02:32:49.941
+Deixa fazer um grande movimento. Agora, nos próximos dois meses na comunidade, e você vai querer estar ali.
+
+
+1717
+02:32:49.941 --> 02:32:55.941
+Com atualização. Eu vou trazer outros instrutores também de fora, inclusive para poder fazer algumas coisas. Então.
+
+
+1718
+02:32:55.941 --> 02:33:00.941
+Eu não parei. Não tá? Então, muito pelo contrário. A gente tá só começando. Beleza.
+
+
+1719
+02:33:00.941 --> 02:33:07.941
+As para que vocês tenham curtido. Desculpa minha voz. A gente teve uns Bumps durante o caminho, mas deu tudo certo.
+
+
+1720
+02:33:07.941 --> 02:33:14.941
+Afinal entregue, tá? Eu tô cozinhando as tarefas aqui. Pra quem entra lá no entra lá no Boot Camp. Todo mundo.
+
+
+1721
+02:33:14.941 --> 02:33:18.941
+Que puder, inclusive depois. Adilson, manda esse link aí.
+
+
+1722
+02:33:18.941 --> 02:33:21.941
+Para o meu time, para a Cristina ou para a Mayara.
+
+
+1723
+02:33:21.941 --> 02:33:29.941
+Para eles colocarem como grupo de entrar para a galera que assistiu o botecamp gravado entrar e também poder interagir, Poder Ter A Mesma Coisa.
+
+
+1724
+02:33:29.941 --> 02:33:32.941
+Porque eu vou postar todas essas informações aqui.
+
+
+1725
+02:33:32.941 --> 02:33:37.941
+Lá antes da gente fechar tudo. Porque eu quero ter certeza que vocês viram.
+
+
+1726
+02:33:37.941 --> 02:33:41.941
+Todo o processo completo que está batendo aqui. Cem beleza.
+
+
+1727
+02:33:41.941 --> 02:33:44.941
+Obrigado, todo mundo aí, agradeço. Ficou até o final.
+
+
+1728
+02:33:44.941 --> 02:33:47.941
+Beijo no coração de vocês. Bom final de semana. Descansem.
+
+
+1729
+02:33:47.941 --> 02:33:50.941
+Foi uma semana cansativa. Relaxa agora.
+
+
+1730
+02:33:50.941 --> 02:33:56.941
+Só tenta dar um tempo na cabeça. Pega isso depois. Espera as coisas comitarem. Descansa.
+
+
+1731
+02:33:56.941 --> 02:33:58.941
+E a gente se vê no próximo treinamento.
+
+
+1732
+02:33:58.941 --> 02:34:00.325
+Beleza falou. Galera.
+
+
+

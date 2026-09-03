@@ -1,6 +1,6 @@
 # 04 · Generate remaining + queue
 
-- Slide: Execute 03–04 (Hands-On **slice b · lanes**) — **type tile 04 after** the Task-Spec Show ([`../../presentation/task-spec.html`](../../presentation/task-spec.html)), which is the next HUD after this board
+- Slide: Execute 03–04 (Hands-On **slice b · lanes**) — **type tile 04 after** the Task-Spec Show ([`../../ebooks/brf-task-spec.md`](../../ebooks/brf-task-spec.md)), which is the next HUD after this board
 - Slice: **B · Lanes**
 - Who: instructor authors the first remaining leaf in public, then every seat
 - Next: Task-Mesh · Linear Show, then [`05-mesh-crank.md`](05-mesh-crank.md) on Execute 05–06

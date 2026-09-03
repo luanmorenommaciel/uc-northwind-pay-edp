@@ -6,8 +6,10 @@ SFTP, call Java, produce sanitized CSV, or connect to PostgreSQL.
 
 ## Current scope
 
-DataGen implements all five independent legacy layouts and five deterministic
-scenarios per type:
+DataGen implements all six legacy layouts: five deterministic scenarios per
+type on the five-type base, and four for the Night 5 Type `06` kit (which
+has no source-control defect scenario — its miss is in the legacy plant,
+not the file):
 
 | Type | Layout | Accepted scenarios | Malformed scenario | Source-control defect |
 |---|---|---|---|---|
@@ -16,6 +18,7 @@ scenarios per type:
 | `03` | Payment Slip Settlement | `valid-minimal`, `valid-boundary`, `multi-lot` | `SEGMENT_PAIR_MISMATCH` | `DF-SOURCE-003` → `SOURCE_CONTROL_NET_MISMATCH` |
 | `04` | TED Transfer Settlement | `valid-minimal`, `valid-boundary`, `all-returned-zero-net` | `INVALID_TRANSPORT` | `DF-SOURCE-004` → `SOURCE_CONTROL_NET_MISMATCH` |
 | `05` | Merchant Fee Assessment | `valid-minimal`, `valid-boundary`, `rounding-half-up` | `INVALID_CSV_QUOTING` | `DF-SOURCE-005` → `SOURCE_CONTROL_ASSESSED_FEE_MISMATCH` |
+| `06` | Merchant Chargeback | `valid-minimal`, `valid-boundary`, `legacy-miss` | `INVALID_CSV_QUOTING` | — (no `DF-SOURCE-006`; `legacy-miss` is a `CONFIRMED_LEGACY_DEFECT` probe) |
 
 SFTP, Java, and PostgreSQL intentionally remain outside `gen/`; the
 repository-level runner connects those independent components.
@@ -80,7 +83,7 @@ python3 gen/src/cli.py \
   --scenario valid-minimal
 ```
 
-Set `--type` to `01`, `02`, `03`, `04`, or `05`, and replace
+Set `--type` to `01`, `02`, `03`, `04`, `05`, or `06`, and replace
 `valid-minimal` with any scenario supported by that type. Scenario names are
 case-sensitive.
 
@@ -104,7 +107,7 @@ gen/output/B202607230000001/
 └── generation-receipt.json
 ```
 
-Each scenario has a distinct batch ID, so all 25 implemented scenarios may
+Each scenario has a distinct batch ID, so all 29 implemented scenarios may
 coexist under the same output root. Re-running a scenario against that root
 fails safely rather than overwriting its immutable batch.
 
@@ -167,6 +170,10 @@ PYTHONPATH=gen/src \
     --pattern 'test_*.py' \
     --verbose
 ```
+
+Type `06` is covered by `gen/tests/integration/test_type_06_generation.py`
+only; it has no `contract/`, `unit/`, or `security/` test module. That is
+the kit's known gap, not a claim that those properties were checked.
 
 The contract tests compare hashes, lengths, and the first differing byte offset
 without printing raw records or restricted identifiers.

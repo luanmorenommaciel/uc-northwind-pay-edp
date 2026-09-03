@@ -1,4 +1,4 @@
-# Night 4 queue — the board
+# Night 4–5 queue — the board
 
 Linear is the **board**, not the judge. A card moves only when a packet
 exists under `evidence/` (terminal, not Git). Chat is not a settle.
@@ -28,3 +28,14 @@ Seams on this plant: **ingest-landing**, **dlt-gold**,
 | T-20260828-type-06-lakehouse | dlt-gold | `docs/tasks/T-20260828-type-06-lakehouse.md` · two questions · `CONFIRMED_LEGACY_DEFECT` | **stalled** · packet `evidence/factory/type-06.json` · modern **1.01** · legacy **1.00** · do not patch |
 
 Do not settle from chat. Type `06` moves when `evidence/` holds the packet. Do not create empty type folders. Do not dump Types `02`–`05`.
+
+**Board vs disk (2026-09-03).** The "Status tonight" column is what the
+board said when each card last moved. On disk now: the four `02`–`05`
+**ingest** packages exist under `modern/ingestion/src/northwind_pay/types/`
+(five files each, authored Night 4) and `modern/orchestration/definitions.py`
+exists, but their frontmatter still reads `signed_off: false` /
+`status: ready` — the code was written ahead of the sign, so those cards
+stay **queued** until an owner signs and a packet lands. The `02`–`05`
+**lakehouse** leaves have no code. `evidence/` is gitignored, so on a fresh
+clone none of the packets named above are present; the settled and stalled
+rows are claims about the night's terminal, not about git.

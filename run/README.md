@@ -15,19 +15,19 @@ It is not the student brief. It is not the deck.
 One folder per night. One file per beat, numbered. **One Night** — no
 morning / afternoon split. Converge papers: [`docs/`](../docs/README.md).
 
-**Week story:** Nights 2–3 are **Type 01 steel threads** (SWE ingest → landing, then DE landing → Gold). Night 4 teaches **Context · Eval · Loop**, **walks the Type 01 trail**, then generates remaining SWE+DE and cranks them (Mesh + Pass 6–8, Linear), then Type `05` unattended. Night 5 is sealed Type `06`.
+**Week story:** Nights 2–3 are **Type 01 steel threads** (SWE ingest → landing, then DE landing → Gold). Night 4 teaches **Context · Eval · Loop**, **walks the Type 01 trail**, then generates remaining SWE+DE and cranks them (Mesh + Pass 6–8, Linear), then Type `05` unattended. Night 5 is sealed Type `06` — it ran on 2026-08-28 and stalled `CONFIRMED_LEGACY_DEFECT`. All five Nights have run; each `dN/` clock still reads as **that** Night's tree (see the root [`README.md`](../README.md) on re-running from a worktree).
 
 Night 1 HTML is live — [`d1-archaeologist.html`](../presentation/d1-archaeologist.html) · [`d1/`](d1/README.md).
 Night 2 HTML is live — [`d2-translator.html`](../presentation/d2-translator.html) · [`d2/`](d2/README.md). Identify by `data-act-name`.
 Night 3 HTML is live — [`d3-constructor.html`](../presentation/d3-constructor.html) · [`d3/`](d3/README.md) (13 beats, four boards). Type 01 Gold steel thread. Identify by `data-act-name`. J5 abstains, then they render the SA mermaids in [`plans/modern.md`](../plans/modern.md).
-Night 4 staff is live — [`d4/`](d4/README.md) (9 beats, four boards). Trail first, then remaining lanes + Type `05`. Stage live; Floor/Dig follow the clock. Identify by `data-act-name`.
+Night 4 HTML is live — [`d4-orchestrator.html`](../presentation/d4-orchestrator.html) (28 slides) · [`d4/`](d4/README.md) (9 beats, four boards). Trail first, then remaining lanes + Type `05`. Identify by `data-act-name`.
 Night 5 staff is live — [`d5/`](d5/README.md) (pre-flight `00` + 6 beats). Pre-flight, recap Type 01 from disk, Linear, look up 02–05, smoke with DuckDB/dbt/Dagster, Type `06` factory, flywheel. Identify by `data-act-name`. Deck: [`presentation/d5-dark-factory.html`](../presentation/d5-dark-factory.html) (28 slides).
 
-Kits (park the Night HUD, teach, **return**): [`seamwise.html`](../presentation/seamwise.html), [`task-spec.html`](../presentation/task-spec.html).
+Kits (park the Night HUD, teach, **return**): [`ebooks/ebook-seamwise.pdf`](../ebooks/ebook-seamwise.pdf), [`ebooks/brf-task-spec.md`](../ebooks/brf-task-spec.md) — see [`ebooks/`](../ebooks/README.md).
 
 ---
 
-## E2E tonight (Night 3)
+## E2E as run (Night 3)
 
 Do **not** walk 07–11 on `main` — those beats write `docs/` and `modern/`. Use a worktree after the clock is committed. Compose `northwind-pay-legacy` (port 2222) is one plant; do not share it with another checkout.
 
@@ -44,7 +44,7 @@ Do **not** walk 07–11 on `main` — those beats write `docs/` and `modern/`. U
 
 ---
 
-## E2E Thursday (Night 4)
+## E2E as run (Night 4)
 
 Do **not** generate `02`–`05` on `main` if Type 01 Gold is missing — those beats write `docs/` and `modern/`. Use a worktree. Gold missing → walk 01–02 only.
 
@@ -95,15 +95,15 @@ run/
     05–06      C · Loop (Type 01 crank + packet)
     07–08      D · Type 05 unattended + HALF_UP
     09         Close · Research
-  d5/          live — 6 beats. Thursday disk, then Type 06 factory.
+  d5/          live — pre-flight + 6 beats. Thursday disk, then Type 06 factory.
     README.md  Recap 01 · Linear · look-up 02–05 · smoke · Type 06 · flywheel
+    00         Pre-flight (host: venvs, DuckDB, dbt, Dagster, the sealed kit)
     01         A · Recap Type 01 (Gold + packet; skip Dagster)
     02         B · Linear register (file is the queue)
     03         C · Look up 02–05 (leaves + Type 05 legacy packets)
     04         D · Pipeline smoke (Type 01 from landing)
     05         E · Type 06 Converge 0–8
     06         Close · Flywheel
-  d5.md        pointer to d5/
 ```
 
 

@@ -9,7 +9,7 @@ Deck: [`presentation/d2-translator.html`](../../presentation/d2-translator.html)
 
 `java2py` = second plant, not a port of `legacy/processor/src`. Papers: [`docs/README.md`](../../docs/README.md). Factory Pass 6–8 is Day 4.
 
-Seamwise and Task-Spec are **separate kits**. Night deck = spine + boards. Leave this HUD, teach the kit, **return** to the numbered beat. Seamwise kit: [`presentation/seamwise.html`](../../presentation/seamwise.html). Task-Spec kit: [`presentation/task-spec.html`](../../presentation/task-spec.html) (Dig Show is the cue; park, teach, return).
+Seamwise and Task-Spec are **separate kits**. Night deck = spine + boards. Leave this HUD, teach the kit, **return** to the numbered beat. Seamwise kit: [`ebooks/ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf). Task-Spec kit: [`ebooks/brf-task-spec.md`](../../ebooks/brf-task-spec.md) (Dig Show is the cue; park, teach, return).
 
 | Slice | Beats | Deck (`data-act-name`) | Look up when |
 |---|---|---|---|
@@ -46,7 +46,7 @@ If a table dies, they follow your screen. Do not debug a provider.
 | **Execute 05–06** | Hands-On **slice c** · [`05`](05-query-brain.md)–[`06`](06-query-graph.md) |
 | Dig | talk |
 | Converge + Seamwise | Show |
-| **Leave · Seamwise** | Park. Open [`seamwise.html`](../../presentation/seamwise.html). Explain internals. Return. Do not write seams from that HUD. |
+| **Leave · Seamwise** | Park. Open [`ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf). Explain internals. Return. Do not write seams from that HUD. |
 | **Execute 07–10** | Hands-On **slice d** · [`07`](07-prompt-kits.md)–[`10`](10-consensus.md) |
 | Task-Spec | Show. **Pause:** Task-Spec kit (separate). Return. Skip Execute 11 if unsigned. |
 | **Execute 11** | Hands-On **slice e** · [`11`](11-taskspec.md) |

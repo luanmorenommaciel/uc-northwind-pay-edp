@@ -5,7 +5,7 @@
 - Who: instructor drafts the first lakehouse ADR in public, then every seat
 - Next: [`07-decompose.md`](07-decompose.md)
 
-SeamWise kit already ran. Do not reopen `seamwise.html` for this beat.
+SeamWise kit already ran. Do not reopen the SeamWise kit (`ebooks/ebook-seamwise.pdf`) for this beat.
 
 What is true, never how. **Unpark** rows 3–7 in [`docs/adrs/0006-later-nights-parked.md`](../../docs/adrs/0006-later-nights-parked.md). Leave 0006 as the park record. Do not recut ADRs 0001–0005.
 

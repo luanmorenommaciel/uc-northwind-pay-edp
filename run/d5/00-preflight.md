@@ -68,10 +68,10 @@ and stops in one screen, and bootstrap brings both environments up from the pins
 | 0 Intake | does the kit ship an oracle? **no eval, no task** | PASS | PASS |
 | 1 Ground truth | legacy ran and the observation is captured | PASS | PASS |
 | 2 Plan | three seams, one owner per handoff | PASS | PASS |
-| 3 Build | five-file package present | PASS | **STALL** — the room builds it |
-| 4 Publish | landing Parquet matches its recorded SHA-256 | PASS | skip |
-| 5 Lakehouse | dlt register-only → Bronze/Silver/Gold | PASS · 173.45 MATCHED | skip |
-| 6 Golden-match | two questions, never netted, one code | PASS | **STALL** |
+| 3 Build | five-file package present | PASS | **STALL** on the Night's opening tree — the room builds it. PASS once `06-merchant-chargeback/` exists (it does on `main` now) |
+| 4 Publish | landing Parquet matches its recorded SHA-256 | PASS | skip until emit ran; PASS after |
+| 5 Lakehouse | dlt register-only → Bronze/Silver/Gold | PASS · 173.45 MATCHED | skip until `run_type06_gold.py` ran; PASS · 1.01 after |
+| 6 Golden-match | two questions, never netted, one code | PASS | **STALL** — `CONFIRMED_LEGACY_DEFECT` |
 
 Exit `0` = accepted. Exit `1` = stalled. A stall is a **success state**: the gate held and the
 difference has a name.
@@ -80,9 +80,10 @@ difference has a name.
 
 - Type 01 reaches stage 6 and prints **ACCEPTED**. If it does not, Floor board **D** is at risk —
   read [`04-pipeline-smoke.md`](04-pipeline-smoke.md).
-- Type 06 stalls at stage 3 (no modern package — correct, that is tonight's work) and question 2
-  answers **NO**: legacy disagrees with the contract. That is the Night's payload and it is real
-  before anyone types.
+- Type 06 stalls. On the Night's opening tree it stalls at stage 3 (no modern package — correct,
+  that is tonight's work). On `main` after Night 5, where the package exists, it runs through to
+  stage 6 and stalls there. Either way question 2 answers **NO**: legacy disagrees with the
+  contract. That is the Night's payload and it is real before anyone types.
 
 ## Do not
 

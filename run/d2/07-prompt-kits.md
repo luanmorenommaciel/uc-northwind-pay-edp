@@ -5,12 +5,12 @@
 - Who: every seat, through **their** agent
 - Next: [`08-structure.md`](08-structure.md) on the **same board**
 
-Show Converge + Seamwise first. Then **Leave · Seamwise** — park, open [`../../presentation/seamwise.html`](../../presentation/seamwise.html), explain internals, return. Then this board: tile 07 names the kits from the repo (**do not start Pass 2 yet**), then 08–10. `cvg` gates; the agent drafts. Do not paste 07–10 from inside the kit.
+Show Converge + Seamwise first. Then **Leave · Seamwise** — park, open [`../../ebooks/ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf), explain internals, return. Then this board: tile 07 names the kits from the repo (**do not start Pass 2 yet**), then 08–10. `cvg` gates; the agent drafts. Do not paste 07–10 from inside the kit.
 
 ## Prompt (verbatim)
 
 ```text
-Read docs/README.md. You may read presentation/cvg-aut-systems-spine-steps.html.
+Read docs/README.md. You may read ebooks/brf-converge.md.
 Do not change any file.
 
 Answer from the repo:

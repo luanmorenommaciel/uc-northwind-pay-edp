@@ -34,11 +34,12 @@ Scope: [`agenda/d3.md`](../agenda/d3.md) · [`agenda/d4.md`](../agenda/d4.md) ·
 
 ---
 
-## On disk now (start of Day 4)
+## On disk now (after Night 5)
 
-Thursday recap **reads this inventory**. Type 01 Gold **source and papers
-are on this checkout**. Landing Parquet, DuckDB, and `evidence/modern/`
-are gitignored — open them in the **terminal**.
+All five Nights have written here. Type 01 Gold **source and papers
+are on this checkout**; so are the Type `06` papers and the Night 4
+leaves. Landing Parquet, DuckDB, and `evidence/modern/` are gitignored —
+open them in the **terminal**.
 
 ```text
 docs/
@@ -88,22 +89,21 @@ docs/
   tasks/T-20260828-type-06-lakehouse.md
 ```
 
-Day 3 product (gitignored — look up in the terminal):
+Product these papers authorized (source tracked in `modern/`; runtime gitignored — look up in the terminal):
 
-- `modern/landing/B202607230000001/` Parquet + manifest
-- `modern/lakehouse/ducklake/northwind_modern.duckdb` Bronze / Silver / Gold
+- `modern/ingestion/src/northwind_pay/types/0{1..6}-*/` six five-file packages (Night 2 leaf, Night 4 generate, Night 5 kit)
+- `modern/lakehouse/dlt/registration.py` · `modern/dbt/` Bronze/Silver/Gold for Type `01` **and** Type `06` · `modern/orchestration/definitions.py` Dagster (ADR 0012)
+- `modern/validation/attach_type01.py`, `attach_type06.py` — golden-match attached
+- `modern/landing/B202607230000001/` Parquet + manifest · `modern/lakehouse/ducklake/northwind_modern.duckdb`
 - `evidence/modern/B202607230000001/golden-match.json` both questions yes
 - `evidence/modern/B202607230000004/golden-match.json` `CONFIRMED_SOURCE_DEFECT` · 173.44 kept · no Parquet
+- `evidence/factory/type-06.json` stage 6 **stalled** · `CONFIRMED_LEGACY_DEFECT` · `legacy/` untouched
 
-Day 4 writes ([`run/d4/`](../run/d4/README.md) — trail `02` always; **dark 03–08** only if Gold is missing):
+Not built: Types `02`–`05` **lakehouse** leaves (`attach_type0N.py`, `run_type0N_gold.py`, dbt models). Their Task-Specs are on disk and signed in `cvg/tasks/`; the artifacts are not. Both `_state.yaml` files still project every leaf as `ready` — see [`tasks/_linear-board.md`](tasks/_linear-board.md).
 
-- Remaining type lanes in [`seams.md`](seams.md); ADRs for 0006 rows **8–9** (Dagster lineage, optional read-only serve)
-- Remaining SWE + DE leaves (`02`–`04`, Type `05`, orchestrate) with evals
-- Loop **packet** under `evidence/` (gitignored — open in the terminal)
+Keep **173.44**. Ingest sign stays canonical. Thursday **walked this folder as the trail** (requisites → problem → decisions → SWE → DE/AE → tonight), then remaining types. It did not recut Tuesday’s papers. It did not re-ask where paid lives.
 
-Keep **173.44**. Ingest sign stays canonical. Thursday **walks this folder as the trail** (requisites → problem → decisions → SWE → DE/AE → tonight), then remaining types. It does not recut Tuesday’s papers. It does not re-ask where paid lives.
-
-Day 5 recap **reads the Thursday inventory in [`agenda/d5.md`](../agenda/d5.md)** (landing, Gold, golden-match, loop packet, Type 05 four evidence dirs). Type `06` papers land only after tonight’s drop. Clock: [`run/d5/`](../run/d5/README.md).
+Night 5 recap read the Thursday inventory in [`agenda/d5.md`](../agenda/d5.md). Type `06` papers landed after that night’s drop (BRD, tech-spec, ADR 0014–0015, `seams-type-06.md`, `consensus-type-06.md`, two leaves). Clock: [`run/d5/`](../run/d5/README.md).
 
 ---
 
@@ -148,12 +148,14 @@ Day 5 adds [`0014-type-06-five-file-half-up.md`](adrs/0014-type-06-five-file-hal
 
 | Manual | What it is |
 |---|---|
-| [`presentation/cvg-aut-systems-spine-steps.html`](../presentation/cvg-aut-systems-spine-steps.html) | Converge spine — nine passes, one human barrier |
+| [`ebooks/ebook-converge.pdf`](../ebooks/ebook-converge.pdf) · [`brf-converge.md`](../ebooks/brf-converge.md) | Converge spine — nine passes, one human barrier |
 | [`presentation/asd-agentic-loop.html`](../presentation/asd-agentic-loop.html) | ASD — the Agentic Loop |
 | [`presentation/boot-uc-northwind-pay-edp-oss.html`](../presentation/boot-uc-northwind-pay-edp-oss.html) | Bootcamp reference |
-| [`presentation/seamwise.html`](../presentation/seamwise.html) | SeamWise kit — Leave · SeamWise on Nights 2–4, return to the numbered beat |
+| [`ebooks/ebook-seamwise.pdf`](../ebooks/ebook-seamwise.pdf) · [`brf-seamwise.md`](../ebooks/brf-seamwise.md) | SeamWise kit — Leave · SeamWise on Nights 2–4, return to the numbered beat |
 | [`presentation/d3-constructor.html`](../presentation/d3-constructor.html) | Night 3 HUD — not a paper |
-| [`presentation/task-spec.html`](../presentation/task-spec.html) | Task-Spec kit. Mesh is **not** inside it |
+| [`ebooks/brf-task-spec.md`](../ebooks/brf-task-spec.md) | Task-Spec kit (PDF built locally, gitignored). Mesh is **not** inside it |
+
+The kit HTML decks left `presentation/` on Night 4; [`ebooks/`](../ebooks/README.md) is their home now.
 
 Plans steer the plant: [`plans/`](../plans/README.md). This folder is
 the week’s **signed papers**.
@@ -166,8 +168,9 @@ the week’s **signed papers**.
 - Not a second copy of [`plans/legacy.md`](../plans/legacy.md) or [`plans/modern.md`](../plans/modern.md).
 - Not the HTML manuals or Night decks.
 - Not `modern/`. Landing Parquet and Gold are **product** after the relevant sign.
-- Not `cvg/swimlanes/`. That tree is the referee workspace (Day 4 host: `cvg init`), projected from [`seams.md`](seams.md).
+- Not `cvg/swimlanes/`. That tree is the referee workspace (`cvg init` ran on Night 4), projected from [`seams.md`](seams.md). `cvg/tasks/` holds signed **copies** of sixteen leaves; the canonical eighteen (incl. Type `06`) are in `tasks/` here.
 - Not the Second Brain. Do not paste BRD, ADRs, or Consensus into NotebookLM.
 
-Do not pre-seed Day 3 lakehouse papers or Day 4 remaining-type leaves.
 Do not copy last run’s ADRs out of git history. Do not repair **173.44**.
+If you replay a Night in a worktree, the "do not pre-seed" rules of that
+night still apply inside the worktree; on `main` the papers are already here.

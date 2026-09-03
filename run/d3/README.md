@@ -9,7 +9,7 @@ Deck: [`presentation/d3-constructor.html`](../../presentation/d3-constructor.htm
 
 Constructor = DE + analytics in one seat. **Tonight is the Type 01 DE steel thread:** leftover emit if Parquet is missing, then landing → dlt register → Bronze → Silver → Gold → golden-match. Types `02`–`05` wait for Thursday. Papers: [`docs/README.md`](../../docs/README.md).
 
-SeamWise and Task-Spec are **separate kits**. Night deck = spine + boards. Leave this HUD, teach the kit, **return**. SeamWise: [`presentation/seamwise.html`](../../presentation/seamwise.html). Task-Spec: [`presentation/task-spec.html`](../../presentation/task-spec.html).
+SeamWise and Task-Spec are **separate kits**. Night deck = spine + boards. Leave this HUD, teach the kit, **return**. SeamWise: [`ebooks/ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf). Task-Spec: [`ebooks/brf-task-spec.md`](../../ebooks/brf-task-spec.md).
 
 | Slice | Beats | Deck (`data-act-name`) | Look up when |
 |---|---|---|---|
@@ -43,9 +43,9 @@ If a table dies, they follow your screen. Do not debug a provider.
 | Floor · Second Brain · OntoLayer + specs | Show |
 | **Execute 02–04** | Hands-On **slice a** · [`02`](02-query-brain.md)–[`04`](04-prompt-sa-plan.md) |
 | Dig · Converge + SeamWise | Show |
-| **Leave · SeamWise** | Park. Open [`seamwise.html`](../../presentation/seamwise.html). Explain internals. Return. Do not write seams from that HUD. |
+| **Leave · SeamWise** | Park. Open [`ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf). Explain internals. Return. Do not write seams from that HUD. |
 | **Execute 05–08** | Hands-On **slice b** · [`05`](05-prompt-kits.md)–[`08`](08-consensus.md) |
-| Task-Spec | Show. **Pause:** [`task-spec.html`](../../presentation/task-spec.html). Return. Skip Execute 09 and Execute 10–12 if unsigned. |
+| Task-Spec | Show. **Pause:** [`brf-task-spec.md`](../../ebooks/brf-task-spec.md). Return. Skip Execute 09 and Execute 10–12 if unsigned. |
 | **Execute 09** | Hands-On **slice c** · [`09`](09-taskspec.md) |
 | **Execute 10–12** | Hands-On **slice d** · [`10`](10-landing.md)–[`12`](12-golden-match.md) |
 | Task-Mesh · Thursday queue | Show / talk — no file |

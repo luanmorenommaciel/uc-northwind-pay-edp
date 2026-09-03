@@ -15,7 +15,7 @@ Blank slate. They have never used these kits. **Ask first. Install second.** Ton
 
 ```text
 You are sitting Day 1 of NorthWind Pay. You have not written product code.
-Read README.md and docs/README.md. You may also read presentation/cvg-aut-systems-spine-steps.html if it is on disk.
+Read README.md and docs/README.md. You may also read ebooks/brf-converge.md if it is on disk.
 
 Answer, in this order, from the repo — not from memory:
 

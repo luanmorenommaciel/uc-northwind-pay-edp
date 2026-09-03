@@ -1,6 +1,6 @@
 # Publisher — the entry to the estate
 
-One file, 222 lines, and it owns a single boundary:
+One file, 225 lines, and it owns a single boundary:
 
 > *Validate DataGen bundles and publish them to raw SFTP manifest-last.*
 

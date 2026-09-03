@@ -15,6 +15,10 @@ other. **Bronze / Silver / Gold are legs, not new estates.**
 for new leaves tonight (Pass 5). Types `02`–`05` and orchestrate wait
 for Thursday.
 
+*(Historical — written Night 3, 2026-08-26. Seam 3 was unparked on Night
+4; Type 06 got its own cut in [`seams-type-06.md`](seams-type-06.md) on
+Night 5. The text below is left as signed.)*
+
 Landing facts already closed (ADRs 0001–0005): first write is
 `modern/landing/` Parquet, not SFTP; five-file package; Decimal;
 privacy dies at the parser; source lie keeps 173.44 and emits zero
@@ -102,7 +106,7 @@ Constructor owns this write surface. Translator does not write Gold.
 - Java vs Python
 - CSV-as-input to modern
 - SFTP as modern destination
-- Type 06 (not in this drop)
+- Type 06 (not in this drop — cut separately on Night 5, see [`seams-type-06.md`](seams-type-06.md))
 - A lakehouse named as a **new estate** (it is seam 2 legs)
 - Recutting seam 1 to smuggle Gold
 

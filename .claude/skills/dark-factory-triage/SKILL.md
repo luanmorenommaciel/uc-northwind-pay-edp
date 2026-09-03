@@ -14,15 +14,18 @@ repair requires editing those, the repair is wrong.
 ## 1 · `PublicationError: a different Parquet publication already exists`
 
 **Cause.** The wrong interpreter. `modern/landing/**` was written with
-**pyarrow 25** (`modern/.venv`). `modern/lakehouse/.venv` and
-`modern/ingestion/.venv` carry pyarrow 22 and encode the same rows into
-different bytes, so the determinism guard refuses.
+**pyarrow 25** (`modern/.venv`, the only plant env `modern/scripts/bootstrap.sh`
+creates besides `modern/orchestration/.venv`). Any other interpreter — an
+old `modern/lakehouse/.venv` or `modern/ingestion/.venv` left from Nights
+3–4, or the system Python — carries pyarrow 22 and encodes the same rows
+into different bytes, so the determinism guard refuses.
 
 **Confirm.**
 ```bash
-for v in modern/.venv modern/lakehouse/.venv; do
-  echo "$v $($v/bin/python -c 'import pyarrow;print(pyarrow.__version__)')"
+for v in modern/.venv modern/lakehouse/.venv modern/ingestion/.venv; do
+  [ -x "$v/bin/python" ] && echo "$v $($v/bin/python -c 'import pyarrow;print(pyarrow.__version__)')"
 done
+# only modern/.venv must exist; if it is missing, run modern/scripts/bootstrap.sh
 ```
 
 **Fix.** Use `modern/.venv/bin/python`. Never "fix" this by deleting the landing
@@ -62,7 +65,8 @@ net them:
 | ✓ | ✗ | `CONFIRMED_LEGACY_DEFECT` | write it down, **stall the type** |
 | ✓ | ✓ vs each other, both ✗ vs the declaration | `CONFIRMED_SOURCE_DEFECT` | keep the wrong number |
 
-Then write the packet under `evidence/` and stop. Never edit `legacy/`, never
+Then write the packet under `evidence/` (`mkdir -p evidence/factory` on a
+fresh clone — the folder is gitignored) and stop. Never edit `legacy/`, never
 rewrite `contracts/**/expected-*`, never add tolerance to
 `validation/golden-match/golden_match.py`. A stalled type with one honest code is
 a success state; a green run bought by moving the oracle is not.

@@ -1,7 +1,7 @@
 # Day 4 — follow-along
 
 Staff execute folder. Scope: [`agenda/d4.md`](../../agenda/d4.md).  
-Deck: `presentation/d4-orchestrator.html` — Stage live; Floor/Dig follow this clock. Identify slides by **`data-act-name`**. Stage is Context · Eval · Loop (talk). Floor is the **trail**.
+Deck: [`presentation/d4-orchestrator.html`](../../presentation/d4-orchestrator.html) — live, 28 slides. Identify slides by **`data-act-name`**. Stage is Context · Eval · Loop (talk). Floor is the **trail**.
 
 **One Night.** House stack: Oh My Pi → OpenRouter → a workspace → DeepSeek. Grade gates, not the vendor.
 
@@ -18,7 +18,7 @@ Requisites → problem → decisions
 
 Orchestrator = the seat that **leaves**. Papers: [`docs/README.md`](../../docs/README.md). Contract: [`plans/modern.md`](../../plans/modern.md).
 
-SeamWise and Task-Spec are **separate kits**. Task-Mesh is **beside** Task-Spec, not inside it. Leave the Night HUD, teach, **return**. SeamWise: [`presentation/seamwise.html`](../../presentation/seamwise.html). Task-Spec: [`presentation/task-spec.html`](../../presentation/task-spec.html).
+SeamWise and Task-Spec are **separate kits**. Task-Mesh is **beside** Task-Spec, not inside it. Leave the Night HUD, teach, **return**. SeamWise: [`ebooks/ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf). Task-Spec: [`ebooks/brf-task-spec.md`](../../ebooks/brf-task-spec.md).
 
 | Slice | Beats | Deck (`data-act-name`) | Look up when |
 |---|---|---|---|
@@ -51,9 +51,9 @@ Hands-On is **four boards**. Chip · `run/d4/` range · one tile per beat · loo
 | Craft · Bind is rails · Kits tonight | Show. Bind **still on**. Host pin + `cvg init` |
 | Floor · Trail · show | Show. Week as one picture |
 | **Execute 02** | Hands-On **slice a** · [`02`](02-walk-trail.md) |
-| Dig · Leave · SeamWise | Park. Open [`seamwise.html`](../../presentation/seamwise.html). Remaining onto two lanes. Return |
+| Dig · Leave · SeamWise | Park. Open [`ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf). Remaining onto two lanes. Return |
 | **Execute 03–04** | Hands-On **slice b** · [`03`](03-place-lanes.md)–[`04`](04-generate-queue.md) |
-| Task-Spec | Show. **Pause:** [`task-spec.html`](../../presentation/task-spec.html). Return. Mesh is **not** inside it |
+| Task-Spec | Show. **Pause:** [`brf-task-spec.md`](../../ebooks/brf-task-spec.md). Return. Mesh is **not** inside it |
 | Task-Mesh · Linear | Show |
 | **Execute 05–06** | Hands-On **slice c** · [`05`](05-mesh-crank.md)–[`06`](06-packet.md) |
 | **Execute 07–08** | Hands-On **slice d** · [`07`](07-type05-unattended.md)–[`08`](08-half-up.md) |
@@ -93,4 +93,4 @@ Do not paste generate or crank from inside the kits. Come back to this Night HUD
 | Crank | Remaining leaf before Type 01 | Type 01 first — that is the trail |
 | Crank | No packet | Do not settle. Linear does not move |
 | Type 05 | Fix `expected/` to match `HALF_EVEN` | That is the pill. Classify `MODERN_DEFECT`. Fix the plant |
-| Type 06 | Searching the repo | It is not there. Friday |
+| Type 06 | Searching the repo | Night 4 premise: it is not there until Friday. (On a tree that has run Night 5 it **is** there — replay from a worktree at the Night 4 commit, or simply do not open it.) |

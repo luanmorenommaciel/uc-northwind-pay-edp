@@ -1,9 +1,13 @@
 # The Dark Factory — stages, gates, and the doctrine behind them
 
-**Not on this tree.** This is the seed of the later idea — lights-out
-build, stages, gates, the unattended loop. There is no `factory/`
-folder and no detector. Read it as the broader picture the week grows
-into, not as a description of a plant that already runs.
+**Partly on this tree since Night 5 (2026-08-28).** This began as the
+seed of the later idea — lights-out build, stages, gates, the unattended
+loop. There is still no `factory/` folder; the detector is
+`modern/scripts/factory_e2e.py` (seven stages: intake, ground truth, plan,
+build, publish, lakehouse, golden-match), driven by
+`.claude/skills/dark-factory-triage/`. It ran once on Type `06` and
+stalled. Read the rest as the broader picture the plant grew into, and
+the flywheel note at the end as what actually happened.
 
 Companion documents:
 
@@ -28,7 +32,7 @@ confuses an audience:
 
 | | The **build factory** | The **detector** |
 |---|---|---|
-| Where | KurvPay chapter 07; this week, later | Built later — not on the base |
+| Where | KurvPay chapter 07; this week, later | `modern/scripts/factory_e2e.py` — Night 5, not on the base |
 | Job | Manufactures a typed pipeline for a file type | Observes finished runs and attributes defects |
 | Direction | Produces code | Judges output |
 
@@ -334,8 +338,9 @@ a procedure, or "fix" the cent in place. The highlight for the room:
 an agent can catch the system you already trusted, not only a dirty
 file from upstream.
 
-Type `06` stays sealed until that day. Authoring the miss is later
-work. The classification above is the contract for that kit.
+Type `06` stayed sealed until that day. The miss was authored and
+classified on Night 5; the classification above was the contract for
+that kit and the entry below is the receipt.
 
 **Flywheel, 2026-08-28 (this checkout).** Queue in, classified evidence
 out. Type 06 modern Gold is HALF_UP **1.01** `MATCHED` against the

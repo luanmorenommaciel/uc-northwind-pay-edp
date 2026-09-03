@@ -1,6 +1,6 @@
 # The legacy runner
 
-**6,793 lines across 16 files** — the largest single area of the estate and the
+**7,159 lines across 16 files** — the largest single area of the estate and the
 hardest part of the migration. It owns sensing, claiming, locking, dispatch,
 crash recovery, and evidence. It owns **no** parsing and no business logic.
 
@@ -17,15 +17,15 @@ run_type02.py    35 lines   ditto
 facade does *not* invoke them:
 
 ```python
-tests/unit/test_make_facade.py:144        self.assertNotIn("run_type01.py", scenario.stdout)
+tests/unit/test_make_facade.py:158        self.assertNotIn("run_type01.py", scenario.stdout)
 tests/unit/test_worker_acceptance.py:108  self.assertNotIn("run_type01.py", combined)
 ```
 
 They stay because `legacy/` is a frozen oracle and deleting them would be a
 change to frozen truth for cosmetic gain.
 
-**All five types live in `workflow_registry.py`.** The directory lists two type
-numbers; the registry holds five.
+**All six types live in `workflow_registry.py`.** The directory lists two type
+numbers; the registry holds six.
 
 ---
 
@@ -33,7 +33,7 @@ numbers; the registry holds five.
 
 | File | Lines | Owns |
 |---|---:|---|
-| `workflow_registry.py` | 1,963 | The five type adapters and the **only** type dispatch |
+| `workflow_registry.py` | 2,329 | The six type adapters and the **only** type dispatch |
 | `worker.py` | 1,640 | The autonomous poller: sense, claim, lock, recover |
 | `workflow.py` | 1,218 | The shared lifecycle engine every batch runs through |
 | `recovery_journal.py` | 663 | Crash-safe terminal metadata |
@@ -51,7 +51,7 @@ Plus the two dead shims and `requirements.txt`.
 
 ---
 
-## `workflow_registry.py` — five types, one file
+## `workflow_registry.py` — six types, one file
 
 ```text
 class WorkflowAdapter(ABC)        10 abstract methods + 6 overridable members
@@ -60,6 +60,7 @@ class Type02WorkflowAdapter       350 lines
 class Type03WorkflowAdapter       368 lines
 class Type04WorkflowAdapter       371 lines
 class Type05WorkflowAdapter       350 lines
+class Type06WorkflowAdapter       ~355 lines   (Night 5 kit)
 
 WORKFLOWS: Mapping[str, WorkflowAdapter] = MappingProxyType({...})
 def workflow_for_type(type_number) -> WorkflowAdapter
@@ -67,7 +68,7 @@ def workflow_for_type(type_number) -> WorkflowAdapter
 
 The runner is the component whose *whole job* is to be type-agnostic, so unlike
 `processor/` (one package per type) or `postgres/` (one loader per type), it
-keeps its per-type code as five subclasses behind one interface.
+keeps its per-type code as six subclasses behind one interface.
 
 `workflow_for_type` is the **single dispatch point in the entire orchestration
 layer**:
@@ -102,20 +103,21 @@ Plus six overridable evidence members: `java_evidence`,
 `raw_publication_evidence`, `raw_intake_evidence`, `postgres_load_evidence`,
 `final_status_evidence`, and the `oracle_expected_label` property.
 
-**That list is the checklist for an incoming type kit.** A sixth type costs
-~370 lines here and a registry entry — and *zero* changes to the worker, the
-engine, or the recovery journal.
+**That list is the checklist for an incoming type kit.** The estimate was
+~370 lines here and a registry entry, with *zero* changes to the worker,
+the engine, or the recovery journal. The sixth type (Night 5) landed at
+~355 lines and confirmed it.
 
 **Type 01 defines exactly 11 members** — the ten abstract methods plus
 `java_evidence` — and accepts the base class's default evidence writers.
-Types 02–05 define 16–17: the same eleven, plus overrides of
+Types 02–06 define 16–17: the same eleven, plus overrides of
 `raw_publication_evidence`, `raw_intake_evidence`, `postgres_load_evidence`,
 and `final_status_evidence`, plus a private `_observation` helper (and, for
 Type 05, `_rejection_control_fields`).
 
 So the *required* surface is ten methods for every type. The extra six are
-customization the base class already permits — which is the useful number when
-estimating a sixth type: **ten mandatory, six optional.**
+customization the base class already permits — which was the useful number
+when estimating a sixth type: **ten mandatory, six optional.**
 
 ---
 

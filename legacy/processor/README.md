@@ -15,6 +15,7 @@ downstream consumers never treat a partial bundle as ready.
 | `03` | Payment-slip settlement | Separate payment-reference, party, and account HMAC domains |
 | `04` | TED transfer settlement | Dedicated payer/beneficiary account HMAC domain and tax-ID masking |
 | `05` | Merchant fee assessment | CNPJ masking, safe Unicode description passthrough, and exact `HALF_UP` fee calculation |
+| `06` | Merchant chargeback (Night 5 kit) | CNPJ masking, whole-output CNPJ scan, and a **planted `HALF_EVEN`** chargeback rounding where the contract says `HALF_UP` — the `CONFIRMED_LEGACY_DEFECT` the factory catches. Frozen; do not fix |
 
 The file extension never selects a parser. `ProcessorDispatcher` requires the
 manifest number, code, contract version, and layout version to agree with one
@@ -22,7 +23,7 @@ registered processor. An optional `--type` argument is an assertion, not an
 override.
 
 The shared command-line launcher is
-`com.northwindpay.legacy.core.ProcessorMain`; it registers all five processors
+`com.northwindpay.legacy.core.ProcessorMain`; it registers all six processors
 and therefore does not belong to any individual type package. The executable
 JAR keeps the existing `--batch-id` and optional `--type` interface.
 
@@ -33,7 +34,7 @@ Python workflow applies a second explicit adapter allowlist before evidence or
 terminal-recovery journaling. “Privacy-safe” does not mean “aggregate-only” for
 every type: Type `01` may retain its contract-approved safe transaction
 reference and derived amount/count context. PAN, CPF, raw rows, and
-unallowlisted fields remain forbidden. Types `02`–`05` retain their documented
+unallowlisted fields remain forbidden. Types `02`–`06` retain their documented
 aggregate-only rejection projections.
 
 ## Type 03 validation boundary
@@ -150,9 +151,10 @@ regressions:
 make test-java
 ```
 
-The current source-converged Java gate runs 78 tests across Types `01`–`05`.
+The current source-converged Java gate runs 80 tests across Types `01`–`06`
+(78 on the five-type base plus two for the Night 5 Type `06` kit).
 That parser/build gate is distinct from live SFTP/PostgreSQL evidence. Both
-passed on 2026-07-24: the Java gate contributed 78 passing tests to the clean
+passed on 2026-07-24 for the base: the Java gate contributed 78 passing tests to the clean
 `make test` portfolio, while the separate synchronous portfolio completed 15
 accepted conversions and 10 expected conversion/source quarantines across all
 five types. The automatic worker independently completed the same `15/10`

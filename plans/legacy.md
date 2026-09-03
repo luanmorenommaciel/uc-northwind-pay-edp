@@ -10,6 +10,16 @@ Nothing in `legacy/`, `contracts/`, `gen/`, or `infra/` may be edited to
 make a later fabric, detector, or gate pass. When two components
 disagree, the contract decides which one is wrong.
 
+**Since the 2026-07-24 ledger:** the Night 5 kit added a sixth type to the
+legacy plant — `Type06Processor.java`, `legacy/postgres/type06_loader.py`,
+migration `011_type06_merchant_chargeback.sql`, `Type06WorkflowAdapter`,
+four generator scenarios, and `make run TYPE=06`. It is **not** part of
+the five-type proof below (`make test-e2e` still refuses `TYPE=06`), and it
+is the plant the factory found wrong: legacy rounds the `1.005` cent
+`HALF_EVEN` to `1.00` where the contract says `HALF_UP` `1.01`
+(`CONFIRMED_LEGACY_DEFECT`, `evidence/factory/type-06.json`). The ledger
+below is left as written.
+
 ## How the engagement uses this document
 
 | Moment | What you take from here |
@@ -100,9 +110,9 @@ the generic synchronous runner, and the automatic manifest-ready worker.
 | Live automatic-worker proof | Live verified 2026-07-24 through the full `make test` gate |
 | Type `01` parity proof | Re-standardized and independently live verified 2026-07-24 through `make test-type01` |
 | Legacy stopping boundary | Complete |
-| Modern pipeline | Not on this tree. Specified by [`modern.md`](modern.md) and built during the week |
-| Inbound customer drop | Compiled under [`spec/`](../spec/README.md) for Types `01`–`05`. Type `06` sealed |
-| Dark Factory | Not on this tree. Built later. Day five red pill: Type `06` may expose a `CONFIRMED_LEGACY_DEFECT` — classify, do not edit this plant to hide it |
+| Modern pipeline | Built during the week under `modern/` for Types `01` and `06` (ingest packages for `02`–`05`). Specified by [`modern.md`](modern.md) |
+| Inbound customer drop | Compiled under [`spec/`](../spec/README.md) for Types `01`–`05`; Type `06` docked Night 5 |
+| Dark Factory | `modern/scripts/factory_e2e.py`, Night 5. The day-five red pill landed: Type `06` exposed a `CONFIRMED_LEGACY_DEFECT` — classified, and this plant was not edited to hide it |
 
 The authoritative evidence comes from separate clean synchronous and
 automatic-worker runtimes. It records the current checkout's integrated
@@ -143,8 +153,9 @@ calculate the right value and preserve the disagreement as evidence.
 - Parquet, dlt, DuckLake, DuckDB, dbt, Dagster, FastAPI, or MCP.
 - Production connectivity or production fidelity claims.
 - The complete 30-plus file-type estate.
-- The modern fabric (`modern/`) and its Make targets.
+- The modern fabric (`modern/`) and its scripts.
 - Dark Factory implementation.
+- Type `06` — added to this plant on Night 5, outside this ledger.
 
 Types `06`–`10`, if later authorized, extend this baseline but are not part of
 the current definition of done.
@@ -891,10 +902,11 @@ for the modern fabric or a later detector to rewrite.
 fixtures. They prove the process exposes enough information for an
 observer to detect, attribute, isolate, and record a mismatch.
 
-No observer is on this tree. The modern pipeline is specified in
-[`modern.md`](modern.md) and built during the week. A read-only detector
-is later still. What must never exist, by design: a remediation engine
-that silently repairs the source. An observer reports; it never repairs.
+At the time of this ledger no observer was on the tree. The modern
+pipeline specified in [`modern.md`](modern.md) was built during the week,
+and the read-only detector (`modern/scripts/factory_e2e.py`) followed on
+Night 5. What must never exist, by design: a remediation engine that
+silently repairs the source. An observer reports; it never repairs.
 
 The contract below is what the detector operates under, and what any future
 observer must also honor:
@@ -943,8 +955,8 @@ Continuous intake, locking, heartbeat, four exact-batch restart seams,
 retained-cache terminal replay without a second Java invocation, peer
 continuation, ambiguity handling, cache integrity, quarantine uncertainty, and
 graceful shutdown were also verified. That observable legacy baseline
-completes this round. The modern fabric is next and is specified in
-[`modern.md`](modern.md). A read-only detector remains unimplemented.
+completes this round. The modern fabric that followed is specified in
+[`modern.md`](modern.md); the read-only detector arrived on Night 5.
 
 ## Completed definition of done
 

@@ -15,8 +15,8 @@ LF. Manifests are readiness markers and are renamed from `.part` last.
 Consumers first validate the common envelope, then dispatch from the exact
 `file_type.number` or `contract.type_number` branch. They must also cross-check
 the manifest type, filename, header code, layout version, date, and batch ID.
-The file extension alone never selects a parser. Types `01` through `05` have
-closed branches; cross-pairing one type's identity, filenames, controls, or
+The file extension alone never selects a parser. Types `01` through `06` have
+closed branches (`06` carries `MER_CHGBK06`); cross-pairing one type's identity, filenames, controls, or
 lineage with another type is invalid.
 
 JSON Schema closes the artifact shape and type-specific filename grammar.
@@ -32,4 +32,7 @@ requires `return_count <= transfer_count`, `row_count = transfer_count +
 return_count`, exact filename/header/trailer identity, and signed-control
 equality; Type `05` requires row count and source/stage controls to agree,
 source filename date and batch to match every row, and assessed fee to equal
-the independently calculated `HALF_UP` fee.
+the independently calculated `HALF_UP` fee; Type `06` requires each
+chargeback amount to equal `original × rate ÷ 100` rounded `HALF_UP` at
+scale 2 per row, and the batch control to equal the sum of those rounded
+rows, both at tolerance `0.00`.

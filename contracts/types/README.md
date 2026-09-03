@@ -5,9 +5,10 @@ PostgreSQL, and the independent oracles all read from here; none of them may
 define correctness themselves. When two implementations disagree, this folder
 decides which one is wrong.
 
-The base is these **five** types. The week works `01`–`05`. Type `06`
-is not in the registry. It arrives on day five as the factory's
-unseen kit, not as an empty folder.
+The base is the **five** types `01`–`05`, which the week works Nights 1–4.
+Type `06` is the sixth registry entry: it arrived on Night 5 (2026-08-28)
+as the factory's unseen kit, not as an empty folder, and is not part of
+the base sign-off in [`../README.md`](../README.md).
 
 The cross-type transport envelopes live one level up in
 [`../common/`](../common/README.md). This document covers the per-type
@@ -22,8 +23,8 @@ number, status, folder, slug, business name, `file_type_code`, extension,
 layout style, purpose, and what the type is meant to exercise.
 
 A type that is not in the registry does not exist. Nothing dispatches on a file
-extension — `.dat` is used by Types `01` and `04`, and `.csv` by Type `05` and
-by every sanitized output in the system.
+extension — `.dat` is used by Types `01` and `04`, `.csv` by Types `05` and
+`06`, and `.csv` by every sanitized output in the system.
 
 ---
 
@@ -78,6 +79,15 @@ two expected artifacts drop the scenario name:
 | `valid-minimal` | `valid-minimal.csv` | `expected-sanitized.csv`, `expected-reconciliation.yaml` |
 | `valid-boundary` | `valid-boundary.csv` | `expected-valid-boundary-sanitized.csv`, `expected-valid-boundary-reconciliation.yaml` |
 
+Type `06` is the exception in *location*: its `main/` holds only the
+expected outputs (`expected-reconciliation.yaml`,
+`expected-valid-boundary-reconciliation.yaml`,
+`expected-legacy-miss-reconciliation.yaml`, `expected-malformed-rejection.yaml`);
+the inputs and their `.sha256` sidecars live in
+[`../../spec/type-06-merchant-chargeback/samples/`](../../spec/type-06-merchant-chargeback/samples/),
+because the kit docked through `spec/`. There is no `expected-sanitized.csv`
+for Type `06`; the reconciliation file is its oracle.
+
 Reading the folder alone will not tell you that. It is recorded here because
 the names are load-bearing — Java resolves fixtures by path through
 `-Dcontract.fixture.root`, and DataGen, the oracles, the modern pipeline, and
@@ -92,21 +102,26 @@ Every type carries the same four roles, plus one edge case of its own:
 | `valid-minimal` | The baseline happy path — the smallest complete batch |
 | `valid-boundary` | Extreme but legal values: maximum amounts, leap-year dates |
 | `malformed` | A transport or grammar violation — must be **refused** |
-| `DF-SOURCE-00N` | The **injected source defect** — one cent, refused, attributed |
-| *(type-specific)* | `negative-overpunch` `01` · `escaped-content` `02` · `multi-lot` `03` · `all-returned-zero-net` `04` · `rounding-half-up` `05` |
+| `DF-SOURCE-00N` | The **injected source defect** — one cent, refused, attributed (`01`–`05` only; there is no `DF-SOURCE-006`) |
+| *(type-specific)* | `negative-overpunch` `01` · `escaped-content` `02` · `multi-lot` `03` · `all-returned-zero-net` `04` · `rounding-half-up` `05` · `legacy-miss` `06` |
 
 The `DF-SOURCE-*` batch is the most important fixture in the repository. The
 source declares a total its own detail rows contradict. Both implementations
 must independently compute the true value, **refuse the batch**, preserve the
 wrong declaration exactly as published, and let unrelated batches continue.
 
+Type `06` inverts the roles. Its `legacy-miss` batch carries **no** source
+lie: the source is right and the contract says `1.01`; it is the live Java
+plant that rounds the cent differently. The honest classification is
+`CONFIRMED_LEGACY_DEFECT`, and frozen `legacy/` is not patched to go green.
+
 ---
 
 ## Who reads what
 
-The **base** consumers are the first four rows. Modern and the detector are
-later readers of the same files; they are not required for a batch to be
-correct.
+The **base** consumers are the first four rows. Modern (`modern/`) reads
+the same files for Types `01` and `06` today; it is not required for a
+batch to be correct.
 
 | Consumer | When | Reads | Never reads |
 |---|---|---|---|
@@ -114,10 +129,10 @@ correct.
 | Legacy Java | Base | `layout.yaml`, `privacy.yaml`, `main/` fixtures | Modern anything |
 | Legacy PostgreSQL | Base | `reconciliation.yaml` | — |
 | Oracles (`validation/oracle/`) | Base | `main/` expected outputs | Implementation code |
-| Modern (`modern/`) | Later | All four YAMLs, `main/` inputs and expected outputs | **Java, legacy CSV, legacy PostgreSQL** |
+| Modern (`modern/`) | Nights 2–5 | All four YAMLs, `main/` inputs and expected outputs | **Java, legacy CSV, legacy PostgreSQL** |
 
-The bold exclusion is the one that matters. When the modern fabric is built,
-it reads the *contract*, never the Java. Reading the Java would be copying
+The bold exclusion is the one that matters. The modern plant reads the
+*contract*, never the Java. Reading the Java would be copying
 the answer and calling it a proof — and any defect in the old implementation
 would be reproduced faithfully and then declared "parity".
 
@@ -127,7 +142,7 @@ would be reproduced faithfully and then declared "parity".
 
 1. **Reserve the identity** — add a `registry.yaml` entry with number, slug,
    `file_type_code`, extension, and what the type is meant to exercise. Pick a
-   layout style that stresses something the existing five do not.
+   layout style that stresses something the existing six do not.
 2. **Write the four YAMLs** — layout, csv, privacy, reconciliation. Give the
    type its own `canonical_rejection_codes`.
 3. **Write `README.md`** — why this layout exists, detection and transport, the

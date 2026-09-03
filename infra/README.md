@@ -151,7 +151,9 @@ worth knowing all three before you go looking:
 | Tracked? | **No** — nothing records that they ran | **Yes** — `control.schema_migrations` stores name + SHA-256 |
 | Re-runnable? | No; destroy the volume to re-run | Yes; checksums are verified, drift is refused |
 
-Only the ten `.sql` migrations appear in `control.schema_migrations`. The two
+Only the eleven `.sql` migrations appear in `control.schema_migrations`
+(`001`, `003`–`011` under `migrations/`, plus `002_type01_procedures.sql`
+under `procedures/`). The two
 shell scripts create the application role and its grants — work that must exist
 *before* any schema does, which is why it cannot be a tracked migration.
 
@@ -160,12 +162,13 @@ numbers overlap:
 
 ```text
 init/         000_create_app_role.sh   003_grants.sh
-migrations/   001_…sql  002_…sql  003_multitype_control_plane.sql  …  010_…sql
+migrations/   001_…sql  003_multitype_control_plane.sql  …  010_…sql  011_type06_merchant_chargeback.sql
+procedures/   002_type01_procedures.sql
 ```
 
 There are two different "003". On first container start Docker runs the mounted
 files in filename order — `000.sh`, `001.sql`, `002.sql`, `003_grants.sh` — and
-`migrate.py` then applies and records `001`–`010` itself. When someone says
+`migrate.py` then applies and records `001`–`011` itself. When someone says
 "migration 003", ask which sequence they mean.
 
 ---

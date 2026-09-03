@@ -1,6 +1,6 @@
 # 09 · Pass 5 — Task-Spec (Type 01 lakehouse)
 
-- Slide: Execute 09 (Hands-On **slice c · leaf** · chip **09**) after Task-Spec Show + [`../../presentation/task-spec.html`](../../presentation/task-spec.html)
+- Slide: Execute 09 (Hands-On **slice c · leaf** · chip **09**) after Task-Spec Show + [`../../ebooks/brf-task-spec.md`](../../ebooks/brf-task-spec.md)
 - Slice: **C · Leaf**
 - Who: instructor authors the first lakehouse leaf in public, then every seat
 - Next: [`10-landing.md`](10-landing.md) on Execute 10–12

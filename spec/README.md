@@ -121,12 +121,12 @@ for it.
 
 | Method | What it does with the drop |
 |---|---|
-| **Second Brain** | Day 1 compiles inbound (not samples) into NotebookLM. Days 2–4 query it. Type `06` is not in the zip |
+| **Second Brain** | Day 1 compiles inbound (not samples) into NotebookLM. Days 2–4 query it. Type `06` is deliberately not in the zip — `build.sh` packs `01`–`05` only |
 | **Brief-Spec** | Each day has a type: unpack is exploration, a contradiction is review, a parser is implementation |
 | **Converge** | **Day 1:** Pass 0–1 compile the folder into a BRD / tech-spec. **Day 2:** Pass 2 writes ADRs; Pass 4 attacks contradictions **before** code |
 | **Seamwise** | Attaches at Pass 3 (Day 2). Seams from the drop: raw → sanitize → stage → apply → report. One owner per handoff |
 | **Task-Spec** | Only after Consensus (Day 2, Pass 5). Each leaf has evals against `expected/`. No eval, no task |
-| **Dark Factory seed** | [`plans/dark-factory.md`](../plans/dark-factory.md) — later, Type `06` is a new drop, not this folder |
+| **Dark Factory** | [`plans/dark-factory.md`](../plans/dark-factory.md) — Type `06` docked here on Night 5 as a new drop; the factory ran it and stalled `CONFIRMED_LEGACY_DEFECT` |
 
 The room should spend real time in "meetings" that the notes set up:
 walk the unused columns, pick a vocabulary, refuse a sample that has
@@ -152,7 +152,7 @@ meeting used the wrong noun.
 
 | Piece | Status |
 |---|---|
-| This page | The drop contract. Week = Types `01`–`05`. Day five = Type `06`. |
+| This page | The drop contract. Nights 1–4 = Types `01`–`05`. Night 5 = Type `06`. |
 | Second Brain | Compiled from this folder: [`brain/notebooklm/`](../brain/notebooklm/README.md). Nine packs. |
 | [`estate/`](estate/README.md) | Compiled. Cover, five meetings, two mails, two policies. |
 | [`type-01-…`](type-01-card-settlement/README.md) | Compiled. inbound / samples / expected |
@@ -160,7 +160,7 @@ meeting used the wrong noun.
 | [`type-03-…`](type-03-payment-slip-settlement/README.md) | Compiled |
 | [`type-04-…`](type-04-ted-transfer-settlement/README.md) | Compiled |
 | [`type-05-…`](type-05-merchant-fee-assessment/README.md) | Compiled. Same shape as the others. |
-| Type `06` | **Not here.** Sealed until day five. No empty folder. |
+| [`type-06-…`](type-06-merchant-chargeback/README.md) | **Docked Night 5 (2026-08-28).** inbound / samples (+ `.sha256`) / expected. Was sealed until then; still absent from the brain zip. |
 
 ## Gate before a pack is written
 
@@ -179,7 +179,9 @@ Fail any one and we do not write that type.
 
 1. `estate/` — cover, five notes, two mails, two policies.
 2. Types `01`–`05` — inbound / samples / expected. Five equal drops.
-3. Type `06` — **not written.** Sealed until day five.
+3. Type `06` — written and docked on Night 5 (2026-08-28). It was sealed
+   until then; it is the drop a fresh Night 5 rediscovers, so keep it out
+   of the Day 1 brain.
 
 The room starts on a drop, not on a pointer. Rebuild the brain whenever
 inbound changes: `bash brain/notebooklm/build.sh`. The factory learns on

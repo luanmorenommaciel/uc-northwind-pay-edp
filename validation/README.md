@@ -1,13 +1,13 @@
 # The referees
 
 **The two referees.** Neither implementation may mark its own work. This
-folder is deliberately outside both `legacy/` and the later `modern/` —
+folder is deliberately outside both `legacy/` and `modern/` —
 a referee that lives in a player's folder is not a referee.
 
 ```text
 validation/
 ├── oracle/           the legacy referee — one module per type + tests
-└── golden-match/     the modern referee — attached when that plant exists
+└── golden-match/     the modern referee — attached for Types 01 and 06 via modern/validation/
 ```
 
 ---
@@ -110,11 +110,15 @@ exact scale-two lexeme or it is refused — no padding, no
 | Referee | Tests |
 |---|---|
 | `oracle/` | `validation/oracle/tests/` — one suite per type, run by `make check` |
-| `golden-match/` | Not wired on this tree. Tests land with the modern implementation |
+| `golden-match/` | `tests/modern/test_type01_golden_match.py` — no `make` target runs it; use `modern/.venv/bin/python -m pytest tests/modern` |
 
-`golden-match` is the later referee. The module stays so the week has a
-comparison contract to attach; the modern pipeline that feeds it is built
-during the week. See [`../plans/modern.md`](../plans/modern.md).
+`golden-match` is the modern referee. The module was on the tree before the
+modern plant so the week had a comparison contract to attach; the plant
+built during the week attaches to it through
+`modern/validation/attach_type01.py` and `attach_type06.py`, and the
+packets land under `evidence/` (Type `06`: `evidence/factory/type-06.json`,
+`CONFIRMED_LEGACY_DEFECT`). Types `02`–`05` are not attached yet. See
+[`../plans/modern.md`](../plans/modern.md).
 
 ## What must not change
 

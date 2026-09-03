@@ -5,7 +5,7 @@
 - Who: instructor drafts the first ADR in public, then every seat
 - Next: [`09-decompose.md`](09-decompose.md)
 
-Seamwise kit already ran. Do not reopen `seamwise.html` for this beat.
+Seamwise kit already ran. Do not reopen the SeamWise kit (`ebooks/ebook-seamwise.pdf`) for this beat.
 
 What is true, never how. Close or **park** the ten questions in `plans/modern.md`. Tonight must close landing facts.
 

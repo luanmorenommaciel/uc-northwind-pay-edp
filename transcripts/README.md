@@ -26,12 +26,12 @@ tr-dN-<seat>.cc.vtt
 |---|---|---|
 | [`tr-d1-archaeologist.cc.vtt`](tr-d1-archaeologist.cc.vtt) | 1 | Archaeologist (SA + AI) — **on disk** |
 | [`tr-d2-translator.cc.vtt`](tr-d2-translator.cc.vtt) | 2 | Translator (SWE) — **on disk** |
-| `tr-d3-constructor.cc.vtt` | 3 | Constructor (DE + analytics) — not here yet |
-| `tr-d4-orchestrator.cc.vtt` | 4 | Orchestrator — not here yet |
-| `tr-d5-dark-factory.cc.vtt` | 5 | Dark Factory — not here yet |
+| [`tr-d3-constructor.cc.vtt`](tr-d3-constructor.cc.vtt) | 3 | Constructor (DE + analytics) — **on disk** |
+| [`tr-d4-orchestrator.cc.vtt`](tr-d4-orchestrator.cc.vtt) | 4 | Orchestrator — **on disk**, not yet committed |
+| [`tr-d5-dark-factory.cc.vtt`](tr-d5-dark-factory.cc.vtt) | 5 | Dark Factory — **on disk**, not yet committed |
 
-`.cc.vtt` = WebVTT closed captions. Drop the next Night’s file here with
-the same shape.
+`.cc.vtt` = WebVTT closed captions. All five Nights are captioned; the
+last two are untracked in git until someone adds them.
 
 ---
 
@@ -41,7 +41,8 @@ The week is one steel thread that **widens**: Type `01` card settlement,
 trailer lie **173.44** vs rows **173.45**, keep the declaration, refuse
 the batch. Days 2–3 run **Type 01 only** (SWE landing, then DE Gold).
 Day 4 walks the Type 01 trail, then generates remaining SWE+DE and cranks the loop. Autonomy goes up.
-HITL goes down. Type `06` stays sealed until Friday.
+HITL goes down. Type `06` stays sealed until Friday, then docks and stalls
+`CONFIRMED_LEGACY_DEFECT`.
 
 ### Night 1 — Archaeologist · understand
 
@@ -87,7 +88,7 @@ Tonight you recap, bind the machine, query, sign, and hold **one** leaf.
 
 Staff: [`run/d2/`](../run/d2/README.md) — 12 beats, five boards.
 Deck live: [`d2-translator.html`](../presentation/d2-translator.html).
-Kit pauses: [`seamwise.html`](../presentation/seamwise.html), [`task-spec.html`](../presentation/task-spec.html).
+Kit pauses: [`ebook-seamwise.pdf`](../ebooks/ebook-seamwise.pdf), [`brf-task-spec.md`](../ebooks/brf-task-spec.md).
 
 ### Night 3 — Constructor · Gold
 
@@ -130,7 +131,8 @@ Deck live: [`d3-constructor.html`](../presentation/d3-constructor.html).
    `expected/`. Do not break Java.
 7. Type `06` still absent.
 
-Staff: [`run/d4/`](../run/d4/README.md) — 9 beats, four boards. Trail first. Stage live.
+Staff: [`run/d4/`](../run/d4/README.md) — 9 beats, four boards. Trail first.
+Deck live: [`d4-orchestrator.html`](../presentation/d4-orchestrator.html).
 
 ### Night 5 — Dark Factory · classify
 
@@ -145,6 +147,9 @@ Staff: [`run/d4/`](../run/d4/README.md) — 9 beats, four boards. Trail first. S
    `CONFIRMED_LEGACY_DEFECT` — the **main plant**, not the file.
 5. Stall the type. Write the evidence. **Do not** edit frozen `legacy/`
    to go green.
+
+Staff: [`run/d5/`](../run/d5/README.md) — pre-flight + 6 beats.
+Deck live: [`d5-dark-factory.html`](../presentation/d5-dark-factory.html).
 
 The workshop deck [`wrkp-dark-factory.html`](../presentation/wrkp-dark-factory.html)
 is not this Night’s HUD.

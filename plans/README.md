@@ -8,21 +8,23 @@ plant that already runs.
 
 They are **not** the night's clock. Scope is [`agenda/`](../agenda/README.md).
 Staff: [`run/d1/`](../run/d1/README.md) · [`run/d2/`](../run/d2/README.md) ·
-[`run/d3/`](../run/d3/README.md) · [`run/d4/`](../run/d4/README.md). Decks: Night 1–3 HTML live. Night 4 Stage live, clock trail-first (9 beats). Papers:
+[`run/d3/`](../run/d3/README.md) · [`run/d4/`](../run/d4/README.md) · [`run/d5/`](../run/d5/README.md). Decks: all five Nights' HTML live. Papers:
 [`docs/`](../docs/README.md). **One Night** each day — no morning / afternoon
 split.
 
 **Week story:** Days 2–3 are **Type 01 steel threads** (SWE ingest → landing,
 then DE landing → Gold). Day 4 teaches **Context · Eval · Loop**, **walks the Type 01 trail**, then **generates remaining swimlanes / SWE+DE
 leaves** and cranks them (Mesh + Pass 6–8, Linear). Day 5 is sealed Type `06`.
+All five Nights have run (2026-08-24 → 2026-08-28); Day 5 stalled Type `06`
+as `CONFIRMED_LEGACY_DEFECT`.
 
 | Plan | What it is | When you open it |
 |---|---|---|
 | [`legacy.md`](legacy.md) | The completed local baseline: architecture, operating model, 25-batch catalog, and the 2026-07-24 proof ledger | Before anyone touches a later fabric. This is what must stay true. Day 1 boots it until Type `01` **MATCHED**. |
 | [`modern.md`](modern.md) | The specification the second implementation must satisfy: independence rules, type map, golden-match, milestones, definition of done | Day 2 Structure (close or park). Day 3 unparks lakehouse facts and closes Type `01` Gold. Day 4 **Context · Eval · Loop**, trail, then remaining types. **Not** a license to write `modern/` on Day 1. |
-| [`dark-factory.md`](dark-factory.md) | The later idea: lights-out build, stages, gates, unattended loop | When the room needs the broader picture. Enhance it as the week writes the factory. Day 5 runs it on sealed Type `06`. |
+| [`dark-factory.md`](dark-factory.md) | The later idea: lights-out build, stages, gates, unattended loop | When the room needs the broader picture. Enhance it as the week writes the factory. Day 5 ran it on sealed Type `06`. |
 
-The detector is still later. It is not a finished `factory/` folder.
+The detector is `modern/scripts/factory_e2e.py`, not a `factory/` folder.
 
 ## How the two plans work together
 

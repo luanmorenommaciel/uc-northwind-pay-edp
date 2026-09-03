@@ -25,7 +25,7 @@ Seams: **`ingest-landing`**, **`dlt-gold`**, **`orchestrate-serve`**. Papers: [`
 |---|---|---|---|
 | **A · Recap** | [`01`](01-recap-type01.md) | **Execute 01** | landing · Gold MATCHED 173.45 · both questions true · loop packet · 173.44 kept |
 | **B · Register** | [`02`](02-linear-register.md) | **Execute 02** | `_linear-board.md` · settled vs queued · `cvg/swimlanes/` |
-| **C · Types** | [`03`](03-look-up-02-05.md) | **Execute 03** | eight unsigned leaves · Type 05 four packets · no modern `02`–`05` folders |
+| **C · Types** | [`03`](03-look-up-02-05.md) | **Execute 03** | eight unsigned leaves · Type 05 four packets · `02`–`05` ingest folders present but unsigned (no lakehouse code) |
 | **D · Smoke** | [`04`](04-pipeline-smoke.md) | **Execute 04** | Type 01 Gold replay from landing · DuckDB rows · dbt green · six Dagster assets |
 | **E · Factory** | [`05`](05-type06-converge.md) | **Execute 05** | drop → 0–8 → packet · stall |
 | **Close** | [`06`](06-flywheel.md) | Flywheel | three pills from evidence · do not patch Java |

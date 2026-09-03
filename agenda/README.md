@@ -38,8 +38,9 @@ Every day closes with three parts: **role skills** (the seat), **deliverables**
 
 The inbound drop is [`spec/`](../spec/README.md). The engagement map is
 [`plans/`](../plans/README.md). The operator surface is the root
-[`README.md`](../README.md). Type `06` is **not** in `spec/` until Friday
-morning.
+[`README.md`](../README.md). Type `06` was **not** in `spec/` until Friday
+morning (it docked 2026-08-28 and is there now; the week's clocks still
+treat it as sealed until Night 5).
 
 The human Second Brain for the week is
 [`brain/notebooklm/`](../brain/notebooklm/README.md) — nine packs, types
@@ -59,15 +60,15 @@ Tuesday night the legacy is specified, structured, and designed as leaves.
 |---|---|
 | 1 | [`presentation/d1-archaeologist.html`](../presentation/d1-archaeologist.html) — live. 44 slides. Staff: [`run/d1/`](../run/d1/README.md) — 17 beats, six slices A–F + Close 17 |
 | 2 | [`presentation/d2-translator.html`](../presentation/d2-translator.html) — live, 34 slides, six blocks. Staff: [`run/d2/`](../run/d2/README.md) — 12 beats, five Hands-On boards |
-| 3 | [`presentation/d3-constructor.html`](../presentation/d3-constructor.html) — **live**. Identify by `data-act-name`. Staff: [`run/d3/`](../run/d3/README.md) — 13 beats, four boards |
-| 4 | Stage live. Staff: [`run/d4/`](../run/d4/README.md) — 9 beats. Trail, then factory |
+| 3 | [`presentation/d3-constructor.html`](../presentation/d3-constructor.html) — **live**, 37 slides. Identify by `data-act-name`. Staff: [`run/d3/`](../run/d3/README.md) — 13 beats, four boards |
+| 4 | [`presentation/d4-orchestrator.html`](../presentation/d4-orchestrator.html) — live, 28 slides, six blocks. Staff: [`run/d4/`](../run/d4/README.md) — 9 beats. Trail, then factory |
 | 5 | Deck live: [`presentation/d5-dark-factory.html`](../presentation/d5-dark-factory.html) — 28 slides, six blocks. Staff live: [`run/d5/`](../run/d5/README.md) — pre-flight `00` + 6 beats. Do not use `wrkp-dark-factory.html` as the HUD |
 
 ## What is frozen vs what the week writes
 
 | Already on the tree | Written during the week |
 |---|---|
-| Legacy plant, five contracts, DataGen, oracles | Second Brain (Day 1, queried all week) + OntoLayer, Converge artifacts, `modern/` for Types `01`–`05` |
+| Legacy plant, five contracts, DataGen, oracles | Second Brain (Day 1, queried all week) + OntoLayer, Converge artifacts, `modern/` for Types `01`–`05` (and `06` on Day 5) |
 | Inbound packs `01`–`05` under `spec/` | ADRs, seams, Task-Specs under [`docs/`](../docs/README.md) (Day 2+) |
 | `validation/golden-match/golden_match.py` | Modern observations attached to that referee |
 | This folder (scope) | Hour-by-hour in [`run/`](../run/README.md); Day 1 PPT is closed |

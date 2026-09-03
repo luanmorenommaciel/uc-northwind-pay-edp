@@ -5,7 +5,7 @@
 - Who: instructor maps in public, room copies
 - Next: [`04-generate-queue.md`](04-generate-queue.md) on the **same board**
 
-Show Converge 6–8 + Linear on Stage. Craft Bind still on. Then **Leave · SeamWise** — park, open [`../../presentation/seamwise.html`](../../presentation/seamwise.html), return. Then **this tile (03)**. Tile **04** waits until the Task-Spec Show on the next HUD.
+Show Converge 6–8 + Linear on Stage. Craft Bind still on. Then **Leave · SeamWise** — park, open [`../../ebooks/ebook-seamwise.pdf`](../../ebooks/ebook-seamwise.pdf), return. Then **this tile (03)**. Tile **04** waits until the Task-Spec Show on the next HUD.
 
 Not “Pass 3 again” as a method class. Place remaining work on the **same two lanes** they just walked, plus tonight’s column.
 
@@ -15,7 +15,7 @@ Skip this board if Type 01 Gold is missing (beat 01 gap).
 
 ```text
 Read docs/seams.md and docs/adrs/0006-later-nights-parked.md.
-You may read presentation/seamwise.html after the kit Show.
+You may read ebooks/brf-seamwise.md after the kit Show.
 Do not recut docs/consensus.md or docs/consensus-lakehouse.md.
 Do not author Task-Specs yet.
 Do not open Type 06.

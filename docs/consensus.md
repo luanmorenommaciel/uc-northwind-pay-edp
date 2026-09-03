@@ -113,3 +113,12 @@ Converge referee `CHECK_CONSENSUS` is still not green (no `cvg/`
 workspace, no swimlane tree, ADR meta). That is host/tooling, not a
 refusal of this plan. Optional follow-up: pin Task-Spec 3.8.x, `cvg
 init`, project seams. Not required to open Pass 5 on this night.
+
+## Status after the sign (not part of the signed text)
+
+- 2026-08-27 (Night 4): `cvg init` ran; `cvg/swimlanes/` holds the three
+  lanes; signed copies of the leaves sit in `cvg/tasks/`.
+- 2026-08-27: Type 01 landing parser leaf settled (`T-20260825-type-01-landing-parser`).
+  Types `02`–`05` ingest packages authored; their leaves remain `signed_off: false`.
+- 2026-08-28 (Night 5): Type 06 got its own sign, [`consensus-type-06.md`](consensus-type-06.md).
+  This ingest sign was not recut.

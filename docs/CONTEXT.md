@@ -8,7 +8,7 @@ Papers live in `docs/`, not `cvg/docs/`.
 | **Inbound** | `spec/` — mail, meetings, layouts, samples. Contradictions allowed. `cover.md` is mail. |
 | **Judge** | `contracts/` — signed layouts and oracles. Outranks inbound prose and outranks code. |
 | **Frozen plant** | `legacy/`, `contracts/`, `gen/`, `infra/`. Do not write. |
-| **Steel thread** | Type 01 card settlement, `CRD_SETTLE01`, `.dat`. Tonight’s slice. Types 02–05 exist; Type 06 does not. |
+| **Steel thread** | Type 01 card settlement, `CRD_SETTLE01`, `.dat`. Tonight’s slice. Types 02–05 exist; Type 06 did not on Day 2 (it docked Night 5). |
 | **Five-file package** | `model → parser → schema → writer → handler`. The Type 01 unit (ADR 0002). |
 | **Landing** | `modern/landing/` — first write of the second plant: sanitized Parquet + readiness manifest. **Not SFTP** (ADR 0001). |
 | **First write (legacy)** | Sanitized CSV on SFTP `csv/outgoing`. Comparison observation only for modern. |
@@ -26,7 +26,8 @@ Papers live in `docs/`, not `cvg/docs/`.
 | **Lakehouse / dlt / dbt / Dagster** | Parked in ADR 0006 at Structure. Day 3 unparks rows 3–7 as **new** ADRs. Day 4 unparks rows 8–9. Do not recut this glossary. |
 | **Context Layer (Day 4)** | Brain (mail) · OntoLayer (where paid lives) · `docs/` (signed) · `contracts/` (judge). `evidence/` is observation. Query; do not grep SQL as the judge. |
 | **Eval / packet (Day 4)** | A Task-Spec eval is a runnable command. Golden-match: two questions, six codes, no tolerance. The loop writes a packet under `evidence/` before Linear moves. |
+| **Legacy defect (Day 5)** | Type 06 `MER_CHGBK06`, `.csv`. Contract `HALF_UP` `1.01`; the frozen Java plant publishes `HALF_EVEN` `1.00` and calls itself MATCHED. Code `CONFIRMED_LEGACY_DEFECT`. Stall the type; do not patch `legacy/` (ADRs 0014–0015, `docs/consensus-type-06.md`). |
 
-This file is Day 2 Structure. Later nights add ADRs; they do not rewrite these rows.
+This file is Day 2 Structure. Later nights add ADRs and rows; they do not rewrite the Day 2 rows.
 
 Do not upload this file into NotebookLM.

@@ -1,6 +1,6 @@
 # NorthWind Pay Second Brain — NotebookLM pack
 
-Human brain for the **whole drop** (types `01`–`05`), not only Day 1. The rest of the week queries this notebook. Type `06` is sealed until Friday. Not the agent’s memory. `spec/` stays on disk.
+Human brain for the **whole drop** (types `01`–`05`), not only Day 1. The rest of the week queries this notebook. Type `06` is deliberately **not** in it: it docked on Friday (2026-08-28) and stays out so a re-run of Night 5 still meets it as a never-seen kit. Not the agent’s memory. `spec/` stays on disk.
 
 Handout: [`northwind-pay-brain.zip`](northwind-pay-brain.zip)
 
@@ -54,7 +54,11 @@ Staff: Day 1 upload [`../../run/d1/12-notebooklm.md`](../../run/d1/12-notebooklm
 
 ### Night 5 (Friday) — new inbound, not this zip
 
-Type `06` is **sealed** until Friday morning. When that drop lands under `spec/`, add a **new pack** and rebuild. Do not invent it now. Do not upload it into the Day 1 notebook in advance.
+Type `06` was sealed until Friday morning and docked under
+`spec/type-06-merchant-chargeback/` on 2026-08-28. `build.sh` still packs
+`01`–`05` only and the notebook stays at nine packs on purpose. If a room
+wants Type `06` queryable **after** its Consensus is signed, add a tenth
+pack in a separate notebook — do not upload it into the Day 1 notebook.
 
 Rebuild packs from `spec/` whenever inbound changes:
 

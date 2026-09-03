@@ -30,7 +30,8 @@ and the **red pill**: golden-match may classify a numeric miss as
 finds it; it does not edit `legacy/` to hide it.
 
 Week clock: [`agenda/`](../agenda/README.md). Staff: [`run/d1/`](../run/d1/README.md)
-· [`run/d2/`](../run/d2/README.md) · [`run/d3/`](../run/d3/README.md) · [`run/d4/`](../run/d4/README.md).
+· [`run/d2/`](../run/d2/README.md) · [`run/d3/`](../run/d3/README.md) · [`run/d4/`](../run/d4/README.md)
+· [`run/d5/`](../run/d5/README.md).
 Papers: [`docs/`](../docs/README.md). **One Night.** Bind is on before any
 `modern/` write.
 
@@ -39,21 +40,25 @@ nothing puts Type `06` in `spec/` before that day.
 
 ## Status and evidence boundary
 
-**Not on this tree.** The boundaries, golden-match rules, per-type
-checklist, and definition of done below are what "done" means when the
-code exists.
+**Partly on this tree (after Night 5, 2026-08-28).** This file was written
+before `modern/` existed and keeps its imperative mood on purpose: the
+boundaries, golden-match rules, per-type checklist, and definition of
+done below are what "done" means. The table records what the week
+actually built; the rest is still the work order.
 
 | Area | Live repository state |
 |---|---|
 | Legacy Types `01`–`05` | Implemented and live verified through contracts, DataGen, SFTP, Java, PostgreSQL, reconciliation, oracle, and evidence |
 | Type `01` parity | Explicitly standardized and independently reverified |
-| Dark Factory | Not on this tree. Built later as a read-only witness |
-| Modern pipeline | **Not on this tree.** Built during the week against this spec |
-| Modern Type `05` | **Not built.** Inbound pack is in [`spec/type-05-merchant-fee-assessment/`](../spec/type-05-merchant-fee-assessment/README.md). Do not search git history for a prior implementation — build it from the drop and the contract |
+| Dark Factory | `modern/scripts/factory_e2e.py` — the seven-stage read-only witness. Ran on Type `06` and stalled `CONFIRMED_LEGACY_DEFECT` (`evidence/factory/type-06.json`) |
+| Modern pipeline | **Built for Types `01` and `06`**: five-file packages → `modern/landing/` Parquet → dlt register-only (`modern/lakehouse/dlt/registration.py`) → dbt Bronze/Silver/Gold (`modern/dbt/`) → golden-match (`modern/validation/attach_type0{1,6}.py`) → Dagster lineage (`modern/orchestration/definitions.py`) |
+| Modern Types `02`–`05` | **Ingest packages built** (Night 4, five files each under `modern/ingestion/src/northwind_pay/types/`). **Lakehouse leaves not built** — no dlt/dbt/golden-match for `02`–`05`. Inbound packs are in [`spec/`](../spec/README.md); build the rest from the drop and the contract, not from git history |
 | Release boundary | Local working-tree and committed-branch content only. **No CI exists**; no clean-checkout or production-readiness claim may be made from this proof |
 
-The proven shared baseline is five types. Types `06`–`10` require new contracts
-and observations before they can enter either legacy parity or modern scope.
+The proven shared baseline is five types. Type `06` entered on Night 5 with
+its own contract kit and Consensus (`docs/consensus-type-06.md`). Types
+`07`–`10` require new contracts and observations before they can enter
+either legacy parity or modern scope.
 
 Where this document and later code disagree, the code and `contracts/`
 win, and the document is the bug — with one exception: the boundaries
@@ -61,14 +66,14 @@ and prohibitions below are binding on the code, not descriptive of it.
 
 ### Already on the tree vs built during the week
 
-| Already here | Built during the week |
+| Already here | Built during the week (✓ = on disk after Night 5) |
 |---|---|
-| Five signed contracts and `main/` oracles | Type `01` five-file package on Days 2–3 (parser leaf Tuesday; emit + Gold Wednesday). Types `02`–`05` generated Thursday |
-| Legacy observations you can re-run any time | Deterministic sanitized Parquet and `modern/landing/` |
-| `validation/golden-match/golden_match.py` — the referee module | dlt + DuckLake/DuckDB + dbt Bronze/Silver/Gold |
-| Inbound packs `01`–`05` under [`spec/`](../spec/README.md) | Dagster, read-only FastAPI, narrow MCP |
+| Five signed contracts and `main/` oracles (six after Night 5) | ✓ Type `01` five-file package on Days 2–3 (parser leaf Tuesday; emit + Gold Wednesday). ✓ Types `02`–`05` ingest packages generated Thursday. ✓ Type `06` package Friday |
+| Legacy observations you can re-run any time | ✓ Deterministic sanitized Parquet and `modern/landing/` |
+| `validation/golden-match/golden_match.py` — the referee module | ✓ dlt + DuckLake/DuckDB + dbt Bronze/Silver/Gold — Types `01` and `06` only |
+| Inbound packs `01`–`05` under [`spec/`](../spec/README.md) (`06` since Night 5) | ✓ Dagster lineage. Read-only FastAPI and narrow MCP — **not built** |
 | Second Brain ([`brain/notebooklm/`](../brain/notebooklm/README.md)) + OntoLayer | Queried as evidence for ADRs. They do not replace a signed ADR |
-| This specification | `tests/modern/`, `make modern-*`, `evidence/modern/` |
+| This specification | ✓ `tests/modern/`, `modern/scripts/` (`bootstrap.sh`, `night_e2e.sh`, `factory_e2e.py`; there is **no** `make modern-*` target), `evidence/` |
 
 The referee module is not an implementation. It compares observations
 it is given. Until modern produces Parquet, Gold, and a terminal status,
@@ -292,7 +297,7 @@ uc-northwind-pay-edp/
 │   ├── README.md                      engagement map
 │   ├── legacy.md                      completed oracle baseline
 │   └── modern.md                      this specification
-├── modern/                            to be built
+├── modern/                            as planned; the built tree differs in places (see note below)
 │   ├── ingestion/
 │   │   └── src/northwind_pay/
 │   │       ├── common/
@@ -314,8 +319,8 @@ uc-northwind-pay-edp/
 │   │   ├── models/silver/
 │   │   ├── models/gold/
 │   │   └── tests/
-│   ├── dagster/
-│   └── serving/
+│   ├── orchestration/                 built as modern/orchestration/definitions.py, not dagster/
+│   └── serving/                       not built
 │       ├── api/
 │       └── mcp/
 ├── validation/
@@ -445,17 +450,18 @@ Dark Factory must not:
 - treat a model judgment as correctness evidence;
 - make an external change without its own contract and approval gate.
 
-The doctrine is the list above. There is no separate detector plan on
-this tree; the detector is built later against the same contracts and
-the observations this fabric will emit.
+The doctrine is the list above. The detector is
+`modern/scripts/factory_e2e.py` (Night 5): seven stages, read-only, built
+against the same contracts and the observations this fabric emits.
 
 ## Build order
 
 This is the week's standing route. Last run executed it and then the
-implementation was removed so the room would build it. Read the
-imperative mood as work to do, not as a history of a folder that is
-no longer here. A sixth type, if one arrives, repeats this order
-rather than inventing one. Type `05` is already an open work order.
+implementation was removed so the room would build it; the week then
+rebuilt it for Type `01` (Nights 2–3), generated `02`–`05` ingest (Night
+4), and ran the sixth type through the same order on Night 5. Read the
+imperative mood as the order of work, not as a claim that nothing is on
+disk. Types `02`–`05` lakehouse leaves are the open work order.
 
 Map to the nights (see [`agenda/`](../agenda/README.md)):
 
@@ -593,9 +599,11 @@ Parquet, lakehouse, dbt, or Gold artifacts that were never created.
 
 ### Closed during the week (Converge / Seamwise, not in this file)
 
-These ten questions have no binding answer on this tree. Last run's
-ADRs were removed so the room would write them. **Close or park them on
-Day 2 as Pass 2 Structure** under [`docs/adrs/`](../docs/README.md) —
+These ten questions were closed during the week as ADRs `0001`–`0012`
+under [`docs/adrs/`](../docs/README.md) (landing on Night 2, lakehouse on
+Night 3, Dagster on Night 4). The list stays as the checklist a fresh
+run must re-close. Last run's ADRs were removed so the room would write
+them. **Close or park them on Day 2 as Pass 2 Structure** —
 facts from the Second Brain and OntoLayer, never how to build —
 **before** the code that depends on them exists. They are not Day 1 work.
 

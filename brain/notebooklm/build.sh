@@ -2,7 +2,7 @@
 # Rebuild the NorthWind Pay NotebookLM packs from spec/. Run from repo root:
 #   bash brain/notebooklm/build.sh
 #
-# The brain is the whole drop (types 01–05) for the week. Type 06 is sealed.
+# The brain is the whole drop (types 01–05) for the week. Type 06 stays out on purpose (never-seen kit).
 # Raw samples and expected/ oracles stay on disk — not in this notebook.
 set -euo pipefail
 root="$(cd "$(dirname "$0")/../.." && pwd)"

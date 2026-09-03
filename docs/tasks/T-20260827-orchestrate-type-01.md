@@ -13,7 +13,7 @@ depends_on:
 supersedes: (none)
 touches_paths: []
 creates_paths:
-  - modern/orchestrate/definitions.py
+  - modern/orchestration/definitions.py
 source_note: "ADR 0012 unparks 0006 row 8; seams.md seam 3; skip Gold hash if Dagster is not up"
 created: 2026-08-27T12:00:00Z
 tags: [orchestrate, dagster, type-01, lineage]
@@ -67,7 +67,7 @@ false.
 ROOT="$(git rev-parse --show-toplevel)"
 SPEC="$ROOT/docs/tasks/T-20260827-orchestrate-type-01.md"
 ADR="$ROOT/docs/adrs/0012-dagster-is-lineage-not-parser.md"
-DEFS="$ROOT/modern/orchestrate/definitions.py"
+DEFS="$ROOT/modern/orchestration/definitions.py"
 PACKET="$ROOT/evidence/modern/B202607230000001/golden-match.json"
 
 eval_1() {
